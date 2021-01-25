@@ -1,0 +1,5 @@
+#+TITLE: intrinsic thermodynamics
+
+** Developed in [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]].
+
+*** See section II.
