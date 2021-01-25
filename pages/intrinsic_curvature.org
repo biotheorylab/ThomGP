@@ -1,4 +1,5 @@
 #+TITLE: intrinsic curvature
 
+** external references
 ** In [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]], [[Eric Smith]] mentions an ostensibly metaphorical relationship between intrinsic curvature and the specification of an [[intrinsic thermodynamics]]
 **
