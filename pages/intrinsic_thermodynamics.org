@@ -3,5 +3,5 @@
 ** Developed in [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]].
 
 *** See section II.C.3 on ~Intrinsic and extrinsic thermodynamics~
-**** We take $\mathbb{T}^s$ and $D(\rho^s \vert\vert \bar{\rho}^s)$ as a specification of the /intrinsic thermodynamics/ of the system $s$, analogous to the role of [[intrinsic curvature]] of a manifold in differential geometry
+**** We take $\mathbb{T}^s$ and $D(\rho^s \vert\vert \bar{\rho}^s)$ as a specification of the /intrinsic thermodynamics/ of the system $s$, analogous to the role of [[intrinsic curvature]] of a manifold in [[differential geometry]]
 ****
