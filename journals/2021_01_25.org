@@ -3,5 +3,3 @@
 ** This is an initial test of logseq for notes on ThomGP
 ** $\sum_{i=1}^{n} x_i$
 ** [[intrinsic curvature]]
-** [[Jan 24th, 2021]]
-** [[Jan 8th, 2021]]
