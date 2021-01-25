@@ -1,4 +1,4 @@
 #+TITLE: intrinsic curvature
 
-** In [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]]
+** In [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]], [[Eric Smith]] mentions
 ** We 
