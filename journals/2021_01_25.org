@@ -1,5 +1,5 @@
 #+TITLE: Jan 25th, 2021
 
 ** This is an initial test of logseq for notes on ThomGP
-** $\sum_{x}$
+** $\sum_{i=1}^{n} x_i$
 **
