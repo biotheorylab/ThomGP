@@ -5,7 +5,7 @@
 *** See section II.C.3 on ~Intrinsic and extrinsic thermodynamics~
 ****
 #+BEGIN_QUOTE
-
+We take $\mathbb{T}^s$ and $D(\rho^s \vert\vert \bar{\rho}^s)$ as a specification of the /intrinsic thermodynamics/ of the system $s$, analogous to the role of [[intrinsic curvature]] of a manifold in [[differential geometry]]
 #+END_QUOTE
 ****
 ***
