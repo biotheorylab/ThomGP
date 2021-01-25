@@ -3,4 +3,5 @@
 ** Developed in [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]].
 
 *** See section II.C.3 on ~Intrinsic and extrinsic thermodynamics~
-**** We take $\mathbb{T}^s$ and
+**** We take $\mathrm{T}^s$ and
+****
