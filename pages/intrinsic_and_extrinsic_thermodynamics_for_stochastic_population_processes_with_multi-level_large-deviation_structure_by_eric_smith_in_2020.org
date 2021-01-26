@@ -2,4 +2,3 @@
 
 ** citation
 *** E. Smith, “Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure,” Entropy, vol. 22, no. 10, p. 1137, Oct. 2020
-***
