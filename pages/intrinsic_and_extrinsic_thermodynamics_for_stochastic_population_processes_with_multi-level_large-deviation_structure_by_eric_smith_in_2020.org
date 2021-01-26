@@ -3,12 +3,3 @@
 ** citation
 *** E. Smith, “Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure,” Entropy, vol. 22, no. 10, p. 1137, Oct. 2020
 ***
-#+BEGIN_SRC python
-a = [1,0,0,1]
-a.size
-#+END_SRC
-***
-#+BEGIN_SRC maxima
-1+1;
-#+END_SRC
-***
