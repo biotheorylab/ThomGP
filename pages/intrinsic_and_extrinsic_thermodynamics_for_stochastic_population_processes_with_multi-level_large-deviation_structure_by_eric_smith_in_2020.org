@@ -7,4 +7,8 @@
 a = [1,0,0,1]
 a.size
 #+END_SRC
-*** <s
+***
+#+BEGIN_SRC maxima
+1+1;
+#+END_SRC
+***
