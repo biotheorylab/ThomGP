@@ -5,3 +5,4 @@
 ** concept
 *** Suppose that \(S\) is a submanifold of a manifold \(M\) and that we have a Riemannian metric \(g \in T^* M \otimes T^* M\).
 ***
+***
