@@ -10,7 +10,7 @@
 :later: 1611776710177
 :done: 1611776616676
 :END:
-+ \(d(\emptset) = 0\)
++ \(d(\emptyset) = 0\)
 + \(d(S) = 1\)
 +\(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
 We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
