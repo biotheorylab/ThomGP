@@ -22,7 +22,7 @@ i.e. we can specify a probability distribution by giving the probabilities of ou
 :PROPERTIES:
 :later: 1611780348176
 :END:
-Since this property plays an important role in the theory, we will want to restrict attention to maps between distributions which respect it.  One can show that, if \(f \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) is continuous and that \(f(s d_{1} + (1-s) d_{2}) = s f(d_{1}) + (1-s) f(d_{2}) (x)\), then \(f\) is a fractional linear transform,
+Since this property plays an important role in the theory, we will want to restrict attention to maps between distributions which respect it.  One can show that, if \(f \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) is continuous and that \(f(s d_{1} + (1-s) d_{2}) = s f(d_{1}) + (1-s) f(d_{2})\), then \(f\) is a fractional linear transform,
 \[
   f(d)(\{j\}) = \frac{\sum_{}}{}
 \]
