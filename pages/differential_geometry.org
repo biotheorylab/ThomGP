@@ -1,3 +1,4 @@
 #+TITLE: differential geometry
+#+PUBLIC: true
 
 ** test
