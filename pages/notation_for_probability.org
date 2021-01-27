@@ -13,4 +13,5 @@
 + \(d(\emptset) = 0\)
 + \(d(S) = 1\)
 +\(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
+We denote the collection of all
 **
