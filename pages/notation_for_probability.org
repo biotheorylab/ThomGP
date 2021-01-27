@@ -14,4 +14,4 @@
 + \(d(S) = 1\)
 + \(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
 We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
-** An important property of these axioms is that they respect convexity.  That is to say, if we
+** An important property of these axioms is that they respect convexity.  That is to say, if we have \(d_{1}, d_{2} \colon )
