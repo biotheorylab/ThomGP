@@ -7,7 +7,7 @@
 ** Given a sample space \(X = (S, E)\), we define a probability distribution as a map \(d \colon E \to [0,1] \subset \mathbb{R}\) which satisfies the usual axioms:
 :PROPERTIES:
 :now: 1611776614677
-:later: 1611776611676
+:later: 1611776710177
 :done: 1611776616676
 :END:
 + \(d(\emptset) = 0\)
