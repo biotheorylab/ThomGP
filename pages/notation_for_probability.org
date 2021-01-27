@@ -6,7 +6,7 @@
 ** One way which these morphisms usually appear is under the guise of random variables.  Given a sample space of interest, we may define random variables as morphisms from our sample space to some standard spaces such as the two-element set or the real line.  Given enough such mappings, we may specify any outcome in our space by the values of these variables and specify any event by specifying a relation between the variables.
 ** Given a sample space \(X = (S, E)\), we define a probability distribution as a map \(d \colon E \to [0,1] \subset \mathbb{R}\) which satisfies the usual axioms:
 :PROPERTIES:
-:now: 1611776614677
+:now: 1611781901176
 :later: 1611776710177
 :done: 1611776616676
 :END:
@@ -14,6 +14,7 @@
 + \(d(S) = 1\)
 + \(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
 We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
+When the sample space
 ** An important property of these axioms is that they are closed under taking convex comnbinations.  That is to say, if we have \(d_{1}, d_{2} \colon E \to [0,1]\) which satisfy the axioms and define \(d_{3} \colon E \to [0,1]\) as \(d_{3}(e) = s d_{1}(e) + (1-s) d_{2}(e)\) for some \(s \in [0,1]\), then \(d_3\) also satisfies the axioms.
 :PROPERTIES:
 :later: 1611780348176
