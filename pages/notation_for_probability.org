@@ -15,7 +15,7 @@
 + \(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
 We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
 When the lattice is discrete, these axioms are equivalent to the conditions
-+ \sum_{j \in S}
++ \sum_{j \in S} d(\{j})
 ** An important property of these axioms is that they are closed under taking convex comnbinations.  That is to say, if we have \(d_{1}, d_{2} \colon E \to [0,1]\) which satisfy the axioms and define \(d_{3} \colon E \to [0,1]\) as \(d_{3}(e) = s d_{1}(e) + (1-s) d_{2}(e)\) for some \(s \in [0,1]\), then \(d_3\) also satisfies the axioms.
 :PROPERTIES:
 :later: 1611780348176
