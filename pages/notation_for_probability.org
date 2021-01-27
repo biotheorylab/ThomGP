@@ -1,3 +1,3 @@
 #+TITLE: Notation for Probability
 
-** Here we will describe a unified notation for probability based on first principles.  Since this notation is quite sparse, in actual practice, one will likely want to augment it with further symbols, abbreviations and "syntactic sugar".  The main purpose of this exercise is to be able to express things in a consistent way and provide a common ground for comparing and defining
+** Here we will describe a unified notation for probability based on first principles.  Since this notation is quite sparse, in actual practice, one will likely want to augment it with further symbols, abbreviations and "syntactic sugar".  The main purpose of this exercise is to be able to express things in a consistent way and provide a common ground for comparing and defining and comparing
