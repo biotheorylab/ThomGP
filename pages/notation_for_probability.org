@@ -21,6 +21,7 @@ We denote the collection of all distributions on a sample space \(X\) as \(\math
 Since this property plays an important role in the theory, we will want to restrict attention to maps between distributions which respect it.  One can show that, if \(f \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) is continuous and that f(s d_{1} + (1-s) d_{2}) = s f(d_{1}) + (1-s) f(d_{2}) (x)\), then \(f\) is a fractional linear transform,
 \[
   f(d) = \frac{}{}
+\]
 ** \]
 **
 **
