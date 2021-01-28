@@ -14,7 +14,7 @@
 + \(d(S) = 1\)
 + \(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
 We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
-When the lattice of events is discrete, these axioms are equivalent to the conditions
+In the case of finite sample space  When the lattice of events is discrete, these axioms are equivalent to the conditions
 + \sum_{j \in S} d(\{j\}) = 1
 + d(e) = \sum_{j \in e} d(\{j\})
 i.e. we can specify a probability distribution by giving the probabilities of outcomes.
