@@ -13,7 +13,7 @@
 + \(d(\emptyset) = 0\)
 + \(d(S) = 1\)
 + \(d(x) + d(y) = d(x \cup y) + d(x \cap y)\)
-** (In the infinite case, we need to augment these with an axiom of countable additivity: \(d ()\bigcup_{k=0}^{\infty}  = \sum_{k=0}^{\infty} d(x_k)\))  We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
+** (In the infinite case, we need to augment these with an axiom of countable additivity: \(d(\bigcup_{k=0}^{\infty} x_k)  = \sum_{k=0}^{\infty} d(x_k)\) )  We denote the collection of all distributions on a sample space \(X\) as \(\mathcal{D}(X)\).
 In the case of finite sample space, we can define the probabilities of outcomes in terms of singleton sets as \(d_{j} = d(\{j\})\) and these axioms are equivalent to the conditions
 + \(\sum_{j \in S} d_{j} = 1\)
 + \(d(e) = \sum_{j \in e} d(\{j\})\)
