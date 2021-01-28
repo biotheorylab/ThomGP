@@ -29,5 +29,5 @@ then \(f\) is a fractional linear transform,
 \[
   f(d)(\{j\}) = \frac{\sum_{k} m(j,k) \> d(\{k\})}{}
 \]
-Here \(m \colon S_{Y} \time S_{X} \to [0,\infty)\) is a matrix of non-negative reals.
+Here \(m \colon S_{Y} \times S_{X} \to [0,\infty)\) is a matrix of non-negative reals.
 **
