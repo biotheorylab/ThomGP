@@ -34,4 +34,4 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
  \end{aligned}\]
 In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c^{(2)}, \ldots\) of the complexes appearing as either reactants or products in our set \(R\) of reactions.  When \(c^{(m)} \to c^{(n)} \notin R\), we set \(k_{c^{(m)} \to c^{(n)}} = 0\).
 ** For our example, we have
-\[-\mathcal{L} = k_{\emptyset \to A} (a^{\dagger - a^{\dagger} a})\]
+\[-\mathcal{L} = k_{\emptyset \to A} (a^{\dagger} - a^{\dagger} a)\]
