@@ -4,7 +4,7 @@
 :PROPERTIES:
 :later: 1611887761901
 :END:
-\begin{align*}
+\[\begin{align*}
   \emptyset &\to A \\
   A &\to \emptyset \\
   2A &\to 3A \\
