@@ -20,5 +20,5 @@
                            \left( \prod_{i \in S} a_{i}^{\dagger \nu_{i}} a_{i}^{\mu_{i}}-
                            \prod_{i \in S} a_{i}^{\dagger \mu_{i}} a_{i}^{\mu_{i}} \right)              
 \]
-This may also be expressed in a matrix form as \(\mathcal{L} = \psi^{T} (a^{\dagger}) \mathbb{A} \psi(a)\)
+This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\dagger}) \mathbb{A} \psi(a)\)
 **
