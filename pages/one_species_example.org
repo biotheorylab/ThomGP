@@ -25,5 +25,7 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
   \psi(a) &= \begin{pmatrix} 
                  \prod_{i \in S} a_{i}^{y_{1i}} \\
                  \prod_{i \in S} a_{i}^{y_{1i}} \\ \vdots
- \end{pmatrix} \\ \end{aligned}\]
+                   \end{pmatrix} \\
+
+ \end{aligned}\]
 **
