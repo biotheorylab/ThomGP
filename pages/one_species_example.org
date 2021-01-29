@@ -7,4 +7,5 @@
 \begin{align*}
   \emptyset &\to A \\
   A &\to \emptyset \\
+  2A &\to 3A \\
 **
