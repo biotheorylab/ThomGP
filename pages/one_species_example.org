@@ -16,6 +16,6 @@
 :END:
 \[
    \mathcal{L} = \sum_{\mu \to \mu' \in R}
-                           \frac{k}{\Pi}
+                           \frac{k_{\mu \to \mu'}{\Pi}
 \]
 **
