@@ -2,8 +2,8 @@
 
 ** To illustrate techniques and concepts, we will write them out for the simple case of a single species reaction system.
 :PROPERTIES:
-:later: 1611887723400
+:later: 1611887761901
 :END:
 \begin{align*}
-  \emptyset
+  \emptyset &\to A \\
 **
