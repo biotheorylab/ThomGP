@@ -15,7 +15,7 @@
 :later: 1611938011441
 :END:
 \[
-   \mathcal{L} = \sum_{i \to j \in R}
+   \mathcal{L} = \sum_{\mu \to \mu' \in R}
                            \frac{k}{\Pi}
 \]
 **
