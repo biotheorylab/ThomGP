@@ -16,6 +16,6 @@
 :END:
 \[
    \mathcal{L} = \sum_{i \to j \in R}
-                           
+                           \frac{k}{\Pi}
 \]
 **
