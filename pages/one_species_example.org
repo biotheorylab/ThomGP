@@ -1,3 +1,3 @@
 #+TITLE: One species example
 
-** To illustrate
+** To illustrate techniques and concepts, we will write them out for the simple case of a single species reaction system.
