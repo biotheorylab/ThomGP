@@ -37,5 +37,5 @@ In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c
 :PROPERTIES:
 :later: 1611946539401
 :END:
-\[\begin{aligned} -\mathcal{L} &= k_{\emptyset \to A} (a^{\dagger} - a^{\dagger} a) \\ &+ k_{A \to \emptyset} (a - 1) \\ &+ \frac{1}{2} k_{2A \to 3A} (a^{\dagger 3} a^2 - a^{\dagger 2} a^2) \\ &+ \frac{1}{6} k_{3A \to 2A} (a^{\dagger 2} a^3 - a^{\dagger 3} a^3) \\ \psi(a) &= \begin{pmatrix} 1 \\ a \\ a^2 \\ a^3 \end{pmatrix} \\ \mathbb{A} &= \begin{pmatrix} 0 & k_{A \to \emptyset} & 0 & 0 \\ k_{\emptyset \to A} & 0 & 0 & 0 \\ 0 & 0  \end{pmatrix} \end{aligned} \]
+\[\begin{aligned} -\mathcal{L} &= k_{\emptyset \to A} (a^{\dagger} - a^{\dagger} a) \\ &+ k_{A \to \emptyset} (a - 1) \\ &+ \frac{1}{2} k_{2A \to 3A} (a^{\dagger 3} a^2 - a^{\dagger 2} a^2) \\ &+ \frac{1}{6} k_{3A \to 2A} (a^{\dagger 2} a^3 - a^{\dagger 3} a^3) \\ \psi(a) &= \begin{pmatrix} 1 \\ a \\ a^2 \\ a^3 \end{pmatrix} \\ \mathbb{A} &= \begin{pmatrix} 0 & k_{A \to \emptyset} & 0 & 0 \\ k_{\emptyset \to A} & 0 & 0 & 0 \\ 0 & 0 & 0 &  \end{pmatrix} \end{aligned} \]
 **
