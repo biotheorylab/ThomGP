@@ -17,7 +17,7 @@
 \[
    \mathcal{L} = \sum_{\mu \to \nu \in R}
                            \frac{k_{\mu \to \nu}}{\prod_{i \in S} \mu_{i}!}
-                           \left( \prod_{i \in S} a_{i}^{\dagger \mu_{i}} -
+                           \left( \prod_{i \in S} a_{i}^{\dagger \nu_{i}} -
                            \right)              
 \]
 **
