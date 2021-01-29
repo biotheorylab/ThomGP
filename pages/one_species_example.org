@@ -6,4 +6,5 @@
 :END:
 \begin{align*}
   \emptyset &\to A \\
+  A &\to \emptyset \\
 **
