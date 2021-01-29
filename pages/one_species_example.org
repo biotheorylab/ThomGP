@@ -34,5 +34,5 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
                             0 & \cdots \\ \vdots & \vdots & \ddots
  \end{pmatrix}
  \end{aligned}\]
-In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c^{(2)}, \ldots\) of the complexes appearing as either reactants or products in our set \(R\) of reactions.  When
+In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c^{(2)}, \ldots\) of the complexes appearing as either reactants or products in our set \(R\) of reactions.  When \(c^{(m)} \)
 **
