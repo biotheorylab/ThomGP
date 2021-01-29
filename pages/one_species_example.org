@@ -17,6 +17,6 @@
 \[
    \mathcal{L} = \sum_{\mu \to \mu' \in R}
                            \frac{k_{\mu \to \mu'}}{\Pi_{i \in S} \mu_{I}!}
-                                         
+                           \left( \)              
 \]
 **
