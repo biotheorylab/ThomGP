@@ -39,5 +39,6 @@ In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c
 :END:
 \[\begin{aligned}
  -\mathcal{L} &= k_{\emptyset \to A} (a^{\dagger} - a^{\dagger} a) \\
-&+ k_{A \to \emptyset} (a - 1) \\ \]
+&+ k_{A \to \emptyset} (a - 1) \\
+&+  \]
 **
