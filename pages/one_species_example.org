@@ -23,6 +23,6 @@
 This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\dagger}) \mathbb{A} \psi(a)\) where
 \[\begin{aligned}
   \psi(a) = \begin{pmatrix} 
-                 \prod_{\}a
+                 \prod_{c}a
 \end{aligned}\]
 **
