@@ -17,6 +17,6 @@
 \[
    \mathcal{L} = \sum_{\mu \to \nu \in R}
                            \frac{k_{\mu \to \nu}}{\pi_{i \in S} \mu_{i}!}
-                           \left( a_{i}^{\dagger}^{\mu_{i}} \right)              
+                           \left( a_{i}^{\dagger} {\mu_{i}} \right)              
 \]
 **
