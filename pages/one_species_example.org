@@ -15,6 +15,6 @@
 :later: 1611938011441
 :END:
 \[
-   \mathcal{L} = \sum_{i \to j }
+   \mathcal{L} = \sum_{i \to j \in R}
 \]
 **
