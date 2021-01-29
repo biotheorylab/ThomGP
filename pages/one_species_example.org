@@ -28,7 +28,7 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
                    \end{pmatrix} \\
   \mathbb{A} &= \begin{pmatrix}
                             0 &
-                            \frac{k_{c^{(1)} \to c^{(2)}}}{\prod_{i \in S} \mu_{i}!} &
+                            \frac{k_{c^{(1)} \to c^{(2)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
                             \end{pmatrix}
  \end{aligned}\]
 **
