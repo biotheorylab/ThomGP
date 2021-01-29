@@ -9,5 +9,5 @@
   A &\to \emptyset \\
   2A &\to 3A \\
   3A &\to 2A
-\ens{align*}
+\end{align*}
 **
