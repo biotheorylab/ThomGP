@@ -47,4 +47,4 @@ we see that
 or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
 Here the superscript " \(R\) " indicates that we reverse the order of the (non-commuting) factors.
-This is a differential equation for \(\Gamma\).  To obtain the large deviation limit, we make an eikonal approximation.  This consists in
+This is a differential equation for \(\Gamma\).  To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
