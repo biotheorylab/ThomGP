@@ -43,4 +43,4 @@ In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c
 We have \(\mathcal{L}(a^{\dagger}, a)\) act to the left.  Because of the identities
 \[\begin{aligned}  \langle 0 | e^{za} a &= \frac{\partial}{\partial z} \langle 0 | e^{za} \\ \langle 0 | e^{za} a^{\dagger} &= z \langle 0 | e^{za} \end{aligned} ,\]
 we see that
-\[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = \mathcal{L}^{R} (z, \frac{\partial}{\partial z})
+\[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = -\mathcal{L}^{R} (z, \frac{\partial}{\partial z})
