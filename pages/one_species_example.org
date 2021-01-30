@@ -55,4 +55,4 @@ by definition of \(\Gamma\), we obtain
 \[-\frac{\partial \Gamma}{\partial z} = \frac{n}{z} .\]
 Hence, our eikonal approximation may be expressed as
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( \frac{n}{z} \right)^k ,\]
-so the approximation to the
+so the approximation to the equation of motion is
