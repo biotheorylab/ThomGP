@@ -47,4 +47,4 @@ we see that
 or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
 Here the superscript " \(R\) " indicates that we reverse the order of the (non-commuting) factors.
-This is a differential equation for \(\Gamma\).  We will now
+This is a differential equation for \(\Gamma\).
