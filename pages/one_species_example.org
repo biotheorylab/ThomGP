@@ -41,4 +41,4 @@ In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c
 ** Next, we bring in the coherent states and obtain the equation of motion for the cumulant generating function.  From the master equation and the definition of the cumulant generating function, we have
 \[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = -\langle 0 | e^{za} \mathcal{L}(a^{\dagger}, a) | \rho \rangle . \]
 We have \(\mathcal{L}(a^{\dagger}, a)\) act to the left.  Because of the identities
-\[\begin{aligned}  \langle 0 | e^{za} a &= \\ \langle 0 | e^{za} a^{\dagger} &=\end{aligned}\]
+\[\begin{aligned}  \langle 0 | e^{za} a &= \frac{\partial}{\partial z} \langle 0 | e^{za} \\ \langle 0 | e^{za} a^{\dagger} &=\end{aligned}\]
