@@ -53,4 +53,4 @@ But applying the identites to the expression for average number,
 \[n = \frac{\langle 0 | e^{za} a{\dagger} a | \rho \rangle}{\langle 0 | e^{za} | \rho \rangle} = \frac{z \partial(\langle 0 | e^{za} | \rho \rangle) / \partial z}{\langle 0 | e^{za} | \rho \rangle} ;\]
 by definition of \(\Gamma\), we obtain
 \[-\frac{\partial \Gamma}{\partial z} = \frac{n}{z} .\]
-Hence, our eikonal approximation may be
+Hence, our eikonal approximation may be expressed as
