@@ -54,3 +54,4 @@ But applying the identites to the expression for average number,
 by definition of \(\Gamma\), we obtain
 \[-\frac{\partial \Gamma}{\partial z} = \frac{n}{z} .\]
 Hence, our eikonal approximation may be expressed as
+\[ \frac{\partial^n}{\partial z^n} e^{-\Gamma} \approx e^{-\Gamma} \left( \frac{n}{z} \right)
