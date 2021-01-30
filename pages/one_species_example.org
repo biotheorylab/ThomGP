@@ -46,4 +46,4 @@ we see that
 \[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = - \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) \langle 0 | e^{za} | \rho \rangle \]
 or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
-Here the superscript " \(R\) " indicates that we reverse the order of the
+Here the superscript " \(R\) " indicates that we reverse the order of the (non-commuting) .
