@@ -45,4 +45,4 @@ We have \(\mathcal{L}(a^{\dagger}, a)\) act to the left.  Because of the identit
 we see that
 \[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = - \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) \langle 0 | e^{za} | \rho \rangle \]
 or, equivalently,
-\[\frac{\partial \Gamma}{\partial t} = e^{\Gamma}\]
+\[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L}^{R} (z, \frac{\partial}{\partial z}) \Gamma .\]
