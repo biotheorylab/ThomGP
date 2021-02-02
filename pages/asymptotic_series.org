@@ -1,0 +1,7 @@
+#+TITLE: Asymptotic series
+
+** Taylor series
+*** at $a=0$
+**** $\sum_{n=0}^{\infty} \frac{1}{n!} f^{(n)}(0) x^n$
+*** at arbitrary $a$
+****
