@@ -1,3 +1,4 @@
 #+TITLE: Continuous-time Markov processes
 
-** The probability of finding a system in state $n$ at time $\tau$ can be represented by the joint probability distribution $$$$
+** The probability of finding a system in state $n$ at time $\tau$ can be represented by the joint probability distribution $$p(\tau, n)$$.
+**
