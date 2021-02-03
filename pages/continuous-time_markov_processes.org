@@ -1,6 +1,6 @@
 #+TITLE: Continuous-time Markov processes
 
 ** Definition
-*** The probability of finding a system in state $n$ at time $\tau$ can be represented by the joint probability distribution $$p(\tau, n)$$. Noting that this distribution is defined at a particular time, and requiring the same system to have visited a state $n_0$ at time $t_0 \lt \tau$, we may consider the /conditional probability/ $p(\tau, n \vert t_0, n_0)$.
+*** The probability of finding a system in state $n$ at time $\tau$ can be represented by the joint probability distribution $$p(\tau, n)$$. Noting that this distribution is defined at a particular time, and requiring the same system to have visited a state $n_0$ at time $t_0 \lt \tau$, we may consider the /conditional probability/ $p(\tau, n \vert t_0, n_0)$, which is also referred to as the tr
 **
 **
