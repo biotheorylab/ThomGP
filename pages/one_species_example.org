@@ -60,4 +60,5 @@ Hence, our eikonal approximation may be expressed as
 so the approximation to the equation of motion is
 \[\frac{\partial \Gamma}{\partial t} = \mathcal{L}(z, n/z) .\]
 In the example, this assumes the form
+the example, this assumes the form
 **
