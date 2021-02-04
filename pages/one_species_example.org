@@ -29,7 +29,7 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
                             \frac{k_{c^{(2)} \to c^{(1)}}}{\prod_{i \in S} c^{(2)}_{i}!} &
                             \cdots \\
                             \frac{k_{c^{(1)} \to c^{(2)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
-                            0 & \cdots \\ \vdots & \vdots & \ddots
+                            -\sum_{j}  & \cdots \\ \vdots & \vdots & \ddots
  \end{pmatrix}
  \end{aligned}\]
 In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c^{(2)}, \ldots\) of the complexes appearing as either reactants or products in our set \(R\) of reactions.  When \(c^{(m)} \to c^{(n)} \notin R\), we set \(k_{c^{(m)} \to c^{(n)}} = 0\).
