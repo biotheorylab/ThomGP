@@ -25,7 +25,7 @@ This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\da
                       \prod_{i \in S} a_{i}^{c^{2}_i} \\ \vdots
                    \end{pmatrix} \\
   \mathbb{A} &= \begin{pmatrix}
-                            -\sum_{j} \frac{k_{c^{(1)} \to c^{(j)}}}{\prod_{i \in S} c^{(j)}_{i}!} &
+                            -\sum_{j} \frac{k_{c^{(1)} \to c^{(j)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
                             \frac{k_{c^{(2)} \to c^{(1)}}}{\prod_{i \in S} c^{(2)}_{i}!} &
                             \cdots \\
                             \frac{k_{c^{(1)} \to c^{(2)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
