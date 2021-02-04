@@ -47,7 +47,7 @@ we see that
 or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
 This is the desired a differential equation for \(\Gamma\).  For our example system, it works out to be
-\[\frac{\partial \Gamma}{\partial t} = k_{\emptyset \to A} (z - 1) \Gamma + k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} + k_{}\]
+\[\frac{\partial \Gamma}{\partial t} = k_{\emptyset \to A} (z - 1) \Gamma + k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} + \frac{1}{2} k_{}\]
 ** To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
