@@ -43,6 +43,7 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 :later: 1612545395294
 :END:
 #+BEGIN_LATEX
+#+LATEX_HEADER: \usepackage{xy}
 \[\xymatrix{X & Y}\]
 #+END_LATEX
 knowing how the functor behaves in these cases determines its behavior in general.  For convenience, we will write \(f^{\ast}\) as a synonym for \( \mathcal{D}(f) \) when \(f\) is a total function.
