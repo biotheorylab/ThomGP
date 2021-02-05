@@ -2,7 +2,6 @@
 
 **
 #+LATEX_HEADER: \usepackage{xy}
-#+TITLE: Notation for Probability
 **
 #+BEGIN_LATEX
 \xymatrix{
