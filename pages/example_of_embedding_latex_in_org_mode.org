@@ -1,0 +1,18 @@
+#+TITLE: example of embedding latex in org mode
+#+LATEX_HEADER: \usepackage{xy}
+** The following will appear odd inside logseq, but it will remain inside the raw =org= file and be rendered appropriately when the =org= file is converted to latex/pdf.
+#+BEGIN_LATEX
+\xymatrix{
+    A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
+    D \ar[r]_{f'}       & C }
+#+END_LATEX
+This will produce an [[https://en.wikibooks.org/wiki/LaTeX/Xy-pic][example from the Latex wikibook]]
+** This is what the plain text should look like (rendered here inside a source block)
+#+BEGIN_SRC latex
+#+BEGIN_LATEX
+\xymatrix{
+    A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
+    D \ar[r]_{f'}       & C }
+#+END_LATEX
+#+END_SRC
+**
