@@ -35,5 +35,5 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 \[ \mathcal{D}(m)(d)(\{j\}) =  \frac{\sum_{k \in D \mid f(k) = j} d(\{k\})}{\sum_{k \in D} d(\{k\})} .\]
 ** This construct combines several familiar notions from probability theory.  To unpack it, we will examine three special cases:
 *** When \(m\) is an inclusion of sets regarded as a partial function (i.e. \(m = (D, \mathrm{id}) \colon X \to X\)), then \(D(m)\) implements conditioning on the event \(D\) --- \(\mathcal{D}(m)(d) = d|_{D}\)
-*** When \(m\) is an injective total function, then
+*** When \(m\) is a surjective total function, then \(\mathcal{D}(m)\) implements marginalization
 **
