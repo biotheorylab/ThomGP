@@ -4,3 +4,4 @@
 *** [[example of embedding latex in org mode]]
 *** [[Example beamer presentation from org mode]]
 *** [[file:./example_of_embedding_latex_in_org_mode.org][example of embedding latex in org mode]]
+*** [[file:./example_beamer_presentation_from_org_mode.org][Example beamer presentation from org mode]]
