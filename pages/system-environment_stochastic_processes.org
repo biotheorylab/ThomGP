@@ -3,4 +3,4 @@
 **
 **
 | quantity | H-L-G | E.S. | us |
-| State space of individual
+| State space of individual |
