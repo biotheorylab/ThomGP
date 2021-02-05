@@ -42,6 +42,7 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 :PROPERTIES:
 :later: 1612545395294
 :END:
+
 #+BEGIN_LATEX
 \[\xymatrix{X & Y}\]
 #+END_LATEX
