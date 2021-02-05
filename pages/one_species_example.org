@@ -60,5 +60,5 @@ Hence, our eikonal approximation may be expressed as
 so the approximation to the equation of motion is
 \[\frac{\partial \Gamma}{\partial t} = \mathcal{L}(z, n/z) .\]
 In the example, this assumes the form
-\[\frac{\partial \Gamma}{\partial t} = k_{\emptyset \to A} (z - 1)  + k_{A \to \emptyset} (1 - z) e^{\Gamma} \frac{\partial}{\partial z} e^{-\Gamma} + \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) e^{\Gamma} \frac{\partial^2}{\partial z^2} e^{-\Gamma} + \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) e^{\Gamma} \frac{\partial^3}{\partial z^3} e^{-\Gamma} \]
+\[\frac{\partial \Gamma}{\partial t} = k_{\emptyset \to A} (z - 1)  + k_{A \to \emptyset} (1 - z) \frac{n}{z} + \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) e^{\Gamma} \frac{\partial^2}{\partial z^2} e^{-\Gamma} + \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) e^{\Gamma} \frac{\partial^3}{\partial z^3} e^{-\Gamma} \]
 **
