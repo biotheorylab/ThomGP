@@ -2,7 +2,6 @@
 #+TITLE: Notation for Probability
 
 **
-**
 #+BEGIN_LATEX
 \xymatrix{
     A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
