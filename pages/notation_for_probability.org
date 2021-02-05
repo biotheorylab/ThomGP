@@ -34,4 +34,4 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 ** The two categories we introduced above are connected by a functor \(\mathcal{D} \colon \mathsf{PProb} \to \mathsf{PStoch}\).  The action on objects assigns to each sample space the collection of distributions as described above.  To each morphism \((D,f) \in \mathsf{PProb}(X,Y)\), we assign the fractional linear transform \(\mathcal{D}(f) \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) which is specified by its action on singletons as
 \[ \mathcal{D}(f)(d)(\{j\}) =  \frac{\sum_{k \in D \mid f(k) = j} d(\{k\})}{\sum_{k \in D} d(\{k\})} .\]
 ** This construct combines several notions form probability theory.  To unpack it, we will make use of the factorization of the morphism \(m = (D,f)  \colon X \to Y \) as \( m = g \circ h \circ i \) where:
-+ \(i \colon D \to X \)
++ \(i \colon D \to S_{X} \) is the set inclusion regarded as a partial function
