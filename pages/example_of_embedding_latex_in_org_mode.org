@@ -7,6 +7,7 @@
     A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
     D \ar[r]_{f'}       & C }
 #+END_LATEX
+This will produce the example from the
 ** This is what the plain text should look like (rendered here inside a source block)
 #+BEGIN_SRC latex
 #+BEGIN_LATEX
