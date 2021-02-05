@@ -30,5 +30,5 @@ then \(f\) is a fractional linear transform, i.e.
   f(d)(\{j\}) = \frac{\sum_{k \in S_{X}} m(j,k) \> d(\{k\})}
     {\sum_{i \in S_{Y}} \sum_{k \in S_{X}} m(i,k) \> d(\{k\})}
 \]
-for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\infty)\) is a .  We denote the category of such transforms as \(\mathsf{PStoch}\).  (The first "\(\mathsf{P}\)" stands for "projective" here.)
+for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\infty)\).  We denote the category of such transforms as \(\mathsf{PStoch}\).  (The first "\(\mathsf{P}\)" stands for "projective" here.)
 **
