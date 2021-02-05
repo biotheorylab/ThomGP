@@ -40,6 +40,9 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 *** When \(h\) is a surjective total function, then \(\mathcal{D}(h)\) implements marginalization.
 *** When \(g\) is an injective total function, then \(\mathcal{D}(g)\) embeds probability distributions into a bigger sample space.
 ** Since any morphism can be factored as a product of the three special morphisms discussed above,
+:PROPERTIES:
+:later: 1612545395294
+:END:
 \[\xymatrix{X & Y}\]
 knowing how the functor behaves in these cases determines its behavior in general.  For convenience, we will write \(f^{\ast}\) as a synonym for \( \mathcal{D}(f) \) when \(f\) is a total function.
 **
