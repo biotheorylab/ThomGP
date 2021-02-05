@@ -7,7 +7,7 @@
     A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
     D \ar[r]_{f'}       & C }
 #+END_LATEX
-This will produce the [[https://en.wikibooks.org/wiki/LaTeX/Xy-pic#/media/File:Latex_example_xypics_arrows_labels.png][example from the Latex wikibook]]
+This will produce the [[https://en.wikibooks.org/wiki/LaTeX/Xy-pic][example from the Latex wikibook]]
 ** This is what the plain text should look like (rendered here inside a source block)
 #+BEGIN_SRC latex
 #+BEGIN_LATEX
