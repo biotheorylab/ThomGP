@@ -2,5 +2,5 @@
 
 **
 **
-| H-L-G | E.S. | us |
-|
+| quantity | H-L-G | E.S. | us |
+| State space of individual
