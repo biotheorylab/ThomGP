@@ -34,7 +34,7 @@
 #+OPTIONS: H:2 num:t toc:t
 #+OPTIONS: TeX:t LaTeX:t tags:not-in-toc
 #+OPTIONS: \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-* This is an example. It won't work locally without some additional configuration (such as locating bibtex files and images as specified). If you have access you may be able to see a pdf here https://drive.google.com/open?id=1ymZ6buHU-ck_IF22D_LSwLMPeDQy8ca4
+* This is an example. It won't work locally without some additional configuration (such as locating bibtex files and images as specified). If you have access you may be able to see a [[https://drive.google.com/open?id=1ymZ6buHU-ck_IF22D_LSwLMPeDQy8ca4][pdf here]]
 * Introduction
 ** A simple slide
 
