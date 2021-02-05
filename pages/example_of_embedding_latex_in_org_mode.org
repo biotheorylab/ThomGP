@@ -7,4 +7,10 @@
     A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
     D \ar[r]_{f'}       & C }
 #+END_LATEX
+** #+BEGIN_SRC latex
+#+BEGIN_LATEX
+\xymatrix{
+    A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
+    D \ar[r]_{f'}       & C }
+#+END_LATEX
 **
