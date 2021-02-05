@@ -1,5 +1,3 @@
 #+TITLE: Feb 5th, 2021
 
-** [[example of embedding latex in org mode]]
-** [[Example beamer presentation from org mode]]
 ** [[org mode reference]]
