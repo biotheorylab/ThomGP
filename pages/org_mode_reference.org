@@ -1,5 +1,0 @@
-#+TITLE: org mode reference
-
-** examples
-*** [[example of embedding latex in org mode]]
-*** [[Example beamer presentation from org mode]]
