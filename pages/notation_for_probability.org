@@ -31,5 +31,5 @@ then \(f\) is a fractional linear transform, i.e.
     {\sum_{i \in S_{Y}} \sum_{k \in S_{X}} m(i,k) \> d(\{k\})}
 \]
 for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\infty)\).  We denote the category of such transforms as \(\mathsf{PStoch}\).  (The first "\(\mathsf{P}\)" stands for "projective" here.)
-** The two categories we introduced above are connected by a functor whose action on morphisms is give as
-\[\begin{aligned} \mathcal{D} \colon \mathsf{PProb} &\to \mathsf{PStoch} \\ (D,f) &\mapsto \end{aligned}\]
+** The two categories we introduced above are connected by a functor \(\mathcal{D} \colon \mathsf{PProb} &\to \mathsf{PStoch}\).  whose action on morphisms is give as
+\[\begin{aligned}  \\ (D,f) &\mapsto \end{aligned}\]
