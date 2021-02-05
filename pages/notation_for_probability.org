@@ -21,7 +21,7 @@ In the case of finite sample space, we can define the probabilities of outcomes 
 :PROPERTIES:
 :later: 1611780348176
 :END:
-Since this property plays an important role in the theory, we will want to restrict attention to maps between distributions which respect it.  One can show that, if \(f \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) is continuous and that 
+Since convexity plays an important role in the theory, we will want to restrict attention to maps between distributions which respect it.  One can show that, if \(f \colon \mathcal{D}(X) \to \mathcal{D}(Y)\) is continuous and that 
 \[
    f(s d_{1} + (1-s) d_{2}) = s f(d_{1}) + (1-s) f(d_{2}),
 \]
