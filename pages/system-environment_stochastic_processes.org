@@ -5,5 +5,5 @@
 | quantity | H-L-G | E.S. | us |
 | State space of individual | \(\ell\) | s | S_{I} |
 | State space of environment | \(\sigma\) | e | S_{E} |
-| Joint distribution | \(p(\lell, \sigma, t)\) | \(\rho_{n}\) | \(P\) |
+| Joint distribution | \(p(\ell, \sigma, t)\) | \(\rho_{n}\) | \(P\) |
 **
