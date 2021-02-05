@@ -56,15 +56,11 @@ include sub-lists.
 This slide illustrates the use of Beamer blocks.  The following text,
 with its own headline, is displayed in a block:
 *** Org mode increases productivity                               :B_theorem:
-    :PROPERTIES:
-    :BEAMER_env: theorem
-    :END:
     - org mode means not having to remember LaTeX commands.
     - it is based on ascii text which is inherently portable.
     - Emacs!
 
     \hfill \(\qed\)
-
 * Environments
 
 ** Definition
