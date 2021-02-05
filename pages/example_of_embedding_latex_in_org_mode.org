@@ -1,7 +1,7 @@
 #+TITLE: example of embedding latex in org mode
 #+LATEX_HEADER: \usepackage{xy}
 
-**
+** The following will appear odd inside logseq, but it will remain inside the raw =org= file and be rendered appropriately when the =org= file is converted to latex/pdf.
 #+BEGIN_LATEX
 \xymatrix{
     A \ar[r]^f \ar[d]_g & B \ar[d]^{g'} \\
