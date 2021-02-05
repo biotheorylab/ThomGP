@@ -25,7 +25,7 @@ Since convexity plays an important role in the theory, we will want to restrict 
 \[
    f(s d_{1} + (1-s) d_{2}) = s f(d_{1}) + (1-s) f(d_{2}),
 \]
-then \(f\) is a fractional linear transform,
+then \(f\) is a fractional linear transform, i.e.
 \[
   f(d)(\{j\}) = \frac{\sum_{k \in S_{X}} m(j,k) \> d(\{k\})}
     {\sum_{i \in S_{Y}} \sum_{k \in S_{X}} m(i,k) \> d(\{k\})}
