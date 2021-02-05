@@ -1,6 +1,6 @@
 #+TITLE: example of embedding latex in org mode
+#+LATEX_HEADER: \usepackage{xy}
 
-**
 **
 #+BEGIN_LATEX
 \xymatrix{
