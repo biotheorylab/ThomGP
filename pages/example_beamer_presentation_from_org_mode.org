@@ -34,10 +34,8 @@
 #+OPTIONS: H:2 num:t toc:t
 #+OPTIONS: TeX:t LaTeX:t tags:not-in-toc
 #+OPTIONS: \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 
 # This is an example. If you have access you may be able to see a pdf here https://drive.google.com/open?id=1ymZ6buHU-ck_IF22D_LSwLMPeDQy8ca4
-
 * Introduction
 
 ** A simple slide
