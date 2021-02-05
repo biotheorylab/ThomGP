@@ -3,5 +3,5 @@
 **
 **
 | quantity | H-L-G | E.S. | us |
-| State space of individual | \(\ell\) | | S_{I} |
-| State space of environment | \(\sigma\) | | S_{E} |
+| State space of individual | \(\ell\) | s | S_{I} |
+| State space of environment | \(\sigma\) | e | S_{E} |
