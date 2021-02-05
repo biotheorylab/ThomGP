@@ -35,4 +35,5 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 \[ \mathcal{D}(f)(d)(\{j\}) =  \frac{\sum_{k \in D \mid f(k) = j} d(\{k\})}{\sum_{k \in D} d(\{k\})} .\]
 ** This construct combines several notions form probability theory.  To unpack it, we will make use of the factorization of the morphism \(m = (D,f)  \colon X \to Y \) as \( m = g \circ h \circ i \) where:
 + \(i \colon D \to S_{X} \) is the set inclusion regarded as a partial function;
-+ \(h \colon \Im (f) \) is an epimorphism; and
++ \(h \colon \mathrm{Im} (f) \) is an epimorphism; and
++ \(g \colon )
