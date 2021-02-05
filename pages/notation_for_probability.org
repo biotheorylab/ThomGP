@@ -36,6 +36,6 @@ for some matrix of non-negative reals \(m \colon S_{Y} \times S_{X} \to [0,\inft
 ** This construct combines several familiar notions from probability theory.  To unpack it, we will examine three special cases:
 *** When \(m\) is an inclusion of sets regarded as a partial function (i.e. \(m = (D, \mathrm{id}) \colon X \to X\)), then \(D(m)\) implements conditioning on the event \(D\) --- \(\mathcal{D}(m)(d) = d|_{D}\)
 *** When \(m\) is a surjective total function, then \(\mathcal{D}(m)\) implements marginalization.
-*** When \(m\) is an inurjective total function, then \(\mathcal{D}(m)\) embeds probability distributions in a bigger sample space.
+*** When \(m\) is an injective total function, then \(\mathcal{D}(m)\) embeds probability distributions in a bigger sample space.
 ** Since any morphism can be factored as a product of the three special morphism discussed above, knowing how the functor behaves in these cases determines its behavior in general.  For convenience, we will write \(f^{\ast}\) as a synonym for \( \mathcal{D}(f) \) when \(f\) is a total function.
 **
