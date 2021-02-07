@@ -7,4 +7,3 @@
 *** [[file:./system-environment_stochastic_processes.org][System-environment Stochastic Processes]]
 ** Management
 *** [[file:./org_mode_reference.org][org mode reference]]
-***
