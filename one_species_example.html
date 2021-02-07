@@ -1,0 +1,43 @@
+<html><html><head><meta charset="UTF-8" /><meta content="width=device-width, initial-scale=1.0" name="viewport" /><link href="https://biotheorylab.github.io/static/css/firn_base.css" rel="stylesheet" /></head></html><body><main><article class="content"><h1>One species example</h1><div><div><section></section><div class="firn-headline-section firn-headline-section-2"><h2 class="firn-headline firn-headline-2" id="to-illustrate-techniques-and-concepts,-we-will-write-them-out-for-the-simple-case-of-a-single-species-reaction-system"><span class="firn-headline-text"><span>To illustrate techniques and concepts, we will write them out for the simple case of a single species reaction system.</span></span></h2><section><p><span>\[\begin{aligned}
+  \emptyset &\to A \\
+  A &\to \emptyset \\
+  2A &\to 3A \\
+  3A &\to 2A
+\end{aligned}\]</span></p></section><div class="firn-headline-section firn-headline-section-3"><h3 class="firn-headline firn-headline-3" id="recall-that,-in-the-ladder-operator-(doi-pelliti)-representation,-the-master-equation-assumes-the-form-\(\frac{d}{dt}-|\rho\rangle-=-\mathcal{l}-|\rho\rangle\)-where"><span class="firn-headline-text"><span>Recall that, in the ladder operator (Doi-Pelliti) representation, the master equation assumes the form \(\frac{d}{dt} |\rho\rangle = \mathcal{L} |\rho\rangle\) where</span></span></h3><section><p><span>\[- \mathcal{L} = \sum\limits_{\mu \to \nu \in R}
+                           \frac{k_{\mu \to \nu}}{\prod_{i \in S} \mu_{i}!}
+                           \left( \prod_{i \in S} a_{i}^{\dagger \nu_{i}} a_{i}^{\mu_{i}}-
+                           \prod_{i \in S} a_{i}^{\dagger \mu_{i}} a_{i}^{\mu_{i}} \right)\]
+This may also be expressed in a matrix form as \(-\mathcal{L} = \psi^{T} (a^{\dagger}) \mathbb{A} \psi(a)\) where
+\[\begin{aligned}
+  \psi(a) &= \begin{pmatrix} 
+                      \prod_{i \in S} a_{i}^{c^{1}_i} \\
+                      \prod_{i \in S} a_{i}^{c^{2}_i} \\ \vdots
+                   \end{pmatrix} \\
+  \mathbb{A} &= \begin{pmatrix}
+                            -\sum_{j} \frac{k_{c^{(1)} \to c^{(j)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
+                            \frac{k_{c^{(2)} \to c^{(1)}}}{\prod_{i \in S} c^{(2)}_{i}!} &
+                            \cdots \\
+                            \frac{k_{c^{(1)} \to c^{(2)}}}{\prod_{i \in S} c^{(1)}_{i}!} &
+                            -\sum_{j} \frac{k_{c^{(2)} \to c^{(j)}}}{\prod_{i \in S} c^{(2)}_{i}!}&
+                            \cdots \\ \vdots & \vdots & \ddots
+ \end{pmatrix}
+ \end{aligned}\]
+In order to write down such a matrix formulaion, we fix an ordering \(c^{(1)}, c^{(2)}, \ldots\) of the complexes appearing as either reactants or products in our set \(R\) of reactions.  When \(c^{(m)} \to c^{(n)} \notin R\), we set \(k_{c^{(m)} \to c^{(n)}} = 0\).</span></p></section></div></div><div class="firn-headline-section firn-headline-section-2"><h2 class="firn-headline firn-headline-2" id="for-our-example,-we-have"><span class="firn-headline-text"><span>For our example, we have</span></span></h2><section><p><span>\[\begin{aligned} -\mathcal{L} &= k_{\emptyset \to A} (a^{\dagger} - 1) \\ &+ k_{A \to \emptyset} (a - a^{\dagger} a) \\ &+ \frac{1}{2} k_{2A \to 3A} (a^{\dagger 3} a^2 - a^{\dagger 2} a^2) \\ &+ \frac{1}{6} k_{3A \to 2A} (a^{\dagger 2} a^3 - a^{\dagger 3} a^3) \\ \psi &= \begin{pmatrix} 1 \\ a \\ a^2 \\ a^3 \end{pmatrix} \qquad \psi^{\dagger} = \begin{pmatrix} 1 & a^{\dagger} & a^{\dagger 2} & a^{\dagger 3} \end{pmatrix} \\ \mathbb{A} &= \begin{pmatrix} -k_{\emptyset \to A} & k_{A \to \emptyset} & 0 & 0 \\ k_{\emptyset \to A} & -k_{A \to \emptyset} & 0 & 0 \\ 0 & 0 & -\frac{1}{2} k_{2A \to 3A} & \frac{1}{6} k_{3A \to 2A} \\ 0 & 0 & \frac{1}{2} k_{2A \to 3A} & -\frac{1}{6} k_{3A \to 2A} \end{pmatrix} \\ Y &= \begin{pmatrix} 0 & 1 & 2 & 3 \end{pmatrix} \end{aligned} \]</span></p></section></div><div class="firn-headline-section firn-headline-section-2"><h2 class="firn-headline firn-headline-2" id="next,-we-bring-in-the-coherent-states-and-obtain-the-equation-of-motion-for-the-cumulant-generating-function--from-the-master-equation-and-the-definition-of-the-cumulant-generating-function,-we-have"><span class="firn-headline-text"><span>Next, we bring in the coherent states and obtain the equation of motion for the cumulant generating function.  From the master equation and the definition of the cumulant generating function, we have</span></span></h2><section><p><span>\[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = \langle 0 | e^{za} \mathcal{L}(a^{\dagger}, a) | \rho \rangle . \]
+We have \(\mathcal{L}(a^{\dagger}, a)\) act to the left.  Because of the identities
+\[\begin{aligned}  \langle 0 | e^{za} a &= \frac{\partial}{\partial z} \langle 0 | e^{za} \\ \langle 0 | e^{za} a^{\dagger} &= z \langle 0 | e^{za} \end{aligned} ,\]
+we see that
+\[e^{-\Gamma} \frac{\partial \Gamma}{\partial t} = \mathcal{L} (z, \frac{\partial}{\partial z}) \langle 0 | e^{za} | \rho \rangle \]
+or, equivalently,
+\[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
+This is the desired differential equation for \(\Gamma\).  For our example system, it works out to be
+\[\frac{\partial \Gamma}{\partial t} = k_{\emptyset \to A} (z - 1)  + k_{A \to \emptyset} (1 - z) e^{\Gamma} \frac{\partial}{\partial z} e^{-\Gamma} + \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) e^{\Gamma} \frac{\partial^2}{\partial z^2} e^{-\Gamma} + \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) e^{\Gamma} \frac{\partial^3}{\partial z^3} e^{-\Gamma} \]</span></p></section></div><div class="firn-headline-section firn-headline-section-2"><h2 class="firn-headline firn-headline-2" id="to-obtain-the-large-deviation-limit,-we-make-an-eikonal-approximation--this-consists-in-retaining-only-the-first-derivative-terms-in-the-derivative-of-the-exponential:"><span class="firn-headline-text"><span>To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:</span></span></h2><section><p><span>\[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
+But applying the identites to the expression for average number,
+\[n = \frac{\langle 0 | e^{za} a{\dagger} a | \rho \rangle}{\langle 0 | e^{za} | \rho \rangle} = \frac{z \partial(\langle 0 | e^{za} | \rho \rangle) / \partial z}{\langle 0 | e^{za} | \rho \rangle} ;\]
+by definition of \(\Gamma\) as a generating function, we obtain
+\[-\frac{\partial \Gamma}{\partial z} = \frac{n}{z} .\]
+Hence, our eikonal approximation may be expressed as
+\[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( \frac{n}{z} \right)^k ,\]
+so the approximation to the equation of motion is
+\[\frac{\partial \Gamma^{\mathrm{class}}}{\partial t} = \mathcal{L}^{\mathrm{class}} (z, n/z) .\]
+In the example, this assumes the form
+\[\frac{\partial \Gamma^{\mathrm{class}}}{\partial t} = k_{\emptyset \to A} (z - 1)  + k_{A \to \emptyset} (1 - z) \frac{n}{z} + \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) \left( \frac{n}{z} \right)^{2} + \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) \left( \frac{n}{z} \right)^{3}  = (k_{\emptyset \to A} + \frac{1}{2} k_{2A \to 3A}) (z - 1) + (k_{A \to \emptyset} + \frac{1}{6} k_{3A \to 2A}) (\frac{1}{z} - 1)\]</span></p></section></div><div class="firn-headline-section firn-headline-section-2"><><span class="firn-headline-text"></span></></div></div></div></article></main></body></html>
