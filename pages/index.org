@@ -1,6 +1,6 @@
 #+TITLE: index
 
-**
+** Theory
 ** [[file:./notation_for_probability.org][Notation for Probability]]
 ** [[file:./one_species_example.org][One species example]]
 **
