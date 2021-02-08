@@ -7,4 +7,4 @@
 *** at arbitrary $a$
 **** $\sum_{n=0}^{\infty} \frac{1}{n!} f^{(n)}(a) (x-a)^n$
 ** A typical way of approximating a function is by concocting a power series.  (For concreteness, let \(f \colon \mathbb{C} \to \mathbb{C}\) denote the function we are interested in approximating.) Once we have done this, we ask under what conditions the power series provides a useable approximation to \(f\).  There are several posibilities.
-*** In the most favorable case
+*** In the most favorable case, the series converges for all \(x \in \mathbb{C}\).
