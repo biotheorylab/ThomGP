@@ -1,9 +1,0 @@
-#+TITLE: index
-
-** Theory
-*** [[file:./notation_for_probability.org][Notation for Probability]]
-*** [[file:./continuous-time_markov_processes.org][Continuous-time Markov processes]]
-*** [[file:./one_species_example.org][One species example]]
-*** [[file:./system-environment_stochastic_processes.org][System-environment Stochastic Processes]]
-** Management
-*** [[file:./org_mode_reference.org][org mode reference]]
