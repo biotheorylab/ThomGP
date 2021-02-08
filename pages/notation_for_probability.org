@@ -51,3 +51,4 @@ knowing how the functor behaves in these cases determines its behavior in genera
 :later: 1612803985660
 :END:
 \[\begin{aligned} \mathbb{E} \colon \mathcal{D}(X) &\to X \\ d &\mapsto \sum_{k \in S_{X}} k d({k}) \end{aligned}\]
+**
