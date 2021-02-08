@@ -50,3 +50,4 @@ knowing how the functor behaves in these cases determines its behavior in genera
 :PROPERTIES:
 :later: 1612803985660
 :END:
+\[\begin{aligned} \end{aligned}\]
