@@ -6,4 +6,4 @@
 **** $f(0) + f'(0)x + \frac{1}{2}f''(0)x^2 + \frac{1}{6}f'''(0)x^3 + \cdots$
 *** at arbitrary $a$
 **** $\sum_{n=0}^{\infty} \frac{1}{n!} f^{(n)}(a) (x-a)^n$
-**
+** A typical way of approximating a function is as a power series.
