@@ -7,5 +7,8 @@
 *** at arbitrary $a$
 **** $\sum_{n=0}^{\infty} \frac{1}{n!} f^{(n)}(a) (x-a)^n$
 ** A typical way of approximating a function is by concocting a power series.  (For concreteness, let \(f \colon \mathbb{C} \to \mathbb{C}\) denote the function we are interested in approximating.) Once we have done this, we ask under what conditions the power series provides a useable approximation to \(f\).  There are several posibilities.
-*** In the most favorable case, the series converges for all \(x \in \mathbb{C}\).  This means that, for any argument \(x \in \mathbb{C}\) and any tolerance \(\epsilon \in \mathbb{R_{+}}\), there exists a natural number \(n\) such that all partial sums of the series with at least \(N\) terms approximate \(f(x)\) within \(\epsilon\).  Symbolically,
+*** LATER In the most favorable case, the series converges for all \(x \in \mathbb{C}\).  This means that, for any argument \(x \in \mathbb{C}\) and any tolerance \(\epsilon \in \mathbb{R_{+}}\), there exists a natural number \(n\) such that all partial sums of the series with at least \(N\) terms approximate \(f(x)\) within \(\epsilon\).  Symbolically,
+:PROPERTIES:
+:later: 1612808986660
+:END:
 \[\forall x \in \mathbb{C} ~.~~ \forall \epsilon \in \mathbb{R}_{+} ~.~ \exists n \in \mathbb{N} ~.~ \forall k \in \mathbb{N} ~.~ k \ge n \Rightarrow \left| f(x) - \sum_{j=0}^{k} c_j x^j \right| \le \epsilon\]
