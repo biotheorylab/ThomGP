@@ -13,4 +13,4 @@
 :END:
 \[\forall x \in \mathbb{C} ~.~~ \forall \epsilon \in \mathbb{R}_{+} ~.~ \exists n \in \mathbb{N} ~.~ \forall k \in \mathbb{N} ~.~ k \ge n \Rightarrow \left| f(x) - \sum_{j=0}^{k} c_j x^j \right| \le \epsilon\]
 A famaliar case is when \(f(x) = e^{x}\) is expanded in the Taylor series \(\sum_{k=0}^{\infty} x^n/n! \).  Because the factorial grows much faster than any exponential, this series converges for all \(x\).
-*** It may only converge for
+*** It may only converge for values of \(x\) which lie within a radius of convergence
