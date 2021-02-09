@@ -15,4 +15,5 @@
 A famaliar case is when \(f(x) = e^{x}\) is expanded in the Taylor series \(\sum_{k=0}^{\infty} x^n/n! \).  Because the factorial grows much faster than any exponential, this series converges for all \(x\).
 *** It may only converge for values of \(x\) which lie within a radius \(r\) of convergence:
 \[\forall x \in \mathbb{C} ~.~~ \forall \epsilon \in \mathbb{R}_{+} ~.~ \exists n \in \mathbb{N} ~.~ \forall k \in \mathbb{N} ~.~ k \ge n \land |x| < r \Rightarrow \left| f(x) - \sum_{j=0}^{k} c_j x^j \right| \le \epsilon\]
-A famailiar example is a geometric series --- for \(|x| < 1\), the series \(\sum_{k=0}^{\infty}\) converges to
+A famailiar example is a geometric series --- for \(|x| < 1\), the series \(\sum_{k=0}^{\infty}\) converges to \(1/(1-x)\) whereas it diverges for all other values of \(x\).
+***
