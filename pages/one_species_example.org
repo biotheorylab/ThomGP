@@ -64,5 +64,5 @@ In the example, this assumes the form
 or, changing variable,
 \[\frac{\partial \Gamma^{\mathrm{class}}}{\partial t} = (k_{\emptyset \to A} + \frac{1}{2} k_{2A \to 3A} n^{2}) (e^{\theta} - 1) + (k_{A \to \emptyset} + \frac{1}{6} k_{3A \to 2A} n^{3}) (e^{-\theta} - 1)\]
 ** So now we can write down the Hamiltonian equations (23, 24 in the paper):
-\[\begin{aligned} \frac{\partial \theta}{\partial t} &= \frac{\partial \mathcal{L}}{\partial } \\ \frac{\partial n}{\partial t} &= \end{aligned}\]
+\[\begin{aligned} \frac{\partial \theta}{\partial t} &= \frac{\partial \mathcal{L}}{\partial n} =  \\ \frac{\partial n}{\partial t} &= \end{aligned}\]
 **
