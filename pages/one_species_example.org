@@ -52,7 +52,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 ** For simplicity, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
 \[\frac{\partial \Gamma}{\partial t} + k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = k_{\emptyset \to A} (z - 1) .\]
 Since this equation is of the first order, we may solve it using the method of characteristics to obtain
-\[ \Gamma (z, t) = \Gamma - \frac{}{} z \]
+\[ \Gamma (z, t) = \Gamma - \frac{k_{\emptyset \to A}}{} z \]
 ** To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
