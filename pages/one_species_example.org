@@ -10,7 +10,7 @@
   2A &\to 3A \\
   3A &\to 2A
 \end{aligned}\]
-*** Recall that, in the ladder operator (Doi-Pelliti) representation, the master equation assumes the form \(\frac{d}{dt} |\rho\rangle = \mathcal{L} |\rho\rangle\) where
+** Recall that, in the ladder operator (Doi-Pelliti) representation, the master equation assumes the form \(\frac{d}{dt} |\rho\rangle = \mathcal{L} |\rho\rangle\) where
 :PROPERTIES:
 :later: 1611938011441
 :END:
