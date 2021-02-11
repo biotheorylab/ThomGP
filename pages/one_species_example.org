@@ -56,7 +56,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 \[\frac{\partial \Gamma}{\partial t} + k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = k_{\emptyset \to A} (z - 1) .\]
 Since this equation is of the first order, we may solve it using the method of characteristics to obtain the general solution
 \[ \Gamma (z, t) = f(e^{k_{A \to \emptyset} t} (z - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
-Making the change of variable, this becomes
+Making the change of variable $z \rightarrow e^{\theta}$, this becomes
 \[\Gamma (\theta, t) = f(e^{k_{A \to \emptyset} t} (e^{\theta} - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} e^{\theta} .\]
 For concreteness, let us pick the initial condition of a single \(A\) at time zero.  This  means that \(e^{-\Gamma(z, 0)} = z = e^{\theta}\), i.e. \(\Gamma(\theta, 0) = -\theta\).  Hence we have \(f(z) = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (z + 1) + \log(z + 1)\) and so
 \[ \Gamma (\theta, t) = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} \left(  e^{k_{A \to \emptyset} t} (e^{\theta} - 1)  + 1 - e^{\theta} \right) + \log (e^{k_{A \to \emptyset} t} (e^{\theta} - 1) + 1) \]
