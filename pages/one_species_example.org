@@ -59,7 +59,7 @@ Since this equation is of the first order, we may solve it using the method of c
 Making the change of variable, this becomes
 \[\Gamma (\theta, t) = f(e^{k_{A \to \emptyset} t} (e^{\theta} - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} e^{\theta} .\]
 For concreteness, let us pick the initial condition of a single \(A\) at time zero.  This  means that \(e^{-\Gamma(z, 0)} = z = e^{\theta}\), i.e. \(\Gamma(\theta, 0) = -\theta\).  Hence we have
-\[ \Gamma (\theta, t) = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} \left(  e^{k_{A \to \emptyset} t} (e^{\theta} - 1) + \log (e^{k_{A \to \emptyset} t} (e^{\theta} - 1)) + 1 - e^{\theta} \right) \]
+\[ \Gamma (\theta, t) = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} \left(  e^{k_{A \to \emptyset} t} (e^{\theta} - 1) + \log (e^{k_{A \to \emptyset} t} (e^{\theta} - 1) + 1) + 1 - e^{\theta} \right) \]
 ** To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
