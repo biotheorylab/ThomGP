@@ -57,7 +57,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 Since this equation is of the first order, we may solve it using the method of characteristics to obtain the general solution
 \[ \Gamma (z, t) = f(e^{k_{A \to \emptyset} t} (z - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
 Making the change of variable, this becomes
-\[\Gamma (\theta, t) = f(e^{k_{A \to \emptyset} t} (z - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z\]
+\[\Gamma (\theta, t) = f(e^{k_{A \to \emptyset} t} (z - 1)) - \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} e^{\theta}\]
 ** To obtain the large deviation limit, we make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
