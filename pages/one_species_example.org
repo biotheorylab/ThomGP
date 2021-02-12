@@ -54,7 +54,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 :later: 1613158652588
 :END:
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = -k_{\emptyset \to A} (z - 1) .\]
-Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution 
+Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution we will 
 of the first order, we may solve it using the method of characteristics to obtain the general solution
 \[ \Gamma (z, t) = f(e^{-k_{A \to \emptyset} t} (z - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
 Making the change of variable, this becomes
