@@ -58,7 +58,7 @@ Since this equation is linear, its solution will be the sum of a particular solu
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} =0,\]
 is of first order, a function of \(z\) and \(t\) will be a solution iff it is constant along characteristics.  These are determined by the equation
 \[\frac{dz}{dt} = - k_{A \to \emptyset} (1 - z)\]
-as \(z = 1 + C e^{k_{A \to \emptyset} t)}\).  Thus we have the general solution
+as \(z = 1 + C e^{k_{A \to \emptyset} t}\).  Thus we have the general solution
 \[ \Gamma (z, t) = f(e^{-k_{A \to \emptyset} t} (z - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
 Making the change of variable, this becomes
 \[\Gamma (\theta, t) = f(e^{-k_{A \to \emptyset} t} (e^{\theta} - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} e^{\theta} .\]
