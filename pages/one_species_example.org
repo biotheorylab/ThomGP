@@ -49,15 +49,14 @@ or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
 This is the desired differential equation for \(\Gamma\).  For our example system, it works out to be
 \[\frac{\partial \Gamma}{\partial t} = -k_{\emptyset \to A} (z - 1)  - k_{A \to \emptyset} (1 - z) e^{\Gamma} \frac{\partial}{\partial z} e^{-\Gamma} - \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) e^{\Gamma} \frac{\partial^2}{\partial z^2} e^{-\Gamma} - \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) e^{\Gamma} \frac{\partial^3}{\partial z^3} e^{-\Gamma} \]
-** To see what the solution looks like in a simple example, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
+** LATER To see what the solution looks like in a simple example, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
 :PROPERTIES:
-:later: 1613158652588
+:later: 1613159768588
 :END:
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = -k_{\emptyset \to A} (z - 1) .\]
 Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution we will take the time-independant solution \(\Gamma = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z\).  Since the homogenous equation,
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} =0,\]
-is of first order, a function of \(z\) and \(t\) wil be a solution iff it is constant along characteristics.  
-\[ \Gamma (z, t) = f(e^{-k_{A \to \emptyset} t} (z - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
+is of first order, a function of \(z\) and \(t\) wil be a solution iff it is constant along characteristics.  These are determined by the equations \[ \Gamma (z, t) = f(e^{-k_{A \to \emptyset} t} (z - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z. \]
 Making the change of variable, this becomes
 \[\Gamma (\theta, t) = f(e^{-k_{A \to \emptyset} t} (e^{\theta} - 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} e^{\theta} .\]
 For concreteness, let us pick the initial condition of a single \(A\) at time zero.  This  means that \(e^{-\Gamma(z, 0)} = z = e^{\theta}\), i.e. \(\Gamma(\theta, 0) = -\theta\).  Hence we have \(f(z) = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (z + 1) + \log(z + 1)\) and so
