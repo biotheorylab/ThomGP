@@ -2,7 +2,7 @@
 
 ** This page is meant as as a sort of journal for keeping track of our progress in journal club activities studying literature related to theoretical biology and adjacent subjects.
 ** Main works --- These are the works we are studying in detail to understand ideas and techniques which we hope to build upon and make use of in our work.
-*** NOW [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]]  We have finished a preliminary verbatim read and are now 
+*** NOW [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]]  We have finished a preliminary verbatim read and are now focussing on specific topics.
 :PROPERTIES:
 :now: 1613234567058
 :END:
