@@ -45,3 +45,4 @@
 :PROPERTIES:
 :later: 1613237767039
 :END:
+*** Andrieux, D., & Gaspard, P. (2007). Fluctuation Theorem for Currents and Schnakenberg Network Theory. Journal of Statistical Physics, 127(1), 107–131. https://doi.org/10.1007/s10955-006-9233-5
