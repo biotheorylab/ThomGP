@@ -35,4 +35,4 @@
 :PROPERTIES:
 :now: 1613236370039
 :END:
-***
+*** Harris, R. J., & Schütz, G. M. (2007). Fluctuation theorems for stochastic dynamics. Journal of Statistical Mechanics: Theory and Experiment, 7. https://doi.org/10.1088/1742-5468/2007/07/P07020
