@@ -1,6 +1,6 @@
 #+TITLE: One species example
 
-** To illustrate techniques and concepts in "Intrinsic and Extrinsic Thermodynamics"  (which will hereafter be called "the paper"), we will write them out for the simple case of Schloegel's single species reaction system.  This is a standard example in the subject and is considered in the paper; here we 
+** To illustrate techniques and concepts in "Intrinsic and Extrinsic Thermodynamics"  (which will hereafter be called "the paper"), we will write them out for the simple case of Schloegel's single species reaction system.  This is a standard example in the subject and is considered in the paper; here we fill in missing steps and 
 :PROPERTIES:
 :later: 1611887761901
 :END:
