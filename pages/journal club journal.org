@@ -6,7 +6,10 @@
 :PROPERTIES:
 :now: 1613234567058
 :END:
-***
+*** LATER Smith, E., & Krishnamurthy, S. (2011). Bridging scales with generating functions and the large-deviations analysis of stochastic evolutionary game theory. http://www.santafe.edu/~desmith/PDF_pubs/evo_games_LDP.pdf
+:PROPERTIES:
+:later: 1613236548538
+:END:
 *** LATER Hufton, P. G., Lin, Y. T., & Galla, T. (2018). Model reduction methods for classical stochastic systems with fast-switching environments: reduced master equations, stochastic differential equations, and applications. 1–31. http://arxiv.org/abs/1803.02941
 :PROPERTIES:
 :later: 1613236239038
