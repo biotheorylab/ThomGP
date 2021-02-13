@@ -36,5 +36,8 @@
 :now: 1613236370039
 :END:
 *** Smith, E. (2011). Large-deviation principles, stochastic effective actions, path entropies, and the structure and meaning of thermodynamic descriptions. Reports on Progress in Physics, 74(4), 046601. https://doi.org/10.1088/0034-4885/74/4/046601
-*** Krishnamurthy, S., & Smith, E. (2017). Solving Moment Hierarchies for Chemical Reaction Networks. https://arxiv.org/pdf/1702.01364.pdf
+*** DONE Krishnamurthy, S., & Smith, E. (2017). Solving Moment Hierarchies for Chemical Reaction Networks. https://arxiv.org/pdf/1702.01364.pdf
+:PROPERTIES:
+:done: 1613237438039
+:END:
 *** Harris, R. J., & Schütz, G. M. (2007). Fluctuation theorems for stochastic dynamics. Journal of Statistical Mechanics: Theory and Experiment, 7. https://doi.org/10.1088/1742-5468/2007/07/P07020
