@@ -49,4 +49,8 @@
 :PROPERTIES:
 :later: 1613239162039
 :END:
+*** LATER Leifer, I., Morone, F., Reis, S. D. S., Andrade, J. S., Sigman, M., & Makse, H. A. (2020). Circuits with broken fibration symmetries perform core logic computations in biological networks. PLOS Computational Biology, 16(6), e1007776. https://doi.org/10.1371/journal.pcbi.1007776
+:PROPERTIES:
+:later: 1613239349538
+:END:
 ***
