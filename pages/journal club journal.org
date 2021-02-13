@@ -11,6 +11,7 @@
 **** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 **** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 **** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
+**** VI. EXAMPLES
 ****
 *** LATER Smith, E., & Krishnamurthy, S. (2011). Bridging scales with generating functions and the large-deviations analysis of stochastic evolutionary game theory. http://www.santafe.edu/~desmith/PDF_pubs/evo_games_LDP.pdf  We have already perused this in the past but could bring our understanding to a new level by integrating what we have learned in the meanwhile, especially from our study related to "Intrinsic and Extrinsic Thermodynamics".
 :PROPERTIES:
