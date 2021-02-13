@@ -53,4 +53,7 @@
 :PROPERTIES:
 :later: 1613239349538
 :END:
-***
+*** LATER Chalub, F. A. C. C., & Souza, M. O. (2014). The frequency-dependent Wright–Fisher model: diffusive and non-diffusive approximations. Journal of Mathematical Biology, 68(5), 1089–1133. https://doi.org/10.1007/s00285-013-0657-7
+:PROPERTIES:
+:later: 1613239524038
+:END:
