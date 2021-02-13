@@ -6,7 +6,7 @@
 :PROPERTIES:
 :now: 1613234567058
 :END:
-*** LATER Smith, E., & Krishnamurthy, S. (2011). Bridging scales with generating functions and the large-deviations analysis of stochastic evolutionary game theory. http://www.santafe.edu/~desmith/PDF_pubs/evo_games_LDP.pdf  We have already perused this in the past
+*** LATER Smith, E., & Krishnamurthy, S. (2011). Bridging scales with generating functions and the large-deviations analysis of stochastic evolutionary game theory. http://www.santafe.edu/~desmith/PDF_pubs/evo_games_LDP.pdf  We have already perused this in the past.  
 :PROPERTIES:
 :later: 1613236548538
 :END:
