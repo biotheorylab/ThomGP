@@ -2,4 +2,4 @@
 
 ** This page is meant as as a sort of journal for keeping track of our progress in journal club activities studying literature related to theoretical biology and adjacent subjects.
 ** Main works --- These are the works we are studying in detail to understand ideas and techniques which we hope to build upon and make use of in our work.
-** Auxiliary literature  --- Along the way, we read other works which help explain concepts and fill in details on topics
+** Auxiliary literature  --- Along the way, we read other works which provide backround, explain concepts, illustrate by example, and fill in details on topics discussed in the main works.
