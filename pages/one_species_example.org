@@ -1,6 +1,6 @@
 #+TITLE: One species example
 
-** To illustrate techniques and concepts, we will write them out for the simple case of a single species reaction system.
+** To illustrate techniques and concepts in "Intrin, we will write them out for the simple case of a single species reaction system.
 :PROPERTIES:
 :later: 1611887761901
 :END:
