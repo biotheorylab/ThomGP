@@ -8,3 +8,4 @@
 :END:
 ***
 ** Auxiliary literature  --- Along the way, we read other works which provide backround, explain concepts, illustrate by example, and fill in details on topics discussed in the main works.
+***
