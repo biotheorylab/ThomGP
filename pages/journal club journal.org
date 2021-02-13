@@ -14,7 +14,10 @@
 :PROPERTIES:
 :later: 1613236246039
 :END:
-***
+*** LATER Friston, K. (2019). A free energy principle for a particular physics. http://arxiv.org/abs/1906.10184
+:PROPERTIES:
+:later: 1613236303038
+:END:
 ** Auxiliary literature  --- Along the way, we read other works which provide backround, explain concepts, illustrate by example, and fill in details on topics discussed in the main works.
 *** Schnakenberg, J. (1976). Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
 ***
