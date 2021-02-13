@@ -10,7 +10,10 @@
 :PROPERTIES:
 :later: 1613236239038
 :END:
-*** Polettini, M., & Esposito, M. (2018). Effective fluctuation and response theory. https://arxiv.org/pdf/1803.03552.pdf
+*** LATER Polettini, M., & Esposito, M. (2018). Effective fluctuation and response theory. https://arxiv.org/pdf/1803.03552.pdf
+:PROPERTIES:
+:later: 1613236246039
+:END:
 ** Auxiliary literature  --- Along the way, we read other works which provide backround, explain concepts, illustrate by example, and fill in details on topics discussed in the main works.
 *** Schnakenberg, J. (1976). Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
 ***
