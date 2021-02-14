@@ -15,6 +15,7 @@
 ****** A. Hypergraph generator of state-space transitions
 Comparing with the "moment hierarchy" paper clarifies the notation.
 ******* 1. Descaling of transition matrices for microstates
+******* 2. Descaling of transition matrices for macrostates
 *******
 ****** B. Large-deviation and Lyapunov roles of the effective action
 The
