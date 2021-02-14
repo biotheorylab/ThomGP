@@ -41,5 +41,6 @@ The
 ****** B. Metastability and \(\bar{\rho}^{s}\) as the reference measure for relative entropy
 ***** VII. DISCUSSION
 ****** The end of entropy flow, the natural partition, and Hartley information
+****** Making trajectories first-class citizens
 ******
 ***** VIII. CONCLUDING REMARKS
