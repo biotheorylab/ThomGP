@@ -19,6 +19,7 @@
 ******* 2. Legendre transform of the CGF
 ******* 3. Hamiltonian equations of motion and the action
 ****** B. The stationary distribution and macrostates
+******* 1. Coherent states, dimensional reduction, and the f-divergence
 *******
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 ****** A. Hypergraph generator of state-space transitions
