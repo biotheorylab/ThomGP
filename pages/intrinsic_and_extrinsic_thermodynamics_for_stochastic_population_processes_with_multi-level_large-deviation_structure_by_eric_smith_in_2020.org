@@ -5,7 +5,7 @@
 ** Contents
 *** I. INTRODUCTION
 ***** II. MULTI-LEVEL SYSTEMS
-*****
+****** A. Models based on population processes
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 Comparing with the "moment hierarchy" paper clarifies the notation.
