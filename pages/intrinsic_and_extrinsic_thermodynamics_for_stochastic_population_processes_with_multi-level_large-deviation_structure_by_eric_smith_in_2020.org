@@ -21,7 +21,7 @@ The
 ****** B. Cycle decomposition in the microstate space, and non-decrease of relative entropy components
 ***** VI. EXAMPLES
 ****** A. Dualizing the housekeeping embedding thermodynamics
-****** B. Metastability and \(\bar) as the reference measure for relative entropy
+****** B. Metastability and \(\bar{\rho}^{s}) as the reference measure for relative entropy
 The
 ***** VII. DISCUSSION
 ***** VIII. CONCLUDING REMARKS
