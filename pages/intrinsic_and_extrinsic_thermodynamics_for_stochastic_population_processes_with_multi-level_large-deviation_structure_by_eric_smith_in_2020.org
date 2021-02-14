@@ -14,7 +14,8 @@
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 ****** A. Hypergraph generator of state-space transitions
 Comparing with the "moment hierarchy" paper clarifies the notation.
-******
+****** B. Large-deviation and Lyapunov roles of the effective action
+The
 ***** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
 ***** VI. EXAMPLES
 ***** VII. DISCUSSION
