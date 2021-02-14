@@ -20,7 +20,7 @@
 ******* 3. Hamiltonian equations of motion and the action
 ****** B. The stationary distribution and macrostates
 ******* 1. Coherent states, dimensional reduction, and the f-divergence
-*******
+******* 2. Multiple fixed points and instantons
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 ****** A. Hypergraph generator of state-space transitions
 Comparing with the "moment hierarchy" paper clarifies the notation.
