@@ -65,4 +65,5 @@
 *** Raju, A., Machta, B. B., & Sethna, J. P. (2017). Information geometry and the renormalization group. https://arxiv.org/pdf/1710.05787.pdf
 *** Oates, C. J., & Mukherjee, S. (2012). Network inference and biological dynamics. The Annals of Applied Statistics, 6(3), 1209–1235. https://doi.org/10.1214/11-AOAS532
 ** Longer works --- Books, monographs or book-length reviews.
+*** Dawson, D. A. (2017). Introductory Lectures on Stochastic Population Systems. https://arxiv.org/pdf/1705.03781.pdf
 ***
