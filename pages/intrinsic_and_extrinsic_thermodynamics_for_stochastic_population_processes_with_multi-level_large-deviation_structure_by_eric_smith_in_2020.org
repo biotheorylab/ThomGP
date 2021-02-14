@@ -19,7 +19,6 @@ The
 ***** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
 ****** A. Complexity classes and cycle decompositions of stationary currents on the hypergraph
 ****** B. Cycle decomposition in the microstate space, and non-decrease of relative entropy components
-Next
 ***** VI. EXAMPLES
 ***** VII. DISCUSSION
 ***** VIII. CONCLUDING REMARKS
