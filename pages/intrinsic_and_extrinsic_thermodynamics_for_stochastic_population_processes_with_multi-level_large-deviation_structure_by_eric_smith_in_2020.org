@@ -17,6 +17,8 @@ Comparing with the "moment hierarchy" paper clarifies the notation.
 ****** B. Large-deviation and Lyapunov roles of the effective action
 The
 ***** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
+****** A. Complexity classes and cycle decompositions of stationary currents on the hypergraph
+Remarkably,
 ***** VI. EXAMPLES
 ***** VII. DISCUSSION
 ***** VIII. CONCLUDING REMARKS
