@@ -20,5 +20,6 @@ The
 ****** A. Complexity classes and cycle decompositions of stationary currents on the hypergraph
 ****** B. Cycle decomposition in the microstate space, and non-decrease of relative entropy components
 ***** VI. EXAMPLES
+******
 ***** VII. DISCUSSION
 ***** VIII. CONCLUDING REMARKS
