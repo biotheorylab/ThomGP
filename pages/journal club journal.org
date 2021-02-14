@@ -6,15 +6,6 @@
 :PROPERTIES:
 :now: 1613234567058
 :END:
-**** I. INTRODUCTION
-**** II. MULTI-LEVEL SYSTEMS
-**** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
-**** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
-Comparing with the "moment hierarchy" paper clarifies the notation.
-**** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
-**** VI. EXAMPLES
-**** VII. DISCUSSION
-**** VIII. CONCLUDING REMARKS
 *** LATER Smith, E., & Krishnamurthy, S. (2011). Bridging scales with generating functions and the large-deviations analysis of stochastic evolutionary game theory. http://www.santafe.edu/~desmith/PDF_pubs/evo_games_LDP.pdf  
 :PROPERTIES:
 :later: 1613236548538
