@@ -42,5 +42,5 @@ The
 ***** VII. DISCUSSION
 ****** The end of entropy flow, the natural partition, and Hartley information
 ****** Making trajectories first-class citizens
-******
+****** Rule-based systems and life
 ***** VIII. CONCLUDING REMARKS
