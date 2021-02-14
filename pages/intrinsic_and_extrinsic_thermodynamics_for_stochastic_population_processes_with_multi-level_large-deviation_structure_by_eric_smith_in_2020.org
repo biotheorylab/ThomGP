@@ -7,7 +7,7 @@
 ***** II. MULTI-LEVEL SYSTEMS
 ****** A. Models based on population processes
 ****** B. Stochastic description within the mesoscale
-******
+****** C. System-environment decompositions of the entropy change
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 Comparing with the "moment hierarchy" paper clarifies the notation.
