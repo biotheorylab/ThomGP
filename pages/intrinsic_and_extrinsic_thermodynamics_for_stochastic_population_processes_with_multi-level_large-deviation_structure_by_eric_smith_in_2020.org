@@ -10,7 +10,7 @@
 ****** C. System-environment decompositions of the entropy change
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
-******
+****** B. The stationary distribution and macrostates
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 Comparing with the "moment hierarchy" paper clarifies the notation.
 ***** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
