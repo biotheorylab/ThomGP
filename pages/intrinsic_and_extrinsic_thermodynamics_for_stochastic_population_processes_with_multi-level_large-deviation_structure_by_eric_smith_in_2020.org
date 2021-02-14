@@ -9,6 +9,7 @@
 ****** B. Stochastic description within the mesoscale
 ****** C. System-environment decompositions of the entropy change
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
+******
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
 ****** B. The stationary distribution and macrostates
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
