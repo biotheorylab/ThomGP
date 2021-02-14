@@ -67,3 +67,4 @@
 ** Longer works --- Books, monographs or book-length reviews.
 *** Dawson, D. A. (2017). Introductory Lectures on Stochastic Population Systems. https://arxiv.org/pdf/1705.03781.pdf
 *** van Kampen, N. G. (2007). Stochastic Processes in Physics and Chemistry.
+*** Bertin, E. (2016). Statistical Physics of Complex Systems. In Statistical Physics of Complex Systems. Springer. https://doi.org/10.1007/978-3-319-42340-1
