@@ -9,6 +9,7 @@
 ****** A. Models based on population processes
 ****** B. Stochastic description within the mesoscale
 ****** C. System-environment decompositions of the entropy change
+******* 1. The information/heat decomposition of total
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
 ****** B. The stationary distribution and macrostates
