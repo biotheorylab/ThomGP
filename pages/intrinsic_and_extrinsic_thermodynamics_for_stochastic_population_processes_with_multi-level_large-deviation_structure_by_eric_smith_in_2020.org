@@ -5,7 +5,7 @@
 ** Contents
 *** I. INTRODUCTION
 ***** II. MULTI-LEVEL SYSTEMS
-******
+****** 1. Micro to macro, within and between levels
 ****** A. Models based on population processes
 ****** B. Stochastic description within the mesoscale
 ****** C. System-environment decompositions of the entropy change
