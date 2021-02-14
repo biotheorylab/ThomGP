@@ -15,6 +15,7 @@
 ******* 4. System Hartley information as a temporal connection
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
+******* 1. Relation of the Liouville operator to the cumulant-generating function
 ****** B. The stationary distribution and macrostates
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
 ****** A. Hypergraph generator of state-space transitions
