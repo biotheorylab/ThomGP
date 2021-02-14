@@ -16,6 +16,7 @@
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
 ******* 1. Relation of the Liouville operator to the cumulant-generating function
+******* 2. Legendre transform of the CGF
 *******
 ****** B. The stationary distribution and macrostates
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
