@@ -12,7 +12,8 @@
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
 ****** B. The stationary distribution and macrostates
 ***** IV. POPULATION PROCESSES WITH CRN-FORM GENERATORS
-***** A. Hypergraph generator of state-space transitionsComparing with the "moment hierarchy" paper clarifies the notation.
+****** A. Hypergraph generator of state-space transitions
+Comparing with the "moment hierarchy" paper clarifies the notation.
 ***** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
 ***** VI. EXAMPLES
 ***** VII. DISCUSSION
