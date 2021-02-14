@@ -12,7 +12,7 @@
 ******* 1. The information/heat decomposition of total relative-entropy change
 ******* 2. Relative entropy referencing the system steady state at instantaneous parameters
 ******* 3. Intrinsic and extrinsic thermodynamics
-*******
+******* 4. System Hartley information as a temporal connection
 ***** III. HAMILTON-JACOBI THEORY FOR LARGE DEVIATIONS
 ****** A. Generating functions, Liouville equation, and the Hamilton-Jacobi construction for saddle points
 ****** B. The stationary distribution and macrostates
