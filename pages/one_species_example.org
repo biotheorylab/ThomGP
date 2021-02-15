@@ -62,7 +62,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 
 To see what the solution looks like in a simple example, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = -k_{\emptyset \to A} (z - 1) .\]
-Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution we will take the time-independent solution \(\Gamma = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z\).  Since the homogenous equation,
+Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution we will take the time-independent solution \(\Gamma = -\frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z\).  Since the homogenous equation,
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} =0,\]
 is of first order, a function of \(z\) and \(t\) will be a solution iff it is constant along characteristics.  These are determined by the equation
 \[\frac{dz}{dt} = - k_{A \to \emptyset} (1 - z)\]
