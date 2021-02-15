@@ -1,6 +1,6 @@
 #+TITLE: One species example
 
-** ^^Introduction^^
+** *^^*Introduction^^
 :PROPERTIES:
 :later: 1611887761901
 :END:
