@@ -12,10 +12,12 @@ To illustrate some of the techniques and concepts described in [[Intrinsic and E
   2A &\to 3A \\
   3A &\to 2A
 \end{aligned}\]
-** *Notation*Recall that, in the ladder operator (Doi-Pelliti) representation, the master equation assumes the form \(\frac{d}{dt} |\rho\rangle = \mathcal{L} |\rho\rangle\) where
+** *Notation*
 :PROPERTIES:
 :later: 1611938011441
 :END:
+
+Recall that, in the ladder operator (Doi-Pelliti) representation, the master equation assumes the form \(\frac{d}{dt} |\rho\rangle = \mathcal{L} |\rho\rangle\) where
 \[- \mathcal{L} = \sum\limits_{\mu \to \nu \in R}
                            \frac{k_{\mu \to \nu}}{\prod_{i \in S} \mu_{i}!}
                            \left( \prod_{i \in S} a_{i}^{\dagger \nu_{i}} a_{i}^{\mu_{i}}-
