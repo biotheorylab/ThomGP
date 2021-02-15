@@ -77,7 +77,7 @@ For concreteness, let us pick the initial condition of a single \(A\) at time ze
 *** *Legendre Transform*
 
 We start with the equation \(\partial \Gamma/\partial \theta + n = 0\), which becomes
-\[\frac{e^{\theta - k_{A \to \emptyset} t}}{e^{- k_{A \to \emptyset} t} (e^{\theta} - 1) + 1} + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{- k_{A \to \emptyset} t})\]
+\[\frac{e^{\theta - k_{A \to \emptyset} t}}{e^{- k_{A \to \emptyset} t} (e^{\theta} - 1) + 1} + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{- k_{A \to \emptyset} t}) \]
 ** To obtain the large deviation limit, we first make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
