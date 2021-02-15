@@ -55,7 +55,7 @@ or, equivalently,
 \[\frac{\partial \Gamma}{\partial t} = e^{\Gamma} \mathcal{L} (z, \frac{\partial}{\partial z}) e^{-\Gamma} .\]
 This is the desired differential equation for \(\Gamma\).  For our example system, it works out to be
 \[\frac{\partial \Gamma}{\partial t} = -k_{\emptyset \to A} (z - 1)  - k_{A \to \emptyset} (1 - z) e^{\Gamma} \frac{\partial}{\partial z} e^{-\Gamma} - \frac{1}{2} k_{2A \to 3A} (z^{3} - z^{2}) e^{\Gamma} \frac{\partial^2}{\partial z^2} e^{-\Gamma} - \frac{1}{6} k_{3A \to 2A} (z^{2} - z^{3}) e^{\Gamma} \frac{\partial^3}{\partial z^3} e^{-\Gamma} \]
-** To see what the solution looks like in a simple example, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
+*** To see what the solution looks like in a simple example, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
 :PROPERTIES:
 :later: 1613159768588
 :END:
