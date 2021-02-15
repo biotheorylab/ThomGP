@@ -74,7 +74,7 @@ Making the change of variable, this becomes
 \[\Gamma = \Gamma_{0} (\log (e^{-k_{A \to \emptyset} t} (e^{\theta} - 1) + 1)) + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{-k_{A \to \emptyset} t}) (e^{\theta} - 1) .\]
 For concreteness, let us pick the initial condition of a single \(A\) at time zero, i.e. \(\Gamma_{0} (\theta) = -\theta\). 
 \[ \Gamma = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{-k_{A \to \emptyset} t}) (e^{\theta} - 1) - \log (e^{-k_{A \to \emptyset} t} (e^{\theta} - 1) + 1) \]
-*** *Legendre *
+*** *Legendre Transform*
 ** To obtain the large deviation limit, we first make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
 But applying the identites to the expression for average number,
