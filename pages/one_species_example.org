@@ -1,9 +1,11 @@
 #+TITLE: One species example
 
-** ^^Introduction^^To illustrate some of the techniques and concepts described in [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]["Intrinsic and Extrinsic Thermodynamics"]]   (which will hereafter be called "the paper"), we will write them out for the simple case of Schloegel's single species reaction system.  This is a standard example in the subject and is considered in the paper; here we fill in missing steps and explain   the theory by working this example in detail.
+** ^^Introduction^^
 :PROPERTIES:
 :later: 1611887761901
 :END:
+
+To illustrate some of the techniques and concepts described in [[Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]["Intrinsic and Extrinsic Thermodynamics"]]   (which will hereafter be called "the paper"), we will write them out for the simple case of Schloegel's single species reaction system.  This is a standard example in the subject and is considered in the paper; here we fill in missing steps and explain   the theory by working this example in detail.
 \[\begin{aligned}
   \emptyset &\to A \\
   A &\to \emptyset \\
