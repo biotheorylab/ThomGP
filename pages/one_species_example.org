@@ -61,7 +61,7 @@ This is the desired differential equation for \(\Gamma\).  For our example syste
 :done: 1613497121021
 :END:
 
-To see what the solution looks like in a simple instance, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
+To see what the solution looks like explicitly in a simple instance, suppose that \(k_{2A \to 3A} = k_{3A \to 2A} = 0\) ("ID" process).  Then we may write the equation as
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} = -k_{\emptyset \to A} (z - 1) .\]
 Since this equation is linear, its solution will be the sum of a particular solution of the inhomogeneous equation and the general solution of the homogeneous equation.   As the particular solution we will take the time-independent solution \(\Gamma = -\frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} z\).  Since the homogenous equation,
 \[\frac{\partial \Gamma}{\partial t} - k_{A \to \emptyset} (1 - z) \frac{\partial \Gamma}{\partial z} =0,\]
