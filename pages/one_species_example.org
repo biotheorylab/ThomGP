@@ -79,7 +79,7 @@ For concreteness, let us pick the initial condition of a single \(A\) at time ze
 \[ \Gamma = \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{-k_{A \to \emptyset} t}) (1 - e^{\theta}) - \log (e^{-k_{A \to \emptyset} t} (e^{\theta} - 1) + 1) \]
 We exponentiate to obtain the generating function:
 \[Z = \exp(\frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{-k_{A \to \emptyset} t}) (e^{\theta} - 1)) (e^{-k_{A \to \emptyset} t} (e^{\theta} - 1) + 1)\]
-To recover the probability distribution, expand as a power series, \(Z= \sum_{k=0}^{\infty}) p_k z^k\), where
+To recover the probability distribution, expand as a power series, \(Z= \sum_{k=0}^{\infty} p_k z^k\), where
 \[p_{k} = \]
 Note that the logarithm has a singularity at \(\theta = \)
 **** *Legendre Transform*
