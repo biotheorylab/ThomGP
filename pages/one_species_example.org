@@ -79,6 +79,10 @@ For concreteness, let us pick the initial condition of a single \(A\) at time ze
 We start with the equation \(\partial \Gamma/\partial \theta + n = 0\), which becomes
 \[\frac{e^{\theta - k_{A \to \emptyset} t}}{e^{- k_{A \to \emptyset} t} (e^{\theta} - 1) + 1} + \frac{k_{\emptyset \to A}}{k_{A \to \emptyset}} (1 - e^{- k_{A \to \emptyset} t}) e^{\theta} = n.\]
 Combining terms, we see that this is equivalent to
+$${\it ki}\,e^{2\,\vartheta-{\it kd}\,t}-{\it ki}\,e^{\vartheta+
+ {\it kd}\,t}-{\it ki}\,e^{\vartheta-{\it kd}\,t}-{\it ki}\,e^{2\,
+ \vartheta}-{\it kd}\,n\,e^{\vartheta}+2\,{\it ki}\,e^{\vartheta}-
+ {\it kd}\,e^{\vartheta}-{\it kd}\,n\,e^{{\it kd}\,t}+{\it kd}\,n$$
 ***
 ** To obtain the large deviation limit, we first make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
