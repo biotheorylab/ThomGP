@@ -39,8 +39,8 @@ The
 ***** 2. The housekeeping entropy rate
 ***** 3. Legendre duality for housekeeping entropy rate
 **** B. Metastability and \(\bar{\rho}^{s}\) as the reference measure for relative entropy
-**** VII. DISCUSSION
-***** The end of entropy flow, the natural partition, and Hartley information
-***** Making trajectories first-class citizens
-***** Rule-based systems and life
-**** VIII. CONCLUDING REMARKS
+*** VII. DISCUSSION
+**** The end of entropy flow, the natural partition, and Hartley information
+**** Making trajectories first-class citizens
+**** Rule-based systems and life
+*** VIII. CONCLUDING REMARKS
