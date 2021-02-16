@@ -30,15 +30,15 @@ Comparing with the "moment hierarchy" paper clarifies the notation.
 ***** 4. The Schlögl cubic model to illustrate
 **** B. Large-deviation and Lyapunov roles of the effective action
 The
-**** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
-***** A. Complexity classes and cycle decompositions of stationary currents on the hypergraph
-***** B. Cycle decomposition in the microstate space, and non-decrease of relative entropy components
-**** VI. EXAMPLES
-***** A. Dualizing the housekeeping embedding thermodynamics
-****** 1. One system, families of environments
-****** 2. The housekeeping entropy rate
-****** 3. Legendre duality for housekeeping entropy rate
-***** B. Metastability and \(\bar{\rho}^{s}\) as the reference measure for relative entropy
+*** V. CYCLE DECOMPOSITIONS AND NON-DECREASE OF INTRINSIC AND EXTRINSIC RELATIVE ENTROPIES
+**** A. Complexity classes and cycle decompositions of stationary currents on the hypergraph
+**** B. Cycle decomposition in the microstate space, and non-decrease of relative entropy components
+*** VI. EXAMPLES
+**** A. Dualizing the housekeeping embedding thermodynamics
+***** 1. One system, families of environments
+***** 2. The housekeeping entropy rate
+***** 3. Legendre duality for housekeeping entropy rate
+**** B. Metastability and \(\bar{\rho}^{s}\) as the reference measure for relative entropy
 **** VII. DISCUSSION
 ***** The end of entropy flow, the natural partition, and Hartley information
 ***** Making trajectories first-class citizens
