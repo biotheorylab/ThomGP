@@ -85,7 +85,7 @@ $$k_{\emptyset \to A}\,e^{2\,\theta-k_{A \to \emptyset}\,t}-
  k_{\emptyset \to A}\,e^{2\,\theta}-k_{A \to \emptyset}\,n\,e^{\theta
  }+2\,k_{\emptyset \to A}\,e^{\theta}-k_{A \to \emptyset}\,e^{\theta}
  -k_{A \to \emptyset}\,n\,e^{k_{A \to \emptyset}\,t}+
- k_{A \to \emptyset}\,n$$
+ k_{A \to \emptyset}\,n = 0$$
 ***
 ** To obtain the large deviation limit, we first make an eikonal approximation.  This consists in retaining only the first derivative terms in the derivative of the exponential:
 \[ \frac{\partial^k}{\partial z^k} e^{-\Gamma} \approx e^{-\Gamma} \left( - \frac{\partial \Gamma}{\partial z} \right)^k\]
