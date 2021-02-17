@@ -10,7 +10,7 @@ reaction network with the reactions
   A &\to A + J \\
   2J &\to A \\
   A &\to \emptyset
-\end{align}\]
+\end{aligned}\]
 with rates \(k_{b}, k_{m}, k_{d}\) respectively.
 * Effective individual model
 
