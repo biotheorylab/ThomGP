@@ -6,13 +6,12 @@ As one of the simplest examples to illustrate the method, consider
 the following model of a population.  Our individuals will be found in
 one of two states, juvenile \(J\) and adult \(A\).  The dynamics is a
 reaction network with the reactions
-\begin{align}
+\[]\begin{align}
   A &\to A + J \\
   2J &\to A \\
   A &\to \emptyset
 \end{align}
 with rates \(k_{b}, k_{m}, k_{d}\) respectively.
-
 * Effective individual model
 
 We make an effective theory of a single individual.  To do this, we
