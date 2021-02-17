@@ -15,6 +15,7 @@
 **** 3. Standard Hamiltonian and Hamilton’s equations
 **** 4. Two-field picture
 *** B. Detailed formalism
+**** 1. Detailed Lagrangian
 ****
 ***
 **
