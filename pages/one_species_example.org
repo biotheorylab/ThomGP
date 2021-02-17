@@ -85,7 +85,7 @@ To keep the upcoming calculations from becoming unwieldy, we will tacitly set \(
 We exponentiate to obtain the generating function:
 \[Z = \exp\left(k_{I} (1 - e^{-t}) (e^{\theta} - 1)\right) \left(e^{- t} (e^{\theta} - 1) + 1\right)\]
 To recover the probability distribution, expand as a power series, \(Z= \sum_{j=0}^{\infty} p_j z^j\), where
-\[p_{j} = \frac{1}{j!} e^{-k_{I} (1 - e^{-t})} (1 - e^{-t}) \left( \right)\]
+\[p_{j} = \frac{1}{j!} e^{-k_{I} (1 - e^{-t})} (1 - e^{-t})^{} \left( \right)\]
 **** *Legendre Transform*
 
 We start with the equation \(\partial \Gamma/\partial \theta + n = 0\), which becomes
