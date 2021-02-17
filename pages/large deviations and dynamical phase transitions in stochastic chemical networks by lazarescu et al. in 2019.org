@@ -16,6 +16,6 @@
 **** 4. Two-field picture
 *** B. Detailed formalism
 **** 1. Detailed Lagrangian
-****
+**** 2. Equations ofmotion
 ***
 **
