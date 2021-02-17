@@ -20,5 +20,5 @@
 **** 3. Detailed Hamiltonian and Hamilton’s detailed equations
 *** C. Biased formalism
 **** 1. Detailed biased dynamics
-****
+**** 2. Contraction ofthe currents and two-field picture
 **
