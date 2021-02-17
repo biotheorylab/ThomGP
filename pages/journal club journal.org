@@ -42,7 +42,7 @@ This is the source of the notion of "housekeeping heat".
 :PROPERTIES:
 :done: 1613237438039
 :END:
-*** [Large deviations and dynamical phase transitions in stochastic chemical networks by Lazarescu et al. in 2019], A., Cossetto, T., Falasco, G., & Esposito, M. (2019). Large deviations and dynamical phase transitions in stochastic chemical networks. The Journal of Chemical Physics, 151(6), 064117. https://doi.org/10.1063/1.5111110
+*** [Large deviations and dynamical phase transitions in stochastic chemical networks by Lazarescu et al. in 2019],
 *** LATER Harris, R. J., & Schütz, G. M. (2007). Fluctuation theorems for stochastic dynamics. Journal of Statistical Mechanics: Theory and Experiment, 7. https://doi.org/10.1088/1742-5468/2007/07/P07020
 :PROPERTIES:
 :later: 1613237767039
