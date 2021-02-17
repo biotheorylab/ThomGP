@@ -30,4 +30,4 @@
 *** A. Schlögl model
 *** B. Generalized Schlögl model
 *** C. Runaway Schlögl model
-**
+** VI. PRACTICAL SUMMARY OF FORMULAE AND RESULTS
