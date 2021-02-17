@@ -29,4 +29,5 @@
 ** V. A FEW EXAMPLES OF DYNAMICAL PHASE TRANSITIONS
 *** A. Schlögl model
 *** B. Generalized Schlögl model
+*** C. Runaway Schlögl model
 **
