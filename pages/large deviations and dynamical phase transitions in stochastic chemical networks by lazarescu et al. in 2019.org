@@ -10,6 +10,7 @@
 *** E. Aside: Long-time large deviations
 ** III. DYNAMICAL LARGE DEVIATION FORMALISM
 *** A. Standard formalism
+**** 1. Standard Lagrangian
 ****
 ***
 **
