@@ -4,5 +4,5 @@
 ** I. INTRODUCTION
 ** II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
 *** A. Definition of the process
-***
+*** B. Time-additive dynamical observables
 **
