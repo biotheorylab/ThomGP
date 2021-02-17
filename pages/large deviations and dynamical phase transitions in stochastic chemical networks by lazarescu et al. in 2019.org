@@ -24,4 +24,5 @@
 ** IV. STATIONARY LARGE DEVIATIONS AND DYNAMICAL PHASE TRANSITIONS
 *** A. Boundary conditions
 *** B. Density-phase picture and global Hamiltonian attractors
+***
 **
