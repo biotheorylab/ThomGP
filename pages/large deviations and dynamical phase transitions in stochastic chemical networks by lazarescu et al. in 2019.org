@@ -18,5 +18,5 @@
 **** 1. Detailed Lagrangian
 **** 2. Equations of motion
 **** 3. Detailed Hamiltonian and Hamilton’s detailed equations
-***
+*** C. Biased formalism
 **
