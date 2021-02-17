@@ -11,6 +11,6 @@
 ** III. DYNAMICAL LARGE DEVIATION FORMALISM
 *** A. Standard formalism
 **** 1. Standard Lagrangian
-****
+**** 2. Equations ofmotion
 ***
 **
