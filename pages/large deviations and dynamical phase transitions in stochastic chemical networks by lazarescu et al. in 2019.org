@@ -17,5 +17,6 @@
 *** B. Detailed formalism
 **** 1. Detailed Lagrangian
 **** 2. Equations of motion
+****
 ***
 **
