@@ -1,0 +1,105 @@
+#+TITLE: SimpleAJ
+
+** Exact population model
+
+As one of the simplest examples to illustrate the method, consider
+the following model of a population.  Our individuals will be found in
+one of two states, juvenile \(J\) and adult \(A\).  The dynamics is a
+reaction network with the reactions
+\begin{align}
+  A &\to A + J \\
+  2J &\to A \\
+  A &\to \emptyset
+\end{align}
+with rates \(k_{b}, k_{m}, k_{d}\) respectively.
+
+* Effective individual model
+
+We make an effective theory of a single individual.  To do this, we
+average out the reactions.  Since the first and last reaction have
+only one reactant, there is not much to do there.  Looking at the
+second reaction from the perspective of one of the individuals there is a
+50% chance of \(J \to \emptyset\) and a 50% chance of \(J \to A\).
+The rate of these effective reactions is proportional to the number
+\(N_{J}\) of juveniles in the population.  This gives us a continuous
+time stochastic process with generator
+\begin{equation}
+  H_{\mathrm{ind}} = \bordermatrix{
+    ~ & J & A & \emptyset \cr
+     J & - N_{J} k_{m} & 0 & 0 \cr
+     A & \tfrac{1}{2} N_{J} k_{m} & -k_{d} & 0 \cr
+     \emptyset & \tfrac{1}{2} N_{J} k_{m} & k_{d} & 0}
+\end{equation}
+Solving the mater equation \(dp/dt = H_{\mathrm{ind}} p\), we obtain
+the probability that our individual is a juvenile, adult, or dead as a
+function of time.  
+
+To complete the analysis, at the individual level, we need to compute
+the probability that an individual will produce offspring at a given
+time.  An individual can only procreate when in state \(A\) and does
+so with rate \(k_{b}\), hence this probatility is given as \(k_{b} \,
+p_{A}(t) \, dt\).
+
+* Effective population model
+
+To summarize the evolution of the population, we might only keep track
+of the ages of our individuals and ignore the details of internal
+state of the individual or how the individuals develop and interact.
+Using the effective individual to estimate the data we discarded, we
+build an efective theory of the population.
+
+For convenience of notation, we will now switch from continuous time
+to discrete time in this section.
+
+** Estimating population by state
+
+We estimate \(N_s (t)\), the number of individuals in state \(s\) at
+time \(t\) in terms of \(n_i (t)\), the number of individuals of age
+\(i\) at time \(t\).  From the individual model, we determined \(p_s
+(t - i)\), the probability that an individual will be found in state
+\(s\) after a lapse of time \(t - i\) or, in other words, the
+probability that an individual of age \(i\) at time \(t\) will be
+found in state \(i\).  Hence, if we have \(n_i\) individuals of age
+\(i\), the probability of \(m\) of them being in state \(s\) is given
+the binomial distribution:
+\begin{equation*}
+  \binom{n_i}{m} (p_s (t - i))^{m} (1 - p_s (t - i))^{n_{i} - m}
+\end{equation*}
+To obtain the total probability, we must sum over the different
+possible ages:
+\begin{equation*}
+  P_{\mathrm{est}} (N_s, t) =
+  \sum_{m_0 + m_1 + \ldots = N_S} \prod_{i}
+  \binom{n_i}{m_{i}} (p_s (t - i))^{m_{i}} (1 - p_s (t - i))^{n_{i} - m_{i}}
+\end{equation*}
+
+** Approximate dynamics
+
+Let \(P(n_{0}, n_{1}, n_{2}, \ldots t)\) denote the
+probability that there are \(n_{i}\) individuals at age \(i\) in the
+population at time \(t\).  We look for a master equation of the form
+\begin{align*}
+  &P(n_{0}, n_{1}, n_{2}, \ldots t+1) =
+    \sum_{{n'}_{0}}  \sum_{{n'}_{1}} \sum_{{n'}_{2}} \cdots
+    K_{b} (n_{0} \mid {n'}_{0}, {n'}_{1}, {n'}_{2}, \ldots) \times \\
+    &\qquad \prod_{i > 0} K_{d} ({n'}_{i} - n_{i} \mid {n'}_{i},
+       {n'}_{1}, {n'}_{2}, \ldots)
+  P({n'}_{0}, {n'}_{1}, {n'}_{2}, \ldots, t)
+\end{align*}
+which embodies the following assumptions:
+- An individual of age \(i\) either survives to age \(i + 1\) or dies.
+- The deaths and births happen independently.
+The kernels \(K_{b}\) and \(K_{d}\) give the probability that a
+certain number of individuals will be born or die in a time step.  We
+considered these quantities  previously, combining what we otained
+with the estimate for the number of individuals in each state given
+above produces the kernels.
+
+* Population genetic model
+
+The effective model is somewhat complex, consisting of coupled
+equations for an age-structured population.  To simplify it, we assume
+that the physiological timescales of the individual are shorter than
+the timescales of population dynamics.  As a first approximation, we
+treat the composition of the population as constant over the lifespan
+of the individual.
