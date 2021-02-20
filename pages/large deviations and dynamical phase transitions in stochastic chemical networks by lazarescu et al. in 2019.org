@@ -6,7 +6,10 @@
 :now: 1613787089456
 :later: 1613787087955
 :END:
-** II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
+** LATER II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
+:PROPERTIES:
+:later: 1613787097454
+:END:
 *** A. Definition of the process
 *** B. Time-additive dynamical observables
 *** C. A caveat on conserved quantities
