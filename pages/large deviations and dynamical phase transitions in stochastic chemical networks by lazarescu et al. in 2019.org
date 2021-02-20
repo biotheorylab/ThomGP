@@ -15,7 +15,10 @@
 *** C. A caveat on conserved quantities
 *** D. Example
 *** E. Aside: Long-time large deviations
-** III. DYNAMICAL LARGE DEVIATION FORMALISM
+** LATER III. DYNAMICAL LARGE DEVIATION FORMALISM
+:PROPERTIES:
+:later: 1613787102454
+:END:
 *** A. Standard formalism
 **** 1. Standard Lagrangian
 **** 2. Equations of motion
