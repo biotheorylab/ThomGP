@@ -6,7 +6,7 @@
 :now: 1613787089456
 :later: 1613787087955
 :END:
-We did a first read through.
+We did a first read through.  We will revisit after reading the rest of the paper so we can understand
 ** II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
 :PROPERTIES:
 :later: 1613787097454
