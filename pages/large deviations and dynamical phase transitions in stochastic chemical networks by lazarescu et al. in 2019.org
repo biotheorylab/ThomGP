@@ -31,7 +31,10 @@
 *** C. Biased formalism
 **** 1. Detailed biased dynamics
 **** 2. Contraction of the currents and two-field picture
-** IV. STATIONARY LARGE DEVIATIONS AND DYNAMICAL PHASE TRANSITIONS
+** LATER IV. STATIONARY LARGE DEVIATIONS AND DYNAMICAL PHASE TRANSITIONS
+:PROPERTIES:
+:later: 1613787109456
+:END:
 *** A. Boundary conditions
 *** B. Density-phase picture and global Hamiltonian attractors
 *** C. Conserved quantities in the two-field picture
