@@ -31,7 +31,7 @@
 *** C. Biased formalism
 **** 1. Detailed biased dynamics
 **** 2. Contraction of the currents and two-field picture
-** LATER IV. STATIONARY LARGE DEVIATIONS AND DYNAMICAL PHASE TRANSITIONS
+** IV. STATIONARY LARGE DEVIATIONS AND DYNAMICAL PHASE TRANSITIONS
 :PROPERTIES:
 :later: 1613787109456
 :END:
