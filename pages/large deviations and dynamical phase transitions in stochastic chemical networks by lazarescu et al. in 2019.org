@@ -15,7 +15,7 @@
 *** C. A caveat on conserved quantities
 *** D. Example
 *** E. Aside: Long-time large deviations
-** NOW III. DYNAMICAL LARGE DEVIATION FORMALISM
+** III. DYNAMICAL LARGE DEVIATION FORMALISM
 :PROPERTIES:
 :now: 1613787118354
 :later: 1613787102454
