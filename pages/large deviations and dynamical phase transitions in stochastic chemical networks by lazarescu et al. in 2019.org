@@ -9,13 +9,10 @@
 We did a first read through.  We will revisit after reading the rest of the paper so we can understand exactly what has been introduced.
 *** II.  we introduce those models, along with a few important concepts to analyze them, and we define the mesoscopic variables that will be relevant in the large-volume limit
 *** III.  we take the large-volume limit and show that the dynamics of those systems can be described through a path integral with a Lagrangian that can be computed explicitly
-
-IV. 1) we apply said formalism to compute the scaled cumulant generating (SCGF) function of currents and densities of our models, which is the Legendre transform of the large deviation function of station- ary currents and densities 2) show that systems whose deterministic equations have several attractors (i.e., that are multistable) generically undergo first-order dynamical phase transitions around small values of the dynamical biases
-
-V. we illustrate this last result by exhibiting a few of
+*** IV. 1) we apply said formalism to compute the scaled cumulant generating (SCGF) function of currents and densities of our models, which is the Legendre transform of the large deviation function of station- ary currents and densities 2) show that systems whose deterministic equations have several attractors (i.e., that are multistable) generically undergo first-order dynamical phase transitions around small values of the dynamical biases
+*** V. we illustrate this last result by exhibiting a few of
 those dynamical phase transitions in variants of a simple bistable system called the Schlögl model
-
-VI. hands-on summary ofhow one may com-
+*** VI. hands-on summary ofhow one may com-
 pute large deviation functions of dynamical observables in a chemi- cal reaction network, meant as a quick reference or a minimal guide to readers who may wish to skip the details of the derivations
 ** II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
 :PROPERTIES:
