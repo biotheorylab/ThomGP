@@ -11,7 +11,7 @@ Network theory of microscopic and macroscopic behavior of master equation system
 *** V. Liapunov Stability
 *** VI. The Eigenvalues of the Transition Model VII.
 *** Entropy Production and The Glansdorff- Prigogine Criterion of Stability
-VIII. Macroscopic Thermodynamic Formulation: Cycles and Affinities
-IX. Steady State: Kirchhoff's Current Law and Macroscopic Entropy Production
-X. Thermal Equilibrium: Kirchoff's Uoltage Law, The Phenomenological Coefficients and Onsager's Reciprocity Relations
+*** VIII. Macroscopic Thermodynamic Formulation: Cycles and Affinities
+*** IX. Steady State: Kirchhoff's Current Law and Macroscopic Entropy Production
+*** X. Thermal Equilibrium: Kirchoff's Uoltage Law, The Phenomenological Coefficients and Onsager's Reciprocity Relations
 Acknowledgments
