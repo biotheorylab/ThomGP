@@ -5,7 +5,9 @@
 Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
 ** CONTENTS
 *** I. Introduction
-*** II. Master Equation Description: Two Examples A. Pores in a Membrane B. Autocatalytic Beaction System
+*** II. Master Equation Description: Two Examples
+**** A. Pores in a Membrane
+**** B. Autocatalytic Beaction System
 *** III. Steady State Solution
 *** IV. Properties of the Time-Dependent Solution
 *** V. Liapunov Stability
