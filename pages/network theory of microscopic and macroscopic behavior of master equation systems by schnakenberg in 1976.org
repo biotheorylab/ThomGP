@@ -3,7 +3,7 @@
 ** CITATION
 
 Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
-** I. Introduction
+*** CONTENTSI. Introduction
 II. Master Equation Description: Two Examples A. Pores in a Membrane B. Autocatalytic Beaction System
 III. Steady State Solution IU. Properties of the Time-Dependent Solution U. I,iapunov Stab ility VI. The Eigenvalues of the Transition Model VII. Entropy Production and The Glansdorff- Prigogine Criterion of Stability
 VIII. Macroscopic Thermodynamic Formulation: Cycles and Affinities
