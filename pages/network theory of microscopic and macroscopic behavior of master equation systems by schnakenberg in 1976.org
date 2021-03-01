@@ -1,0 +1,5 @@
+#+TITLE: Network theory of microscopic and macroscopic behavior of master equation systems by Schnakenberg in 1976
+
+** CITATION
+
+Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
