@@ -16,11 +16,11 @@ We did a first read through.  We will revisit after reading the rest of the pape
 *** V. we illustrate this last result by exhibiting a few of
 those dynamical phase transitions in variants of a simple bistable system called the Schlögl model
 *** VI. hands-on summary of how one may compute large deviation functions of dynamical observables in a chemical reaction network, meant as a quick reference or a minimal guide to readers who may wish to skip the details of the derivations
-** LATER II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
+** DONE II. DEFINITION OF THE MICROSCOPIC PROCESS AND OBSERVABLES
 :PROPERTIES:
 :now: 1614622441599
 :later: 1614623473832
-:done: 1614623472408
+:done: 1614623500439
 :END:
 *** A. Definition of the process
 *** B. Time-additive dynamical observables
