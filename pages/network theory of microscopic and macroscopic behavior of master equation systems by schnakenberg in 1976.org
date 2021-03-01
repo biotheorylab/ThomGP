@@ -9,7 +9,7 @@ Network theory of microscopic and macroscopic behavior of master equation system
 **** A. Pores in a Membrane
 **** B. Autocatalytic Reaction System
 
-The Schl\"ogl model strikes again!
+The Schl\"{o}gl model strikes again!
 *** III. Steady State Solution
 *** IV. Properties of the Time-Dependent Solution
 *** V. Liapunov Stability
