@@ -35,7 +35,7 @@ We have already perused this in the past but could bring our understanding to a 
 :PROPERTIES:
 :now: 1613236370039
 :END:
-*** Schnakenberg, J. (1976). Network theory of microscopic and macroscopic behavior of master equation systems. Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.57
+**** Schnakenberg, J. (1976). Network theory of microscopic and macroscopic behavior of master equation systems
 *** Oono, Y., & Paniconi, M. (1998). Steady State Thermodynamics. Progress of Theoretical Physics Supplement, 130(1), 29–44. https://doi.org/10.1143/PTPS.130.29  
 This is the source of the notion of "housekeeping heat".
 *** Smith, E. (2011). Large-deviation principles, stochastic effective actions, path entropies, and the structure and meaning of thermodynamic descriptions. Reports on Progress in Physics, 74(4), 046601. https://doi.org/10.1088/0034-4885/74/4/046601  This is the companion paper to "Briging Scales".
