@@ -8,7 +8,9 @@ Network theory of microscopic and macroscopic behavior of master equation system
 *** II. Master Equation Description: Two Examples A. Pores in a Membrane B. Autocatalytic Beaction System
 *** III. Steady State Solution
 *** IV. Properties of the Time-Dependent Solution
-*** V. Liapunov Stability VI. The Eigenvalues of the Transition Model VII. Entropy Production and The Glansdorff- Prigogine Criterion of Stability
+*** V. Liapunov Stability
+*** VI. The Eigenvalues of the Transition Model VII.
+*** Entropy Production and The Glansdorff- Prigogine Criterion of Stability
 VIII. Macroscopic Thermodynamic Formulation: Cycles and Affinities
 IX. Steady State: Kirchhoff's Current Law and Macroscopic Entropy Production
 X. Thermal Equilibrium: Kirchoff's Uoltage Law, The Phenomenological Coefficients and Onsager's Reciprocity Relations
