@@ -7,7 +7,7 @@ Network theory of microscopic and macroscopic behavior of master equation system
 *** I. Introduction
 *** II. Master Equation Description: Two Examples
 **** A. Pores in a Membrane
-**** B. Autocatalytic Beaction System
+**** B. Autocatalytic Reaction System
 *** III. Steady State Solution
 *** IV. Properties of the Time-Dependent Solution
 *** V. Liapunov Stability
