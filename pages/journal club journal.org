@@ -31,7 +31,7 @@ We have already perused this in the past but could bring our understanding to a 
 *** Wilson, K., & Kogut, J. (1974). The renormalization group and the ε expansion. In Physics Reports (Vol. 12, pp. 75–199). https://doi.org/10.1016/0370-1573(74)90023-4
 *** Ottino-Löffler, B., & Kardar, M. (2020). Population Extinction on a Random Fitness Seascape. 1–17. http://arxiv.org/abs/2007.11749
 ** Auxiliary literature  --- Along the way, we read other works which provide backround, explain concepts, illustrate by example, and fill in details on topics discussed in the main works.
-*** NOW Schnakenberg, J. (1976). [[Network theory of microscopic and macroscopic behavior of mastr equation systems.]] Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
+*** NOW Schnakenberg, J. (1976). [[Network theory of microscopic and macroscopic behavior of master equation systems.]] Reviews of Modern Physics, 48(4), 571–585. https://doi.org/10.1103/RevModPhys.48.571
 :PROPERTIES:
 :now: 1613236370039
 :END:
