@@ -5,7 +5,7 @@
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
-:later: 1614998889129
+:later: 1615001195129
 :END:
 
 Now we generalize to non-linear equations of the form
