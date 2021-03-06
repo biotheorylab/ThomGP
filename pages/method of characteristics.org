@@ -2,4 +2,4 @@
 
 ** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
 ** Linear equations
-**
+** Quasi-linear e
