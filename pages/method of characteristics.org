@@ -17,4 +17,4 @@ Differentiating the new equations, we obtain the integrability conditions
 Combining, we obtain the equations
 \[ \sum_{i} \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial p_i} \frac{\partial p_j}{\partial q_{i}} + \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial q_{j}} = 0\]
 
-The equations we have just derived are quasi-linear.  Furthermore, we note that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\) is a solution to the system.  Because the integrability conditions are satisfied, we can locally find \(\phi\) such that \(p_{i} = \partial \phi / \partial q_{i}\).  Substituting back into
+The equations we have just derived are quasi-linear.  Furthermore, we note that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\) is a solution to the system.  Because the integrability conditions are satisfied, we can locally find \(\phi\) such that \(p_{i} = \partial \phi / \partial q_{i}\).  Substituting back into the
