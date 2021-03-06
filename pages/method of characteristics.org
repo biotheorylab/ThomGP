@@ -12,7 +12,7 @@ Now we generalize to non-linear equations of the form
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = 0.\]
 To reduce such an equation to a quasilinear equation, we introduce new variables \(p_{i}\) and equations \(p_{i} = \frac{\partial u}{\partial q_{i}}\).  Taking the derivative of the original equation and substituting, we find that
 \[ \sum_{i} \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial p_i} \frac{\partial p_i}{\partial q_{j}} + \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial q_{j}} = 0\]
-Differentiating the new equations and combining, we obtain the integrability conditions
+Differentiating the new equations, we obtain the integrability conditions
 \[\frac{\partial p_{i}}{\partial q_{j}} =  \frac{\partial p_{j}}{\partial q_{i}}.\]
 
 The equations we have just derived are quasi-linear.  Furthermore, we claim that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\) is a solution to the system.
