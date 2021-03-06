@@ -16,4 +16,5 @@ Differentiating the new equations, we obtain the integrability conditions
 \[\frac{\partial p_{i}}{\partial q_{j}} =  \frac{\partial p_{j}}{\partial q_{i}}.\]
 Combining, we obtain the equations
 
+
 The equations we have just derived are quasi-linear.  Furthermore, we claim that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\) is a solution to the system.
