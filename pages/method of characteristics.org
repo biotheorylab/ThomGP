@@ -21,4 +21,4 @@ The equations we have just derived are quasi-linear.  Furthermore, we note that,
 \[\frac{\partial}{\partial j} H \left(\frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot}\right) = 0,\]
 hence
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = c\]
-for some constant \(c\).  If we know that \(c = 0\) for some point
+for some constant \(c\).  If we know that \(c = 0\) at some point
