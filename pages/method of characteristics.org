@@ -8,4 +8,4 @@
 :later: 1614998889129
 :END:
 
-Now we generalize to
+Now we generalize to non-linear equations of the form
