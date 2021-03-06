@@ -14,3 +14,5 @@ To reduce such an equation to a quasilinear equation, we introduce new variables
 \[ \sum_{i} \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial p_i} \frac{\partial p_i}{\partial q_{j}} + \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial q_{j}} = 0\]
 Differentiating the new equations and combining, we obtain the integrability conditions
 \[\frac{\partial p_{i}}{\partial q_{j}} =  \frac{\partial p_{j}}{\partial q_{i}}.\]
+
+This system of equations
