@@ -1,3 +1,3 @@
 #+TITLE: Method of Characteristics
 
-** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality
+** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing
