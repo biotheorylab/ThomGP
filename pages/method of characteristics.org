@@ -15,4 +15,4 @@ To reduce such an equation to a quasilinear equation, we introduce new variables
 Differentiating the new equations and combining, we obtain the integrability conditions
 \[\frac{\partial p_{i}}{\partial q_{j}} =  \frac{\partial p_{j}}{\partial q_{i}}.\]
 
-The equations we have just derived are quasi-linear.  Furthermore, we claim that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\)
+The equations we have just derived are quasi-linear.  Furthermore, we claim that, locally, solutions of this new system are equivalent to solutions of the original equation.  Suppose that \(p_{i} = f_{i} (q_{\cdot})\) is a solui
