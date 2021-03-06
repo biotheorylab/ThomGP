@@ -8,4 +8,4 @@
 :later: 1614998889129
 :END:
 
-Now we consider
+Now we generalize to
