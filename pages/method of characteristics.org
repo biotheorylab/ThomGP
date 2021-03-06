@@ -10,5 +10,5 @@
 
 Now we generalize to non-linear equations of the form
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = 0.\]
-To reduce such an equation to a quasilinear equation, we introduce new variables \(p_{i}\) and equations \(p_{i} = \frac{\pa}\)
+To reduce such an equation to a quasilinear equation, we introduce new variables \(p_{i}\) and equations \(p_{i} = \frac{\partial u}{}\)
 \[ \]
