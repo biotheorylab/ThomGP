@@ -9,7 +9,7 @@
 :END:
 
 Now we generalize to non-linear equations of the form
-\[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = 0.\]
+\[ H\left( \frac{\partial}{\partial q_{\cdot}}, q_{\cdot} \right) = 0.\]
 To reduce such an equation to a quasilinear equation, we introduce new variables \(p_{i}\) and equations \(p_{i} = \frac{\partial \phi}{\partial q_{i}}\).  Taking the derivative of the original equation and substituting, we find that
 \[ \sum_{i} \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial p_i} \frac{\partial p_i}{\partial q_{j}} + \frac{\partial H(p_{\cdot}, q_{\cdot})}{\partial q_{j}} = 0\]
 Differentiating the new equations, we obtain the integrability conditions
