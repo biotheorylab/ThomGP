@@ -2,6 +2,9 @@
 
 ** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
 ** Linear equations
+
+We begin with the linear differential equation of first order,
+\[\sum_{i=1}^{n} \]
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
