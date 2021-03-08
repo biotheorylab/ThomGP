@@ -4,7 +4,7 @@
 ** Linear equations
 
 We begin with the linear differential equation of first order,
-\[\sum_{i=1}^{n} a_{i} (q) \frac{\partial}{\partial q_{i}} \phi (q) + b(q) \phi (q_{1}, \ldots q_{n}) + c(q) = 0 .\]
+\[\sum_{i=1}^{n} a_{i} (q) \frac{\partial}{\partial q_{i}} \phi (q) + b(q) \phi (q) + c(q) = 0 .\]
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
