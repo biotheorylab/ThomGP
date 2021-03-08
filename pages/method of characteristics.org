@@ -4,7 +4,7 @@
 ** Linear equations
 
 We begin with the linear differential equation of first order,
-\[\sum_{i=1}^{n} \]
+\[\sum_{i=1}^{n} a_{i} ()\]
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
