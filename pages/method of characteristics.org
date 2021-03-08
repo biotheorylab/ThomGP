@@ -3,7 +3,7 @@
 ** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
 ** Linear equations
 
-We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a,b,c \colon D \to \mathbb{R}\) have been specified.  Then we 
+We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a,b,c \colon D \to \mathbb{R}\) have been specified.  Ten we 
 \[\sum_{i=1}^{n} a_{i} (q) \frac{\partial}{\partial q_{i}} \phi (q) + b(q) \phi (q) + c(q) = 0 .\]
 Here
 ** Quasi-linear equations
