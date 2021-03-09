@@ -19,7 +19,7 @@ so we have
 \[[\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} + b(q) \phi (q) + c(q)]_{q_{i}= f_i (t)} = \frac{d \phi(f(t))}{dt} + b(f(t)) \phi(f(t)) + c(f(t))\]
 Thus, if we solve the differential equation
 \[\frac{dg(t)}{dt} + b(f(t)) g(t) + c(f(t)) = 0 \]
-for \(g\), we can construct a solution to the original partial differential equation from the solutions to the ordinary differential equations.
+for \(g\), we can construct a solution to the original partial differential equation from the solutions to the ordinary differential equations by solving the algebraic equation \(g(t) = \).
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
