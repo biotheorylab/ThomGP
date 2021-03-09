@@ -1,9 +1,9 @@
 #+TITLE: Method of Characteristics
 
 ** Here we will describe the method of characteristics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
-** LATER Linear equations
+** NOW Linear equations
 :PROPERTIES:
-:now: 1615303169389
+:now: 1615330636472
 :later: 1615327401325
 :END:
 
