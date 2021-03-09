@@ -23,7 +23,7 @@ for \(g\), we can construct a solution to the original partial differential equa
 
 In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, furthermore, the curve parameterized by \(f\) intersects \(S\) transversely at \(x\) but does not intersect \(S\) in any point other than \(x\).
 
-Making use of smooth dependence of the solution of the differential equation on initial data
+Making use of dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
