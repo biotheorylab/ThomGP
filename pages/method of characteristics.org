@@ -3,8 +3,8 @@
 ** Here we will describe the method of characteristics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
 ** NOW Linear equations
 :PROPERTIES:
-:now: 1615330636472
-:later: 1615327401325
+:now: 1615330639112
+:later: 1615330638397
 :END:
 
 We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a_{i},b,c \colon D \to \mathbb{R}\) have been specified.  (So as not to have to think too hard about such matters, let's assume that all functions are infinitely differentiable.)  We consider the differential equation
