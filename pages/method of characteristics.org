@@ -21,7 +21,7 @@ Thus, if we solve the differential equation
 \[\frac{dg(t)}{dt} + b(f(t)) g(t) + c(f(t)) = 0 \]
 for \(g\), we can construct a solution to the original partial differential equation from the solutions to the ordinary differential equations by solving the algebraic equation \(\phi(f(t)) = g(t)\).
 
-In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, futhermore, the curve parameterized by \(f\) intersects \(S\) transversally at \(x\) but does not intersect \(S\) in any point other than \(x\).
+In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, furthermore, the curve parameterized by \(f\) intersects \(S\) transversely at \(x\) but does not intersect \(S\) in any point other than \(x\).
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
