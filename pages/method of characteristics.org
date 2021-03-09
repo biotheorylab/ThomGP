@@ -21,7 +21,7 @@ Thus, if we solve the differential equation
 \[\frac{dg(t)}{dt} + b(f(t)) g(t) + c(f(t)) = 0 \]
 for \(g\), we can construct a solution to the original partial differential equation from the solutions to the ordinary differential equations by solving the algebraic equation \(g(t) = \phi(f(t))\).
 
-In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there e
+In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there exists \(f \colon []\)
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
