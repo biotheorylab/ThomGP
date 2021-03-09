@@ -1,10 +1,10 @@
 #+TITLE: Method of Characteristics
 
 ** Here we will describe the method of charactericstics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
-** Linear equations
+** LATER Linear equations
 :PROPERTIES:
 :now: 1615303169389
-:later: 1615303167322
+:later: 1615327401325
 :END:
 
 We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a_{i},b,c \colon D \to \mathbb{R}\) have been specified.  We consider the differential equation
@@ -23,7 +23,7 @@ for \(g\), we can construct a solution to the original partial differential equa
 
 In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, furthermore, the curve parameterized by \(f\) intersects \(S\) transversely at \(x\) but does not intersect \(S\) in any point other than \(x\).
 
-Making use of dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we there exists some \(U\) such that \(x \in U \subseteq S\) and \(f \colon U \times [-\epsilon, \epsilon] \to D\) such that, for any \(y \in U\), we
+Making use of dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we there exists some \(U\) such that \(x \in U \subseteq S\) and \(f \colon U \times [-\epsilon, \epsilon] \to D\) which satisfy the following conditions:
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
