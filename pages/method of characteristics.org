@@ -26,7 +26,7 @@ In more detail, this final step in the solution goes as follows.  Suppose that t
 Making use of dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we there exists some \(U\) such that \(x \in U \subseteq S\) and \(f \colon U \times [-\epsilon, \epsilon] \to D\) which satisfy the following conditions:
 + For all \(y \in U\) we have \(f(y, 0) = y\).
 + For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
-+ \(f\) maps
++ \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
 ** Quasi-linear equations
 ** Non-linear equations
 :PROPERTIES:
