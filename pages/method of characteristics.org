@@ -29,7 +29,7 @@ Making use of dependence of the solution of the differential equation on initial
 + \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
 ** Quasi-linear equations
 
-\[\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = [\frac{\partial \chi(u,q)}{\partial u}]_{u = \phi(q)} \frac {\partial \phi (q)}{\partial q_{i}}\]
+\[\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = [\frac{\partial \chi(u,q)}{\partial u}]_{u = \phi(q)}\]
 ** Non-linear equations
 :PROPERTIES:
 :later: 1615001623629
