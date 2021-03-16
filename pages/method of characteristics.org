@@ -32,7 +32,7 @@ Making use of dependence of the solution of the differential equation on initial
 By the chain rule, we have
  \[\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = \left[\frac{\partial \chi(u,q)}{\partial u} \frac{\partial \phi (q)}{\partial q_{i}} + \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)} .\]
 If \[\chi (\phi(q), q)\] is constant, the left-hand side equals zero.  Making this assumption and multiplying by \[a_{i}\] and rearranging, we obtain
-\[\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum{i} a_{i} (\phi(q),q) = -\left[\right]_{u = \phi(q)}\]
+\[\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum_{i} a_{i} (\phi(q),q) = -\left[\right]_{u = \phi(q)}\]
 ** Non-linear equations
 :PROPERTIES:
 :later: 1615001623629
