@@ -6,7 +6,9 @@
 :now: 1615330639112
 :later: 1615330638397
 :END:
-*** TheoryWe begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a_{i},b,c \colon D \to \mathbb{R}\) have been specified.  (So as not to have to think too hard about such matters, let's assume that all functions are infinitely differentiable.)  We consider the differential equation
+*** Theory
+
+ We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a_{i},b,c \colon D \to \mathbb{R}\) have been specified.  (So as not to have to think too hard about such matters, let's assume that all functions are infinitely differentiable.)  We consider the differential equation
 \[\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} + b(q) \phi (q) + c(q) = 0 .\]
 We also introduce an initial value surface \(S \subset D\) of codimension 1.  Given a  function \(\phi_{0} \colon S \to \mathbb{R}\), we look for a \(\phi \colon D \to \mathbb{R}\) which satisfies the differential equation such that the restriction of \(\phi\) to \(S\) equals \(\phi_0\).  Later on, we will find technical conditions on the initial data which allow us to find a unique local solution to the initial value problem.
 
