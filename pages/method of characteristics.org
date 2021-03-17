@@ -56,6 +56,6 @@ hence
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = c\]
 for some constant \(c\).  If we know that \(c = 0\) at some point (e.g. from initial conditions) then \(c = 0\) everywhere, so the original equation is satisfled.
 ** References
-*** [[Forsyth, Andrew Russell. A treatise on differential equations. Dover, 1996 | https://lccn.loc.gov/96022069
+*** {{}}
 *** Courant, Richard, and David Hilbert. Methods of Mathematical Physics: Partial Differential Equations. John Wiley & Sons, 2008.
 *** Duff, G.F.D. Partial Differential Equations.  U, Toronto Press, 1956
