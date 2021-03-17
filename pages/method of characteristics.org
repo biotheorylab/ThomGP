@@ -56,4 +56,4 @@ hence
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = c\]
 for some constant \(c\).  If we know that \(c = 0\) at some point (e.g. from initial conditions) then \(c = 0\) everywhere, so the original equation is satisfled.
 ** References
-*** Forsyth, Andrew Russel. THEORY OF DIFFERENTIAL EQUATION. 1902.
+***
