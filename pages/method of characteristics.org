@@ -57,3 +57,4 @@ hence
 for some constant \(c\).  If we know that \(c = 0\) at some point (e.g. from initial conditions) then \(c = 0\) everywhere, so the original equation is satisfled.
 ** References
 *** Forsyth, Andrew Russell. A treatise on differential equations.
+***
