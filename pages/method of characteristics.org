@@ -57,5 +57,5 @@ hence
 for some constant \(c\).  If we know that \(c = 0\) at some point (e.g. from initial conditions) then \(c = 0\) everywhere, so the original equation is satisfled.
 ** References
 *** [[https://lccn.loc.gov/96022069][Forsyth, Andrew Russell. A treatise on differential equations. Dover Publications, 1996.]]
-*** [[[https://lccn.loc.gov/89112829][Courant, Richard, and David Hilbert. Methods of Mathematical Physics: Partial Differential Equations. John Wiley & Sons, 2008.]]]
+*** [[[https://lccn.loc.gov/89112829][Courant, Richard, and David Hilbert. Methods of Mathematical Physics: Partial Differential Equations. John Wiley & Sons, 2008.]]
 *** Duff, G.F.D. Partial Differential Equations.  U, Toronto Press, 1956
