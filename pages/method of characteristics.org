@@ -34,8 +34,9 @@ Making use of dependence of the solution of the differential equation on initial
 
 By introducing more independant variables, we can generalize our result to inhomogenous and quasi-linear equations.
 
-To subsume an inhomogenous linear equation
-\[\sum_{i=1}^n a_i (q) \frac{\partial \phi(q)}{\partial q_i} + \]
+To obtain an inhomogenous linear equation
+\[\sum_{i=1}^n a_i (q) \frac{\partial \phi(q)}{\partial q_i} + b(q) = 0,\]
+we introduce a 
 
  By the chain rule, we have
  \[\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = \left[\frac{\partial \chi(u,q)}{\partial u} \frac{\partial \phi (q)}{\partial q_{i}} + \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)} .\]
