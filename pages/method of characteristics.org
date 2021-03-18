@@ -37,7 +37,7 @@ By introducing more independant variables, we can generalize our result to inhom
 To solve the inhomogeneous linear equation
 \[\sum_{i=1}^n a_i (q) \frac{\partial \phi(q)}{\partial q_i} + b(q) = 0,\]
 consider the homogeneous equation
-\[\sum_{i=1}^n a_i (q) \frac{\partial \varphi(q,s)}{\partial q_i} + b(q) = 0.\]
+\[\sum_{i=1}^n a_i (q) \frac{\partial \varphi(q,s)}{\partial q_i} + b(q) \frac{\partial \varphi(q,s)}{\partial s}= 0.\]
 If we have a solution of the latter equation of the form \(\varphi(q,s) = \phi(q) + s\), then \(phi\) will satisfy the former equation.
 
  By the chain rule, we have
