@@ -18,7 +18,7 @@ for \(f \colon I \to \mathbb{R}\) where \(I \subset \mathbb{R}\) is some interva
 \[\frac{d \phi(f(t))}{dt} = \sum_{i=1}^{n} a_{i} (t) [\frac{\partial \phi(q)}{\partial q_{i}} ]_{q_{i}= f_i (t)}\]
 so we have
 \[[\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}}]_{q_{i}= f_i (t)} = \frac{d \phi(f(t))}{dt}\]
-Thus, if \(\phi\) is a solution of the partial differential equation and \(f\) is a solutions to the ordinary differential equations, then \(\phi \circ f\) is constant.  Conversely, 
+Thus, if \(\phi\) is a solution of the partial differential equation and \(f\) is a solutions to the ordinary differential equations, then \(\phi \circ f\) is constant.  Conversely, if \(\phi)
 
 In more detail, this final step in the solution goes as follows.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, furthermore, the curve parameterized by \(f\) intersects \(S\) transversely at \(x\) but does not intersect \(S\) in any point other than \(x\).
 
