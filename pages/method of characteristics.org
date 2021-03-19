@@ -7,6 +7,10 @@
 :later: 1615330638397
 :END:
 *** Theory
+:PROPERTIES:
+:now: 1616193496303
+:later: 1616193492802
+:END:
 
  We begin with the linear differential equation of first order.  Since we working locally, suppose that \(D\) is and open subset of \(\mathbb{R}^{n}\) and that functions \(a_{1}, \ldots, a_{n} \colon D \to \mathbb{R}\) have been specified.  (So as not to have to think too hard about such matters, let's assume that all functions are infinitely differentiable.)  We consider the differential equation
 \[\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} = 0 .\]
@@ -26,6 +30,7 @@ Making use of dependence of the solution of the differential equation on initial
 1. For all \(y \in U\) we have \(f(y, 0) = y\).
 2. For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
 3. \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
+Then there exists a
 *** Technique
 *** Example
 ** Quasi-linear equations
