@@ -24,8 +24,8 @@ We can use these observations to solve the initial value problem locally.  Suppo
 
 Making use of dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we there exists some \(U\) such that \(x \in U \subseteq S\) and \(f \colon U \times [-\epsilon, \epsilon] \to D\) which satisfy the following conditions:
 1. For all \(y \in U\) we have \(f(y, 0) = y\).
-+ For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
-+ \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
+2. For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
+3. \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
 *** Technique
 *** Example
 ** Quasi-linear equations
