@@ -30,7 +30,7 @@ Making use of dependence of the solution of the differential equation on initial
 1. For all \(y \in U\) we have \(f(y, 0) = y\).
 2. For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
 3. \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
-Then there exists a unique function \(g \colon D' \to D' \cap S\) such that \(g(f(x,t)) = x\) for all \(x \in D' \cap S\).  Set \(\phi = )
+Then there exists a unique function \(g \colon D' \to D' \cap S\) such that \(g(f(x,t)) = x\) for all \(x \in D' \cap S\).  Set \(\phi = \phi_0 \circ g\).
 *** Technique
 *** Example
 ** Quasi-linear equations
