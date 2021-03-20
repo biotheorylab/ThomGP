@@ -59,7 +59,7 @@ which have the solution
 so we have
 \[f(x,t) = (x \cosh (t), x \sinh (t)).\]
 Using the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\).  Recall that, in our problem, \(\phi_{0} (x) = x^2\), so we have
-\[\phi(x,y) = \phi_{0} (g(x,y)) = ]
+\[\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.\]
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
