@@ -55,7 +55,7 @@ which have the general solution
 The condition \(f(x,0) = (x,0)\) then gives us the equations
 \[\begin{aligned} c_{1} + c_{2} &= x \\ c_{1} - c_{2} &= 0,\end{aligned}\]
 which have the solution
-\[\begin{aligned} \]
+\[\begin{aligned} c_{1} &= \frac{x}{2} \\ \]
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
