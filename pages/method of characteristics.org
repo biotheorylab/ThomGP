@@ -53,7 +53,7 @@ subject to the initial condition \(\phi(x,0) = x\).  Here the initial value mani
 which have the general solution
 \[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t}).\]
 The condition \(f(x,0) = (x,0)\) then gives us the equations
-\[\begin{aligned} c_{1} + c_{2} &= x \\ c_{1} - c_{2} &= 0,\]
+\[\begin{aligned} c_{1} + c_{2} &= x \\ c_{1} - c_{2} &= 0\end{aligned},\]
 which have the solution
 ** Quasi-linear equations
 
