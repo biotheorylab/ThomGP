@@ -27,9 +27,9 @@ Thus, if \(\phi\) is a solution of the partial differential equation and \(f\) i
 We can use these observations to solve the initial value problem locally.  Suppose that the vector field \(a_{i}\) is nowhere tangent to the initial value surface \(S\).  Then, given any point \(x \in S\), there is some interval \([-\epsilon, \epsilon]\) and some \(f  \colon [-\epsilon, \epsilon] \to D\) which satisfies the differential equation with initial condition \(f(0) = x\), and, furthermore, the curve parameterized by \(f\) intersects \(S\) transversely at \(x\) but does not intersect \(S\) in any point other than \(x\).
 
 Making use of regular dependence of the solution of the differential equation on initial data, we can assert more.  Namely, we there exists some open subset \(S' \subseteq S\) such that \(x \in S'\) and a family of functions \(f \colon S' \times [-\epsilon, \epsilon] \to D\) indexed by \(S'\) which satisfy the following conditions:
-1. For all \(y \in U\) we have \(f(y, 0) = y\).
-2. For all \(y \in U\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
-3. \(f\) maps \(U \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
+1. For all \(y \in S'\) we have \(f(y, 0) = y\).
+2. For all \(y \in S'\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
+3. \(f\) maps \(S' \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
 Then there exists a unique function \(g \colon D' \to D' \cap S\) such that \(g(f(x,t)) = x\) for all \(x \in D' \cap S\).  Set \(\phi = \phi_0 \circ g\).  From this definition, it follows that the map \(t \mapsto \phi(f(x,t))\) is constant for all \(x\).  By the conclusion we reached earlier, this means that \(\phi\) satisfies the partial differential equation on the image of \(f\) but, by condition 3 above, the image of \(f\) is \(D'\).  By construction, if \(x \in D' \cap S\) then \(\phi(x) = \phi_{0} (x)\).  Hence, \(\phi\) solves the initial value problem.
 *** Technique
 :PROPERTIES:
