@@ -58,7 +58,7 @@ which have the solution
 \[\begin{aligned} c_{1} &= \frac{x}{2} \\ c_{2} &= \frac{x}{2},\end{aligned}\]
 so we have
 \[f(x,t) = (x \cosh (t), x \sinh (t)).\]
-Using the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = x^{2} - y^{2}\).
+Using the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\).
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
