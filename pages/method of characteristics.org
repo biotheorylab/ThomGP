@@ -52,7 +52,7 @@ subject to the initial condition \(\phi(x,0) = x\).  The characteristic differen
 \[\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}\]
 which have the general solution
 \[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t}).\]
-To impose the condition \(f())
+To impose the condition \(f(x,0) = x\)
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
