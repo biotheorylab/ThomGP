@@ -47,7 +47,7 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 *** Example
 
 To illustrate, let us solve the equation
-\[y \frac{\partial \phi(x,y)}{\partial y} + x \frac{\partial \phi(x,y)}{\partial y} = 0\]
+\[y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0\]
 subject to the initial condition \(\phi(x,0) = x^{2}\).  Here the initial value manifold consists of the positive \(x\) axis in \((x,y)\)-space.  The characteristic differential equations are
 \[\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}\]
 which have the general solution
