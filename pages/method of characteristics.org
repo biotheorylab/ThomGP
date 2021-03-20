@@ -45,6 +45,8 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 + Obtain \(g\) by solving the algebraic equation \(g(f(x,t))= x\).
 + The solution to the initial value problem is \(\phi = \phi_{0} \circ g\).
 *** Example
+
+To illustrate, let us
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
