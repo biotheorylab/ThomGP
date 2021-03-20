@@ -54,8 +54,8 @@ Any function \(f\) satisfying these equations can be written as
 \[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t})\]
 for some choice of the constants \(c_{1}\) and \(c_{2}\). Hence, the family of solutions for which we are looking can be expressed as
 \[f(x,t) = (k_{1}(x) e^{t} + k_{2}(x) e^{-t}, k_{1}(x) e^{t} - k_{2}(x) e^{-t})\]
-where \(c_{1}\) and \(c_{2}\) have been chosen so as to satisfy the condition \(f(x,0) = (x,0)\).  This gives us the equations
-\[\begin{aligned} c_{1}(x) + c_{2}(x) &= x \\ c_{1}(x) - c_{2}(x) &= 0,\end{aligned}\]
+where \(k_{1}\) and \(k_{2}\) have been chosen so as to satisfy the initial condition \(f(x,0) = (x,0)\).  This gives us the equations
+\[\begin{aligned} k_{1}(x) + k_{2}(x) &= x \\ c_{1}(x) - c_{2}(x) &= 0,\end{aligned}\]
 which have the solution
 \[\begin{aligned} c_{1} &= \frac{x}{2} \\ c_{2} &= \frac{x}{2},\end{aligned}\]
 so we have
