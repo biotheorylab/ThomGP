@@ -39,6 +39,7 @@ Then there exists a unique function \(g \colon D' \to D' \cap S\) such that \(g(
 We may summarize what we have done as the following prescription for solving the partial differential equation
 \[\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} = 0\]
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
++ Consider the system of ordinary differential equations
 *** Example
 ** Quasi-linear equations
 
