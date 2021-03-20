@@ -58,7 +58,7 @@ where \(k_{1}\) and \(k_{2}\) have been chosen so as to satisfy the initial cond
 \[\begin{aligned} k_{1}(x) + k_{2}(x) &= x \\ k_{1}(x) - k_{2}(x) &= 0,\end{aligned}\]
 which have the solution
 \[\begin{aligned} k_{1}(x) &= \frac{x}{2} \\ k_{2}(x) &= \frac{x}{2},\end{aligned}.\]
-so we have
+Substituting into the general solution, we find that
 \[f(x,t) = (x \cosh (t), x \sinh (t)).\]
 Using the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\).  Recall that, in our problem, \(\phi_{0} (x) = x^2\), so we have
 \[\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.\]
