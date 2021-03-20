@@ -58,6 +58,7 @@ which have the solution
 \[\begin{aligned} c_{1} &= \frac{x}{2} \\ c_{2} &= \frac{x}{2},\end{aligned}\]
 so we have
 \[f(x,t) = (x \cosh (t), x \sinh (t)).\]
+Using the
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
