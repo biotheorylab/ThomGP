@@ -30,7 +30,7 @@ Making use of regular dependence of the solution of the differential equation on
 1. For all \(y \in S'\) we have \(f(y, 0) = y\).
 2. For all \(y \in S'\), the function \(t \mapsto f(y,t)\) satisfies the ODE.
 3. \(f\) maps \(S' \times [-\epsilon, \epsilon]\) isomorphically to some open subset \(D'\) of \(D\).
-Then there exists a unique function \(g \colon D' \to S'\) such that \(g(f(x,t)) = x\) for all \(x \in S'\).  (We can take \(g = \mathrm{pr}))  Set \(\phi = \phi_0 \circ g\).  From this definition, it follows that the map \(t \mapsto \phi(f(x,t))\) is constant for all \(x\).  By the conclusion we reached earlier, this means that \(\phi\) satisfies the partial differential equation on the image of \(f\) but, by condition 3 above, the image of \(f\) is \(D'\).  By construction, if \(x \in S'\) then \(\phi(x) = \phi_{0} (x)\).  Hence, \(\phi\) solves the initial value problem.
+Then there exists a unique function \(g \colon D' \to S'\) such that \(g(f(x,t)) = x\) for all \(x \in S'\).  (We can take \(g = \mathrm{pr}_{1} \circ f^{-1}\) where \(\mathrm{pr}_{1}\) denotes the canonical mapping of the product onto the first factor.)  Set \(\phi = \phi_0 \circ g\).  From this definition, it follows that the map \(t \mapsto \phi(f(x,t))\) is constant for all \(x\).  By the conclusion we reached earlier, this means that \(\phi\) satisfies the partial differential equation on the image of \(f\) but, by condition 3 above, the image of \(f\) is \(D'\).  By construction, if \(x \in S'\) then \(\phi(x) = \phi_{0} (x)\).  Hence, \(\phi\) solves the initial value problem.
 *** Technique
 :PROPERTIES:
 :later: 1616204027302
