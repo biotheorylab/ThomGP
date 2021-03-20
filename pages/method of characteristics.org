@@ -60,7 +60,7 @@ which have the solution
 \[\begin{aligned} k_{1}(x) &= \frac{x}{2} \\ k_{2}(x) &= \frac{x}{2},\end{aligned}.\]
 Substituting into the general solution of the differential equation, we find that
 \[f(x,t) = (x \cosh (t), x \sinh (t)).\]
-On account of the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\) satisfies the equation \(g(f(x,t)) = x\).  Recall that, in our problem, \(\phi_{0} (x) = x^2\), so we have
+On account of the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\) satisfies the equation \(g(f(x,t)) = x\).  Note that, in our problem, \(\phi_{0} (x) = x^2\), so we have
 \[\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.\]
 Differentiating, substituting, and cancelling, we may confirm that this is a solution of the equation with the correct initial conditions.
 ** Quasi-linear equations
