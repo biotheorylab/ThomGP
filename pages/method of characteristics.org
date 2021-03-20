@@ -48,7 +48,8 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 
 To illustrate, let us solve the equation
 \[y \frac{\partial \phi(x,y)}{\partial y} + x \frac{\partial \phi(x,y)}{\partial y} = 0\]
-subject to the initial condition \(\phi(x,0) = x\).
+subject to the initial condition \(\phi(x,0) = x\).  The characteristic differential equations are
+\[\begin{aligned} \frac]
 ** Quasi-linear equations
 
 By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
