@@ -50,9 +50,10 @@ To illustrate, let us solve the equation
 \[y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0\]
 subject to the initial condition \(\phi(x,0) = x^{2}\).  Here the initial value manifold consists of the positive \(x\) axis in \((x,y)\)-space.  The characteristic differential equations are
 \[\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}.\]
-which have the general solution
-\[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t}).\]
-Hence, the solution we are looking for can be expressed as
+Any function \(f\) satisfying these equations can be written as
+\[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t})\]
+for some choice of the constants
+*** Hence, the family of solutions for which we are looking can be expressed as
 \[f(x,t) = (c_{1}(x) e^{t} + c_{2}(x) e^{-t}, c_{1}(x) e^{t} - c_{2}(x) e^{-t})\]
 where \(c_{1}\) and \(c_{2}\) have been chosen so as to satisfy the condition \(f(x,0) = (x,0)\).  This gives us the equations
 \[\begin{aligned} c_{1}(x) + c_{2}(x) &= x \\ c_{1}(x) - c_{2}(x) &= 0,\end{aligned}\]
