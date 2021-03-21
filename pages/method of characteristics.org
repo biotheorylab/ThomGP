@@ -47,9 +47,9 @@ $$\frac{df_i (t)}{dt} = a_{i} (f(t))$$
 *** Example
 
 To illustrate, let us solve the equation
-\[y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0\]
+$$y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0$$
 subject to the initial condition \(\phi(x,0) = x^{2}\).  Here the initial value manifold consists of the positive \(x\) axis in \((x,y)\)-space.  The characteristic differential equations are
-\[\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}.\]
+$$\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}.$$
 Any function \(f\) satisfying these equations can be written as
 \[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t})\]
 for some choice of the constants \(c_{1}\) and \(c_{2}\). Hence, the family of solutions for which we are looking can be expressed as
