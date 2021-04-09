@@ -58,5 +58,9 @@ those dynamical phase transitions in variants of a simple bistable system called
 *** B. Generalized Schlögl model
 *** C. Runaway Schlögl model
 ** VI. PRACTICAL SUMMARY OF FORMULAE AND RESULTS
-** VII. CONCLUSION
+** NOW VII. CONCLUSION
+:PROPERTIES:
+:now: 1617469716458
+:later: 1617469703458
+:END:
 ** APPENDIX: COMPUTATION OF THE CHEMICAL LAGRANGIANS AND HAMILTONIANS
