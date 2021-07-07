@@ -80,7 +80,7 @@ If \[\chi (\phi(q), q)\] is constant, the left-hand side equals zero.  Making th
 Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\), then \(\phi\) is a solution of the quasilinear equation
 *** Technique
 *** Example
-$$\frac{\partialu(x,t)}$$
+$$\frac{\partial u(x,t)}{\partial t}$$
 ** Non-linear equations
 :PROPERTIES:
 :later: 1615001623629
