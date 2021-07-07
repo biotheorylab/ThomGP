@@ -85,6 +85,7 @@ Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \
 :later: 1615001623629
 :END:
 
+
 Now we generalize to non-linear equations of the form
 \[ H\left( \frac{\partial}{\partial q_{\cdot}} \phi(q), q_{\cdot} \right) = 0.\]
 To reduce such an equation to a quasilinear equation, we introduce new variables \(p_{i}\) and equations \(p_{i} = \frac{\partial \phi}{\partial q_{i}}\).  Taking the derivative of the original equation and substituting, we find that
@@ -99,6 +100,8 @@ The equations we have just derived are quasi-linear.  Furthermore, we note that,
 hence
 \[ H\left( \frac{\partial \phi}{\partial q_{\cdot}}, q_{\cdot} \right) = c\]
 for some constant \(c\).  If we know that \(c = 0\) at some point (e.g. from initial conditions) then \(c = 0\) everywhere, so the original equation is satisfled.
+*** Technique
+*** Example
 ** References
 *** [[https://lccn.loc.gov/96022069][Forsyth, Andrew Russell. A treatise on differential equations. Dover Publications, 1996.]]
 *** [[https://lccn.loc.gov/89112829][Courant, Richard, and David Hilbert. Methods of Mathematical Physics: Partial Differential Equations. John Wiley & Sons, 2008.]]
