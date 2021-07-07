@@ -78,7 +78,8 @@ If we have a solution of the latter equation of the form \(\varphi(q,s) = \phi(q
 If \[\chi (\phi(q), q)\] is constant, the left-hand side equals zero.  Making this assumption and multiplying by \[a_{i}\] and rearranging, we obtain
 \[\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum_{i} a_{i} (\phi(q),q) \frac{\partial \phi (q)}{\partial q_{i}} = -\left[\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)}\]
 Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\), then \(\phi\) is a solution of the quasilinear equation
-**
+*** Technique
+*** Example
 ** Non-linear equations
 :PROPERTIES:
 :later: 1615001623629
