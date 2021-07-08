@@ -75,7 +75,7 @@ consider the homogeneous equation
 If we have a solution of the latter equation of the form \(\varphi(q,s) = \phi(q) + s\), then \(\phi\) will satisfy the former equation.
 
  Next we turn out attention to the quasi-linear equation 
-$$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = 0 .$$
+$$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = 0.$$
 By the chain rule, we have
  \[\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = \left[\frac{\partial \chi(u,q)}{\partial u} \frac{\partial \phi (q)}{\partial q_{i}} + \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)} .\]
 If \[\chi (\phi(q), q)\] is constant, the left-hand side equals zero.  Making this assumption and multiplying by \[a_{i}\] and rearranging, we obtain
