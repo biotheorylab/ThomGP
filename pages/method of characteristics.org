@@ -80,7 +80,7 @@ By the chain rule, we have
  $$\frac {\partial}{\partial q_{i}} \chi (\phi(q), q) = \left[\frac{\partial \chi(u,q)}{\partial u} \frac{\partial \phi (q)}{\partial q_{i}} + \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)} .$$
 If \[\chi (\phi(q), q)\] is constant, the left-hand side equals zero.  Making this assumption, multiplying by \[a_{i}\] and rearranging, we obtain
 $$\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum_{i} a_{i} (\phi(q),q) \frac{\partial \phi (q)}{\partial q_{i}} = -\left[\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}}\right]_{u = \phi(q)}$$
-Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\) and we , then \(\phi\) is a solution of the quasilinear equation.
+Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\) and we take $\phi$ to be a solution of the equation, then \(\phi\) is a solution of the quasilinear equation.
 *** Technique 
 
 We may summarize what we have done as the following prescription for solving the partial differential equation
