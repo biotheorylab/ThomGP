@@ -102,7 +102,6 @@ $$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}
 :done: 1625874388793
 :now: 1625874388055
 :later: 1625874393592
-:collapsed: true
 :END:
 
 
