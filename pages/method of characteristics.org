@@ -91,10 +91,8 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 :PROPERTIES:
 :id: 60e6581e-81b4-4fa3-895b-319f42fad41a
 :END:
-
-
-
-$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (h(t), f(t)) \\ \frac{dh (t)}{dt} &= b (h(t), f(t))\end{aligned}$$
+$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (h(t), f(t)) \\ \frac{dh (t)}{dt} &= b (h(t), f(t))\end{aligned}$$ 
++ Solve these with initial condition \(f(x,0) = x\) for \(x \in S\).
 *** Example
 $$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
 ** Non-linear equations
