@@ -89,7 +89,7 @@ We may summarize what we have done as the following prescription for solving the
 $$\sum_{i=1}^n a_i (q) \sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} + b(\phi(q), q) = 0$$
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\). 
 + Form the system of ordinary differential equations
-$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (h(t), f(t)) \\ \frac{dh (t)}{dt} &= b (h(t), f(t))\end{aligned}$$ 
+$$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh (x, t)}{dt} &= b (h(t), f(t))\end{aligned}$$ 
 + Solve these with initial condition \(f(x,0) = x\) for \(x \in S\). 
 + Obtain \(g\) by solving the algebraic equation \(g(f(x,t))= x\).
 + The solution to the initial value problem is \(\phi = \phi_{0} \circ g\).
