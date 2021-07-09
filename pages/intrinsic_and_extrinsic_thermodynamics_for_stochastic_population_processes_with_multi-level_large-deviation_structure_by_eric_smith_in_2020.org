@@ -5,6 +5,8 @@
 ** Contents
 *** I. INTRODUCTION
 *** II. MULTI-LEVEL SYSTEMS
+:PROPERTIES:
+:END:
 **** 1. Micro to macro, within and between levels
 **** A. Models based on population processes
 **** B. Stochastic description within the mesoscale
