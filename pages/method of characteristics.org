@@ -97,10 +97,11 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 + The solution to the initial value problem is \(\phi = h \circ g\).
 *** Example
 $$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2$$
-** Non-linear equations
+** LATER Non-linear equations
 :PROPERTIES:
-:later: 1615001623629
+:later: 1625874383420
 :END:
+
 
 
 Now we generalize to non-linear equations of the form
