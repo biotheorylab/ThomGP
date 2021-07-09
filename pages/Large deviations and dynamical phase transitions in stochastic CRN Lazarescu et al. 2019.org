@@ -1,3 +1,6 @@
+:PROPERTIES:
+:title: Large deviations and dynamical phase transitions in stochastic CRN Lazarescu et al. 2019
+:END:
 #+TITLE: Large deviations and dynamical phase transitions in stochastic chemical networks by Lazarescu et al. in 2019
 
 ** CITATION
