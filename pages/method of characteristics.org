@@ -94,7 +94,7 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 + Obtain \(g\) by solving the algebraic equations \(g(f(x,t))= (x, t)\).
 + The solution to the initial value problem is \(\phi = h \circ g\).
 *** Example
-$$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,t)}{\partial x} = x^2$$
+$$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2$$
 ** Non-linear equations
 :PROPERTIES:
 :later: 1615001623629
