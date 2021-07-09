@@ -92,7 +92,7 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh (x, t)}{dt} &= b (h(x, t), f(x, t))\end{aligned}$$ 
 + Solve these with initial conditions \(f(x,0) = x\) and \(h(x,0) = \phi_{0} (x)\) for \(x \in S\). 
 + Obtain \(g\) and $k$ by solving the algebraic equations \(g(f(x,t))= x\) and \(k(f(x,t))= t\).
-+ The solution to the initial value problem is given as \(\phi = \phi_{0} \circ g\).
++ The solution to the initial value problem is given as \(\phi(x) = \phi_{0} \circ g\).
 *** Example
 $$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
 ** Non-linear equations
