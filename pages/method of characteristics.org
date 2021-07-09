@@ -67,7 +67,7 @@ $$\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.$$
 Differentiating, substituting, and cancelling, we may confirm that this is a solution of the equation with the correct initial conditions.
 ** Quasi-linear equations
 
-By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
+By introducing more independent variables, we can generalize our result to inhomogeneous and quasi-linear equations.
 
 To solve the inhomogeneous linear equation
 $$\sum_{i=1}^n a_i (q) \frac{\partial \phi(q)}{\partial q_i} + b(q) = 0,$$
