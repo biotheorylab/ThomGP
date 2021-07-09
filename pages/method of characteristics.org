@@ -88,7 +88,7 @@ We may summarize what we have done as the following prescription for solving the
 $$\sum_{i=1}^n a_i (q) \sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} + b(q) = 0$$
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 **** Form the system of ordinary differential equations
-$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (f(t))\end{aligned} \\ $$
+$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (f(t))\end{aligned} \\ \frac{}{}$$
 ****
 *** Example
 $$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
