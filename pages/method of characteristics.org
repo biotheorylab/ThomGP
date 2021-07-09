@@ -92,7 +92,7 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 :id: 60e6581e-81b4-4fa3-895b-319f42fad41a
 :END:
 
-$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (u, f(t)) \\ \frac{dg (t)}{dt} &= b \end{aligned}$$
+$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (u(t), f(t)) \\ \frac{dg (t)}{dt} &= b (u(t), f(t))\end{aligned}$$
 ****
 *** Example
 $$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
