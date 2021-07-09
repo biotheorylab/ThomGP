@@ -93,7 +93,8 @@ with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 :END:
 
 
-$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (g(t), f(t)) \\ \frac{dg (t)}{dt} &= b (g(t), f(t))\end{aligned}$$
+
+$$\begin{aligned}\frac{df_i (t)}{dt} &= a_{i} (h(t), f(t)) \\ \frac{dg (t)}{dt} &= b (g(t), f(t))\end{aligned}$$
 **** Solve these with the initial conditions
 *** Example
 $$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
