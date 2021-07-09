@@ -11,6 +11,8 @@ $$ \begin{aligned}\frac{dP(n,t)}{dt} &=
         k_D \, (n+1) P(n+1, t)  -
         k_D \, n  P(n, t)\end{aligned}$$
 *** As is linear, the mean field equation can be found by multiplying both sides by n a summing over n  and shifting the indices:
+:PROPERTIES:
+:END:
 ****
 $$\begin{aligned} n\frac{dP(n,t)}{dt} &= n\left( 
         k_D \, (n+1) P(n+1, t)  -
