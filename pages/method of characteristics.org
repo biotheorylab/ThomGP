@@ -101,7 +101,7 @@ $$\frac{\partial \phi (x,y)}{\partial x} - \phi (x,y) \frac{\partial \phi (x,y)}
 The coefficients are given as
 $$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= -u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
-$$\begin{aligned} \frac{df_{x} (t)}{dt} &= - h(x, y, t) \\ \frac{df_{y} (t)}{dt} &= 1 \\ \frac{dh(t)}{dt} &= f_{x}(t)^2 \end{aligned}$$
+$$\begin{aligned} \frac{df_{x} (t)}{dt} &= 1 \\ \frac{df_{y} (t)}{dt} &= 1 \\ \frac{dh(t)}{dt} &= f_{x}(t)^2 \end{aligned}$$
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
