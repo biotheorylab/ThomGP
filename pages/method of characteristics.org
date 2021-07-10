@@ -102,8 +102,6 @@ The coefficients are given as
 $$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= -u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
 $$\begin{aligned} \frac{df_{x} (t)}{dt} &= 1 \\ \frac{df_{y} (t)}{dt} &=  \\ \frac{dh(t)}{dt} &= f_{x}(t)^2 \end{aligned}$$
-*** h(x, y, t)
-*** h(x, y, t)
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
