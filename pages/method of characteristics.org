@@ -96,14 +96,14 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 *** Example 
 
 We will now illustrate the techniques on the differential equation
-$$\frac{\partial \phi (x,y)}{\partial x} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
+$$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
 
 The coefficients are given as
-$$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= -u \\ b(u,x,y) &= x^2 \end{aligned}.$$
+$$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
-$$\begin{aligned} \frac{df_{1} (t)}{dt} &= 1 \\ \frac{df_{2} (t)}{dt} &= -h(t) \\ \frac{dh(t)}{dt} &= f_{1}(t)^2 \end{aligned}$$
+$$\begin{aligned} \frac{df_{1} (t)}{dt} &= 1 \\ \frac{df_{2} (t)}{dt} &= h(t) \\ \frac{dh(t)}{dt} &= f_{1}(t)^2 \end{aligned}$$
 The general solution is
-$$\begin{aligned} f_{1}(t) &= t + c_{1} \\ f_{2} (t) &= \tfrac{1}{12} t^{4} - \tfrac{1}{3} c_{1} t^3 - \tfrac{1}{2} c_{1}^2 t^2 - c_{2} t + c_{3} \\ f_{3}(t) &= \tfrac{1}{3} t^{3} + c_{1} t^2 + c_{1}^2 t + c_{2} \end{aligned}$$
+$$\begin{aligned} f_{1}(t) &= t + c_{1} \\ f_{2} (t) &= \tfrac{1}{12} t^{4} + \tfrac{1}{3} c_{1} t^3 + \tfrac{1}{2} c_{1}^2 t^2 + c_{2} t + c_{3} \\ f_{3}(t) &= \tfrac{1}{3} t^{3} + c_{1} t^2 + c_{1}^2 t + c_{2} \end{aligned}$$
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
