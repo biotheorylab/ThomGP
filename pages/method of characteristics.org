@@ -96,10 +96,10 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 *** Example 
 
 We will now illustrate the techniques on the differential equation
-$$\frac{\partial \phi (x,y)}{\partial x} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2.$$
+$$\frac{\partial \phi (x,y)}{\partial x} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
 
 The coefficients are given as
-$$\begin{aligned} a_{x} (u,x,y) &= -u \\ a_{y} (u,x,y) &= 1 \\ b(u,x,y) &= x^2 \end{aligned}.$$
+$$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= -u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
 $$\begin{aligned} \frac{df_{x} (t)}{dt} &= - h(x, y, t) \\ \frac{df_{y} (t)}{dt} &= 1 \\ \frac{dh(t)}{dt} &= f_{x}(t)^2 \end{aligned}$$
 ** LATER Non-linear equations
