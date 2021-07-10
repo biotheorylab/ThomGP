@@ -98,7 +98,7 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2.$$
 
-The
+The coefficients are given as
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
