@@ -102,6 +102,7 @@ The coefficients are given as
 $$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= -u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
 $$\begin{aligned} \frac{df_{1} (t)}{dt} &= 1 \\ \frac{df_{2} (t)}{dt} &= -h(t) \\ \frac{dh(t)}{dt} &= f_{1}(t)^2 \end{aligned}$$
+The general solution is
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
