@@ -95,7 +95,6 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 + The solution to the initial value problem is \(\phi = h \circ g\).
 *** Example 
 :PROPERTIES:
-:collapsed: true
 :END:
 
 We will now illustrate the techniques on the differential equation
