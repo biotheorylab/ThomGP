@@ -96,7 +96,7 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 *** Example 
 
 We will now illustrate the techniques on the differential equation
-$$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2.$$
+$$\frac{\partial \phi (x,y)}{\partial x} - \phi (x,y) \frac{\partial \phi (x,y)}{\partial x} = x^2.$$
 
 The coefficients are given as
 $$\begin{aligned} a_{x} (u,x,y) &= -u \\ a_{y} (u,x,y) &= 1 \\ b(u,x,y) &= x^2 \end{aligned}.$$
