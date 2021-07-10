@@ -2,4 +2,5 @@
 * [[Notation for Probability]]
 * [[Continuous-time Markov processes]]
 * [[Asymptotic series]]
+* [[intrinsic curvature]]
 *
