@@ -100,7 +100,7 @@ $$\frac{\partial \phi (x,y)}{\partial y} - \phi (x,y) \frac{\partial \phi (x,y)}
 
 The coefficients are given as
 $$\begin{aligned} a_{x} (u,x,y) &= -u \\ a_{y} (u,x,y) &= 1 \\ b(u,x,y) &= x^2 \end{aligned}.$$
-Using these,we form the system of
+Using these,we form the system of differential equations
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
