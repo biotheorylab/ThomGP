@@ -114,7 +114,7 @@ $$\begin{aligned} f_{1} (y,t) &= t + k_{1}(y) \\ f_{2} (y,t) &= \tfrac{1}{12} t^
 where \(k_{1}, k_{2}, k_{3}\) have been chosen so as to satisfy the initial conditions 
 $$\begin{aligned}f_{1} (y, 0) &= 0 \\ f_{2} (y, 0) &= y \\ h(y, 0) &= y + 1. \end{aligned}$$  
 This gives us the equations
-$$\begin{aligned}k_1 (y) &= 0 \\ k_{3}(y) &= y \\ k_{2} (y) \end{aligned}$$
+$$\begin{aligned}k_1 (y) &= 0 \\ k_{3}(y) &= y \\ k_{2} (y) &= y + 1 \end{aligned}$$
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
