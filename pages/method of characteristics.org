@@ -93,7 +93,12 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 + Solve these with initial conditions \(f(x,0) = x\) and \(h(x,0) = \phi_{0} (x)\) for \(x \in S\). 
 + Obtain \(g\) by solving the algebraic equations \(g(f(x,t))= (x, t)\).
 + The solution to the initial value problem is \(\phi = h \circ g\).
-*** Example 
+*** NOW Example 
+:PROPERTIES:
+:done: 1625967250798
+:later: 1625967251836
+:now: 1625967252511
+:END:
 
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
