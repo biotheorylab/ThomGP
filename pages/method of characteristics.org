@@ -86,9 +86,11 @@ $$\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum_{i} a_{
 Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\) and we take $\phi$ to be a solution of the equation
 $\chi (\phi(q), q) = C$ for some constant $C$, then \(\phi\) is a solution of the quasilinear equation.
 *** Technique 
+:PROPERTIES:
+:END:
 
 We may summarize what we have done as the following prescription for solving the partial differential equation
-$$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = b(\phi(q), q) = 0$$
+$$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = b(\phi(q), q)$$
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\). 
 + Form the system of ordinary differential equations
 $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh (x, t)}{dt} &= b (h(x, t), f(x, t))\end{aligned}$$ 
