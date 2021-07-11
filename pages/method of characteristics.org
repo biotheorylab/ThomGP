@@ -94,13 +94,12 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 + Obtain \(g\) by solving the algebraic equations \(g(f(x,t))= (x, t)\).
 + The solution to the initial value problem is \(\phi = h \circ g\).
 *** Example 
-:PROPERTIES:
-:END:
+
 
 
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
-
+with initial conditions 
 The coefficients are given as
 $$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
