@@ -127,7 +127,7 @@ $$\begin{aligned} f_{1} (y,t) &= t \\ f_{2} (y,t) &= \tfrac{1}{12} t^{4} + (y + 
 We next solve the equations
 $$\begin{aligned} g_{1}(f_{1}(y,t), f_{2}(y,t)) &= g_{1} (t, \tfrac{1}{12} t^{4} + (y + 1) t + y) = t \\ g_{2}(f_{1}(y,t), f_{2}(y,t))) &= g_{2} (t, \tfrac{1}{12} t^{4} + (y + 1) t + y) = y \end{aligned}$$
 to obtain
-$$\$$
+$$\begin{align}$$
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
