@@ -106,7 +106,7 @@ $$\begin{aligned} \frac{df_{1} (t)}{dt} &= 1 \\ \frac{df_{2} (t)}{dt} &= h(t) \\
 The general solution is
 $$\begin{aligned} f_{1}(t) &= t + c_{1} \\ f_{2} (t) &= \tfrac{1}{12} t^{4} + \tfrac{1}{3} c_{1} t^3 + \tfrac{1}{2} c_{1}^2 t^2 + c_{2} t + c_{3} \\ f_{3}(t) &= \tfrac{1}{3} t^{3} + c_{1} t^2 + c_{1}^2 t + c_{2} \end{aligned}$$
 Hence, the family of solutions for which we are looking can be expressed as
-$$f(x,t) = (k_{1}(x) e^{t} + k_{2}(x) e^{-t}, k_{1}(x) e^{t} - k_{2}(x) e^{-t})$$
+$$f(x,t) = (t + k_{1}(x), k_{1}(x) e^{t} - k_{2}(x) e^{-t})$$
 where \(k_{1}\) and \(k_{2}\) have been chosen so as to satisfy the initial condition \(f(x,0) = (x,0)\).  This gives us the equations
 ** LATER Non-linear equations
 :PROPERTIES:
