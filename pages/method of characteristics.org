@@ -123,7 +123,7 @@ $$\begin{aligned} k_1 (y) &= 0 \\ k_{3}(y) &= y \\ k_{2} (y) &= y + 1 \end{align
 so the solution to the initial value problem is
 $$\begin{aligned} f_{1} (y,t) &= t \\ f_{2} (y,t) &= \tfrac{1}{12} t^{4} + (y + 1) t + y \\ h(y,t) &= \tfrac{1}{3} t^{3} + y + 1 \end{aligned}$$
 We next solve the equations
-$$\begin{aligned} g_{1}(f_{1}(y,t), f_{2}(y,t)) &= g_{1} (t, ) = t \\ g_{2}(f_{1}(y,t), f_{2}(y,t))) &= y \end{aligned}$$
+$$\begin{aligned} g_{1}(f_{1}(y,t), f_{2}(y,t)) &= g_{1} (t, \tfrac{1}{12} t^{4} + (y + 1) t + y) = t \\ g_{2}(f_{1}(y,t), f_{2}(y,t))) &= y \end{aligned}$$
 ** LATER Non-linear equations
 :PROPERTIES:
 :done: 1625874388793
