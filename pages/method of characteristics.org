@@ -98,7 +98,6 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 :done: 1625967250798
 :now: 1625967252511
 :later: 1625967251836
-:collapsed: true
 :END:
 
 We will now illustrate the techniques on the differential equation
