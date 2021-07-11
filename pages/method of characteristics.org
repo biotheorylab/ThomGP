@@ -45,6 +45,8 @@ $$\frac{df_i (x, t)}{dt} = a_{i} (f(x, t))$$
 + Obtain \(g\) by solving the algebraic equation \(g(f(x,t))= x\).
 + The solution to the initial value problem is \(\phi = \phi_{0} \circ g\).
 *** Example
+:PROPERTIES:
+:END:
 
 To illustrate, let us solve the equation
 $$y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0$$
