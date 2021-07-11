@@ -102,10 +102,11 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 :later: 1625967251836
 :END:
 
+
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
 with initial conditions $\phi(0, y) = y + 1$ on the surface $x = 0$. 
-The coefficients are given as
+The coefficient functions are given as
 $$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= u \\ b(u,x,y) &= x^2 \end{aligned}.$$
 Using these,we form the system of differential equations
 $$\begin{aligned} \frac{df_{1} (t)}{dt} &= a_1 (h(t), f_{1} (t), f_{2} (t)) = 1 \\ \frac{df_{2} (t)}{dt} &= h(t) \\ \frac{dh(t)}{dt} &= f_{1}(t)^2 \end{aligned}$$
