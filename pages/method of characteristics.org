@@ -89,7 +89,6 @@ $\chi (\phi(q), q) = C$ for some constant $C$, then \(\phi\) is a solution of th
 :PROPERTIES:
 :END:
 
-
 We may summarize what we have done as the following prescription for solving the partial differential equation
 $$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = b(\phi(q), q)$$
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\). 
