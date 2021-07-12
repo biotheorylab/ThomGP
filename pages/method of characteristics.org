@@ -86,6 +86,8 @@ $$\left[\frac{\partial \chi(u,q)}{\partial u} \right]_{u = \phi(q)} \sum_{i} a_{
 Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \frac{\partial \chi (u,q)}{\partial q_{i}} = 0\) and we take $\phi$ to be a solution of the equation
 $\chi (\phi(q), q) = C$ for some constant $C$, then \(\phi\) is a solution of the quasilinear equation.
 *** Technique 
+:PROPERTIES:
+:END:
 
 
 We may summarize what we have done as the following prescription for solving the partial differential equation
