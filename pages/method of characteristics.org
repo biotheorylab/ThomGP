@@ -104,12 +104,6 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 :later: 1625967251836
 :END:
 
-
-
-
-
-
-
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
 with initial conditions $\phi(0, y) = y + 1$ on the surface $x = 0$. 
@@ -127,7 +121,7 @@ We next solve the equations
 $$\begin{aligned} g_{1}(f_{1}(y_{0}, t), f_{2}(y_{0}, t)) &= g_{1} (t, \tfrac{1}{12} t^{4} + (y_{0} + 1) t + y_{0}) = y_{0} \\ g_{2}(f_{1}(y_{0}, t), f_{2}(y_{0}, t))) &= g_{2} (t, \tfrac{1}{12} t^{4} + (y_{0} + 1) t + y_{0}) = t \end{aligned}$$
 to obtain
 $$\begin{aligned}  g_{1} (x, y) &= \frac{12 y - x^{4} - 12 x}{12(x + 1)} \\ g_{2} (x, y) &= x. \end{aligned}$$
-So we obtain the solution to the partial differential equation
+So we obtain the solution to the partial differential equation:
 $$\begin{aligned}\phi(x, y) &= h (g (x, y)) \\ &=  \tfrac{1}{3} g_{1} (x,y)^{3} + g_{2} (x,y) + 1 \\ &= \frac{12 y + 3 x^4 + 4 x^3 + 12}{12 (x + 1)} \end{aligned}$$
 ** LATER Non-linear equations
 :PROPERTIES:
