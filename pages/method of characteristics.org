@@ -87,6 +87,7 @@ Thus, if  \(\chi\) is a solution of the linear equation \(\sum_{i} a_{i} (u,q) \
 $\chi (\phi(q), q) = C$ for some constant $C$, then \(\phi\) is a solution of the quasilinear equation.
 *** Technique 
 :PROPERTIES:
+:collapsed: true
 :END:
 
 We may summarize what we have done as the following prescription for solving the partial differential equation
