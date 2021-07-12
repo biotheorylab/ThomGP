@@ -105,8 +105,6 @@ $$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh 
 :later: 1625967251836
 :END:
 
-
-
 We will now illustrate the techniques on the differential equation
 $$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
 with initial conditions $\phi(0, y) = y + 1$ on the surface $x = 0$. 
