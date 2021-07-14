@@ -1,4 +1,4 @@
-* #[[solution methods of differential equations]]
+* #[[solution methods for differential equations]]
 *
 #+TITLE: Method of Characteristics
 ** Here we will describe the method of characteristics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved.
