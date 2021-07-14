@@ -1,0 +1,3 @@
+* Notes on the Legendre Transform [[file:./intrinsic_and_extrinsic_thermodynamics_for_stochastic_population_processes_with_multi-level_large-deviation_structure_by_eric_smith_in_2020.org][Intrinsic and Extrinsic Thermodynamics for Stochastic Population Processes with Multi-Level Large-Deviation Structure by Eric Smith in 2020]]
+*
+$$\eta$$
