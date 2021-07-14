@@ -29,4 +29,5 @@
 		- A.6. Incorporating mutation
 	- Appendix B. Public goods game framework
 		- B.1. Mathematical description
+		- B.2. Stochastic implementation
 		-
