@@ -27,4 +27,6 @@
 		- A.4. ODE approximation
 		- A.5. Integro-partial differential equation approximation
 		- A.6. Incorporating mutation
+	- Appendix B. Public goods game framework
+		- B.1. Mathematical description
 		-
