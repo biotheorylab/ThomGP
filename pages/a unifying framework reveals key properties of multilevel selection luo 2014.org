@@ -32,4 +32,5 @@
 		- B.2. Stochastic implementation
 		- B.3. Taking $m \to \infty$
 		- B.4. ODE approximation
+		- B.5. Integro-partial differential equation approximation
 		-
