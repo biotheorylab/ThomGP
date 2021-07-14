@@ -30,4 +30,4 @@
 	- Appendix B. Public goods game framework
 		- B.1. Mathematical description
 		- B.2. Stochastic implementation
-		-
+		- B.3. Taking m-1
