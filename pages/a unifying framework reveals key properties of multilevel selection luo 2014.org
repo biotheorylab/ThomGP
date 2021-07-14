@@ -19,3 +19,4 @@
 		- 3.3. Mutation benefits the individual-advantageous type
 		- 3.4. Population size matters
 	-
+	  4. Discussion and conclusion
