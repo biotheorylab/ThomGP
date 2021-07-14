@@ -1,2 +1,2 @@
 - #[[tag:paper]]
-	- Reference
+- Reference
