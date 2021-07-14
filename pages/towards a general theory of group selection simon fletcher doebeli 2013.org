@@ -9,4 +9,5 @@
 	- Introduction
 	- Two Related Models of Two-Level
 	  Population Dynamics
+		- THE MARKOVIAN MODEL
 		-
