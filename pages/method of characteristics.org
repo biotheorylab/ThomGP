@@ -1,6 +1,8 @@
+:PROPERTIES:
+:END:
 #+TITLE: Method of Characteristics
 
-** Here we will describe the method of characteristics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved.
+** Here we will describe the method of characteristics for solving first-order partial differential equations.  We will start simple and gradually build in generality by reducing more complicated equations to simpler equations which we have already solved
 ** Homogeneous Linear Equations
 :PROPERTIES:
 :now: 1615330639112
@@ -36,40 +38,37 @@ Then there exists a unique function \(g \colon D' \to S'\) such that \(g(f(x,t))
 :later: 1616204027302
 :END:
 
+
 We may summarize what we have done as the following prescription for solving the partial differential equation
 $$\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} = 0$$
 with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
 + Form the system of ordinary differential equations
-$$\frac{df_i (x, t)}{dt} = a_{i} (f(x, t))$$
+$$\frac{df_i (t)}{dt} = a_{i} (f(t))$$
 + Solve these with initial condition \(f(x,0) = x\) for \(x \in S\).
 + Obtain \(g\) by solving the algebraic equation \(g(f(x,t))= x\).
 + The solution to the initial value problem is \(\phi = \phi_{0} \circ g\).
 *** Example
-:PROPERTIES:
-:END:
 
 To illustrate, let us solve the equation
 $$y \frac{\partial \phi(x,y)}{\partial x} + x \frac{\partial \phi(x,y)}{\partial y} = 0$$
-subject to the initial condition \(\phi(x,0) = x^{2}\).  Here the initial value manifold consists of the positive \(x\) axis in \((x,y)\)-space.   The coefficient functions are
-$$\begin{aligned}a_1 (x,y) &= y \\ a_2 (x,y) &= x \end{aligned}$$
-The characteristic differential equations are
-$$\begin{aligned} \frac{df_{1} (t)}{dt} &= a_1(f_1 (t), f_2 (t)) = f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= a_2 (f_1 (t), f_2(t)) = f_{1} (t) \end{aligned}.$$
+subject to the initial condition \(\phi(x,0) = x^{2}\).  Here the initial value manifold consists of the positive \(x\) axis in \((x,y)\)-space.  The characteristic differential equations are
+$$\begin{aligned} \frac{df_{1} (t)}{dt} &= f_{2} (t) \\ \frac{df_{2} (t)}{dt} &= f_{1} (t) \end{aligned}.$$
 Any function \(f\) satisfying these equations can be written as
-$$f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t})$$
+\[f(t) = (c_{1} e^{t} + c_{2} e^{-t}, c_{1} e^{t} - c_{2} e^{-t})\]
 for some choice of the constants \(c_{1}\) and \(c_{2}\). Hence, the family of solutions for which we are looking can be expressed as
-$$f(x,t) = (k_{1}(x) e^{t} + k_{2}(x) e^{-t}, k_{1}(x) e^{t} - k_{2}(x) e^{-t})$$
+\[f(x,t) = (k_{1}(x) e^{t} + k_{2}(x) e^{-t}, k_{1}(x) e^{t} - k_{2}(x) e^{-t})\]
 where \(k_{1}\) and \(k_{2}\) have been chosen so as to satisfy the initial condition \(f(x,0) = (x,0)\).  This gives us the equations
-$$\begin{aligned} k_{1}(x) + k_{2}(x) &= x \\ k_{1}(x) - k_{2}(x) &= 0,\end{aligned}$$
+\[\begin{aligned} k_{1}(x) + k_{2}(x) &= x \\ k_{1}(x) - k_{2}(x) &= 0,\end{aligned}\]
 which have the solution
-$$\begin{aligned} k_{1}(x) &= \frac{x}{2} \\ k_{2}(x) &= \frac{x}{2},\end{aligned}.$$
+\[\begin{aligned} k_{1}(x) &= \frac{x}{2} \\ k_{2}(x) &= \frac{x}{2},\end{aligned}.\]
 Substituting into the general solution of the differential equation, we find that
-$$f(x,t) = (x \cosh (t), x \sinh (t)).$$
+\[f(x,t) = (x \cosh (t), x \sinh (t)).\]
 On account of the trigonometric identity \(\cosh (t)^{2} - \sinh (t)^{2} = 1\), we see that \(g(x,y) = \sqrt{x^{2} - y^{2}}\) satisfies the equation \(g(f(x,t)) = x\).  Note that, in our problem, \(\phi_{0} (x) = x^2\), so we have
-$$\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.$$
+\[\phi(x,y) = \phi_{0} (g(x,y)) = x^{2} - y^{2}.\]
 Differentiating, substituting, and cancelling, we may confirm that this is a solution of the equation with the correct initial conditions.
 ** Quasi-linear equations
 
-By introducing more independent variables, we can generalize our result to inhomogeneous and quasi-linear equations.
+By introducing more independant variables, we can generalize our result to inhomogeneous and quasi-linear equations.
 
 To solve the inhomogeneous linear equation
 $$\sum_{i=1}^n a_i (q) \frac{\partial \phi(q)}{\partial q_i} + b(q) = 0,$$
@@ -88,45 +87,17 @@ $\chi (\phi(q), q) = C$ for some constant $C$, then \(\phi\) is a solution of th
 *** Technique 
 
 We may summarize what we have done as the following prescription for solving the partial differential equation
-$$\sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} = b(\phi(q), q)$$
-with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\). 
-+ Form the system of ordinary differential equations
-$$\begin{aligned}\frac{df_i (x, t)}{dt} &= a_{i} (h(x, t), f(x, t)) \\ \frac{dh (x, t)}{dt} &= b (h(x, t), f(x, t))\end{aligned}$$ 
-+ Solve these with initial conditions \(f(x_{0} ,0) = x_{0} \) and \(h(x_{0}, 0) = \phi_{0} (x_{0})\) for \(x \in S\). 
-+ Obtain \(g\) by solving the algebraic equations \(g(f(x_0, t))= (x_{0}, t)\).
-+ The solution to the initial value problem is \(\phi = h \circ g\).
-*** NOW Example 
+$$\sum_{i=1}^n a_i (q) \sum_{i=1}^{n} a_{i} (\phi (q), q) \frac{\partial \phi (q)}{\partial q_{i}} + b(q) = 0$$
+with initial value data \(\phi(x) = \phi_{0} (x)\) when \(x \in S\).
+**** Form the system of ordinary differential equations
+$$\frac{df_i (t)}{dt} = a_{i} (f(t))$$
+*** Example
+$$\frac{\partial u(x,t)}{\partial t} - u(x,t) \frac{\partial u(x,t)}{\partial x} = x^2$$
+** Non-linear equations
 :PROPERTIES:
-:done: 1625967250798
-:now: 1625967252511
-:later: 1625967251836
+:later: 1615001623629
 :END:
 
-We will now illustrate the techniques on the differential equation
-$$\frac{\partial \phi (x,y)}{\partial x} + \phi (x,y) \frac{\partial \phi (x,y)}{\partial y} = x^2.$$
-with initial conditions $\phi(0, y) = y + 1$ on the surface $x = 0$. 
-The coefficient functions are given as
-$$\begin{aligned} a_{1} (u,x,y) &= 1 \\ a_{2} (u,x,y) &= u \\ b(u,x,y) &= x^2 \end{aligned}.$$
-Using these,we form the system of differential equations
-$$\begin{aligned} \frac{df_{1} (t)}{dt} &= a_{1} (h(t), f_{1} (t), f_{2} (t)) = 1 \\ \frac{df_{2} (t)}{dt} &= a_{2} (h(t), f_{1} (t), f_{2} (t)) = h(t) \\ \frac{dh(t)}{dt} &= b (h(t), f_{1} (t), f_{2} (t)) =(f_{1}(t))^2 \end{aligned}$$
-The general solution is
-$$\begin{aligned} f_{1}(t) &= t + c_{1} \\ f_{2} (t) &= \tfrac{1}{12} t^{4} + \tfrac{1}{3} c_{1} t^3 + \tfrac{1}{2} c_{1}^2 t^2 + c_{2} t + c_{3} \\ h(t) &= \tfrac{1}{3} t^{3} + c_{1} t^2 + c_{1}^2 t + c_{2} \end{aligned}$$
-Imposing the initial conditions
-$$\begin{aligned}f_{1} (y_{0}, 0) &= 0 \\ f_{2} (y_{0}, 0) &= y_{0} \\ h(y_{0}, 0) &= y_{0} + 1, \end{aligned}$$
-we obtain the family of solutions
-$$\begin{aligned} f_{1} (y_{0}, t) &= t \\ f_{2} (y_{0}, t) &= \tfrac{1}{12} t^{4} + (y_{0} + 1) t + y_{0} \\ h(y_{0}, t) &= \tfrac{1}{3} t^{3} + y_{0} + 1 \end{aligned}$$
-We next solve the equations
-$$\begin{aligned} g_{1}(f_{1}(y_{0}, t), f_{2}(y_{0}, t)) &= g_{1} (t, \tfrac{1}{12} t^{4} + (y_{0} + 1) t + y_{0}) = y_{0} \\ g_{2}(f_{1}(y_{0}, t), f_{2}(y_{0}, t))) &= g_{2} (t, \tfrac{1}{12} t^{4} + (y_{0} + 1) t + y_{0}) = t \end{aligned}$$
-to obtain
-$$\begin{aligned}  g_{1} (x, y) &= \frac{y - x^{4}/12 - x}{x + 1} \\ g_{2} (x, y) &= x. \end{aligned}$$
-So we have the solution to the partial differential equation:
-$$\begin{aligned}\phi(x, y) &= h (g (x, y)) \\ &=  \tfrac{1}{3} g_{1} (x,y)^{3} + g_{2} (x,y) + 1 \\ &= \frac{12 y + 3 x^4 + 4 x^3 + 12}{12 (x + 1)} \end{aligned}$$
-** LATER Non-linear equations
-:PROPERTIES:
-:done: 1625874388793
-:now: 1625874388055
-:later: 1625874393592
-:END:
 
 Now we generalize to non-linear equations of the form
 \[ H\left( \frac{\partial}{\partial q_{\cdot}} \phi(q), q_{\cdot} \right) = 0.\]
