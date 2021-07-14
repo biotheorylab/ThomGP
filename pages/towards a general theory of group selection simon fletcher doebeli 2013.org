@@ -15,4 +15,4 @@
 	- A General Definition of Group Selection
 	- Examples
 		- THE EVOLUTION OF COOPERATION IN HUNTER–GATHERER TRIBES
-		-
+		- STICKY CELL POPULATION DYNAMICS
