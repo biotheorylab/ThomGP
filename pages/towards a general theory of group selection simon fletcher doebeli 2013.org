@@ -1,2 +1,4 @@
 - #[[tag:paper]]
 - Reference
+  
+  Simon, B., Fletcher, J. A., & Doebeli, M. (2013). Towards a general theory of group selection. Evolution, 67(6), 1561–1572. https://doi.org/10.1111/j.1558-5646.2012.01835.x
