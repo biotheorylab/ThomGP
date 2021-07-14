@@ -26,3 +26,4 @@
 		- A.3. Taking the limit $m \to \infty$
 		- A.4. ODE approximation
 		- A.5. Integro-partial differential equation approximation
+		- A.6. Incorporating mutation
