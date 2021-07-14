@@ -1,3 +1,5 @@
+
+
 * #[[solution methods for differential equations]]
 *
 #+TITLE: Method of Characteristics
@@ -12,8 +14,6 @@
 :now: 1616193496303
 :later: 1616193492802
 :END:
-
-
 
  We begin with the linear differential equation of first order.  Since we are working locally, suppose that \(D\) is an open subset of \(\mathbb{R}^{n}\) and that functions \(a_{1}, \ldots, a_{n} \colon D \to \mathbb{R}\) have been specified.  (So as not to have to think too hard about such matters, let's assume that all functions are infinitely differentiable.)  We consider the differential equation
 $$\sum_{i=1}^{n} a_{i} (q) \frac{\partial \phi (q)}{\partial q_{i}} = 0 .$$
