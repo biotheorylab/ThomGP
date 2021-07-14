@@ -20,3 +20,5 @@
 		- 3.4. Population size matters
 	-
 	  4. Discussion and conclusion
+	- Appendix A. Basic mathematical framework
+		-
