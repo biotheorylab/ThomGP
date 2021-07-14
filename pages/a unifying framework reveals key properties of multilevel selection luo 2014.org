@@ -23,4 +23,4 @@
 	- Appendix A. Basic mathematical framework
 		- A.1. Mathematical description
 		- A.2. Stochastic implementation
-		-
+		- A.3. Taking the limit $m \to \infty$
