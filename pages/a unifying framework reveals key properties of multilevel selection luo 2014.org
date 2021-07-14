@@ -17,3 +17,5 @@
 		- 3.1. A single parameter in the large system limit
 		- 3.2. Relative replication rates matter
 		- 3.3. Mutation benefits the individual-advantageous type
+		- 3.4. Population size matters
+		-
