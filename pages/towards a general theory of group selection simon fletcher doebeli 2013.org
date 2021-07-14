@@ -14,4 +14,4 @@
 		- THE DYNAMICAL EQUATIONS FOR THE DETERMINISTIC MODEL
 	- A General Definition of Group Selection
 	- Examples
-	-
+-
