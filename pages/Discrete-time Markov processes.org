@@ -1,2 +1,2 @@
 * Here we systematically explain the theory of discrete-time Markov processes. For simplicity, we will restrict ourselves to finite state spaces.
-* Let $S$ denote the state space, which, for now, will be a finite set.
+* Let $S$ denote the state space, which, for now, will be a finite set.  Define the set of $n$-step histories as
