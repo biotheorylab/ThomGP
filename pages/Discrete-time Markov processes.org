@@ -6,4 +6,4 @@ $$p(q,t) = P(\{h \in H_{n} \mid h(t) = q\})$$
 ** The probability of making a transition from state $q$ to state $q'$ at time $t$:
 
 $$T(q'|q,t) = P(\{h \in H_{n} \mid h(t+1) = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
-* We now assume that the process is _one-step Markovian_, a.k.a. memoryless.
+* We now assume that the process is _one-step Markovian_, a.k.a. memoryless.  This means that the
