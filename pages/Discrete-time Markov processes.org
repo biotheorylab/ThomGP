@@ -1,3 +1,3 @@
 * Here we systematically explain the theory of discrete-time Markov processes. For simplicity, we will restrict ourselves to finite state spaces and keep time finite so as to keep the exposition elementary.
 * Let $S$ denote the state space, which, for now, will be a finite set.  Define the set of $n$-step histories as $H_{n} = \mathsf{Map}(\{0, 1, 2, \ldots n\}, S)$.  I.e. a history is a sequence of states labelled by times.  We may visualize a history as a path in the state space.  Optionally, we might endow $S$ with the structure of a graph and only take paths which lie in the graph as histories.
-* A _stochastic process_ is a probability distribution $P \in \mathcal{D}(H_n)$ on histories.  An important quantity associated to such a process is the probability of being in a
+* A _stochastic process_ is a probability distribution $P \in \mathcal{D}(H_n)$ on histories.  Two important quantity associated to such a process is the probability of being in a
