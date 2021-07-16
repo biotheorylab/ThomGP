@@ -1,1 +1,1 @@
-* Here we systematically develop the theory of discrete-time Markov
+* Here we systematically explain the theory of discrete-time Markov processes. For simplicity, we will
