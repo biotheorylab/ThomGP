@@ -1,1 +1,1 @@
-* Here we systematically define the notion of
+* Here we systematically develop the theory of discrete-time Markov
