@@ -4,6 +4,6 @@
 ** The probability of being in a found in a state $q$ at a time $t$:
 $$p(q,t) = P(\{h \in H_{n} \mid h(t) = q\})$$
 ** The probability of making a transition from state $q$ to state $q'$ at time $t$:
-:PROPERTIES:
-:END:
+
 $$T(q'|q,t) = P(\{h \in H_{n} \mid h(t+1) = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
+*
