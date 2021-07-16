@@ -1,1 +1,2 @@
-* Here we systematically explain the theory of discrete-time Markov processes. For simplicity, we will
+* Here we systematically explain the theory of discrete-time Markov processes. For simplicity, we will restrict ourselves to finite stat spaces.
+*
