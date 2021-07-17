@@ -1,2 +1,2 @@
 * [[Notation for Probability]]
-* [[Discrete-time Markov processes.org][Discrete-time Markov processes]]
+* [[Discrete-time Markov processes]]
