@@ -13,7 +13,6 @@ $$T(q', t' \mid q,t) = P(\{h \in H_{n} \mid h(t') = q'\} \mid \{h \in H_{n} \mid
 :now: 1626493521645
 :later: 1626493519349
 :END:
-
 $$T(q', t') p(q, t) = P(\{h \in H_{n} \mid h(t') = q' \land h(t) = q\}).$$
 Since histories may be partitioned into disjoint subsets according to their state at time $t$, we have
 $$\sum_{q \in S} P(\{h \in H_{n} \mid h(t') = q' \land h(t) = q\}) = P(\{h \in H_{n} \mid h(t') = q' \}).$$
