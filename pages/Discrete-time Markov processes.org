@@ -9,4 +9,4 @@ $$p(q,t) = P(\{h \in H_{n} \mid h(t) = q\})$$
 
 $$T(q', t' \mid q,t) = P(\{h \in H_{n} \mid h(t') = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
 * We now assume that the process is _one-step Markovian_, a.k.a. _memoryless_.  This means that future values only depend upon the present value and not on past values.  Formally, given any times $0 < t_1 < t_2 < t_3 < n$ and any $q_1, q_2, q_3 \in S$, we have
-$$ $$
+$$P $$
