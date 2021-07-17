@@ -14,4 +14,4 @@ $$\begin{aligned}\sum_{i \in I} P(A \mid B_{i} \cap C) P (B_{i} | C) &= \sum_{i 
 Now make the choices
 $$\begin{aligned} I &= S \\ A &=  \{h \in H_{n} \mid h(t_3) = q_{3}\} \\ B_{q_{2}} &= \{h \in H_{n} \mid h(t_2) = q_{2}\} \\ C &= \{h \in H_{n} \mid h(t_{1}) = q_{1}\}. \end{aligned}$$
 By definition of transition probabilities, we have 
-$$\begin{aligned} P(B_{q})\end{aligned}$$
+$$\begin{aligned} P(B_{q} | C) = \end{aligned}$$
