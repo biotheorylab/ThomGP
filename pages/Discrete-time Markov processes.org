@@ -5,5 +5,5 @@
 $$p(q,t) = P(\{h \in H_{n} \mid h(t) = q\})$$
 ** The probability of making a transition from state $q$ at time $t$ to state $q'$ at (a later) time $t$:
 
-$$T(q'|q,t) = P(\{h \in H_{n} \mid h(t+1) = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
+$$T(q', t' \mid q,t) = P(\{h \in H_{n} \mid h(t') = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
 * We now assume that the process is _one-step Markovian_, a.k.a. memoryless.  This means that future values only depend upon the present value and not on past values.  Specifically, given $
