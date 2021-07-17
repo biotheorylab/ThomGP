@@ -3,7 +3,7 @@
 * A _stochastic process_ is a probability distribution $P \in \mathcal{D}(H_n)$ on histories.  Two important quantities associated to such a process are:
 ** The probability of being in a found in a state $q$ at a time $t$:
 $$p(q,t) = P(\{h \in H_{n} \mid h(t) = q\})$$
-** The probability of making a transition from state $q$ to state $q'$ at time $t$:
+** The probability of making a transition from state $q$ at time $t$ to state $q'$ at (a later) time $t$:
 
 $$T(q'|q,t) = P(\{h \in H_{n} \mid h(t+1) = q'\} \mid \{h \in H_{n} \mid h(t) = q\})$$
 * We now assume that the process is _one-step Markovian_, a.k.a. memoryless.  This means that future values only depend upon the present value and not on past values.  Specifically, given $
