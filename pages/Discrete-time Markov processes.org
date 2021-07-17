@@ -21,7 +21,7 @@ Hence, we have the identity
 $$p(q', t') = \sum_{q \in S} T(q', t') p(q, t)$$
 which connects state probabilities and transition probabilities.  When we specialize to Markov processes, this identity will become the so-called _master equation_.
 * We now assume that the process is _one-step Markovian_, a.k.a. _memoryless_.  This means that future values only depend upon the present value and not on past values.  Formally, given any time $0 < t  < n$ and any $q \colon \{0, 1, \ldots t, t+1\} \to S$, we have
-$$\begin{aligned} &P (\{h \in H_{n} \mid h(t + 1) = q(t + 1)\} \mid \{h \in H_{n} \mid h(t) = q(t)\}) = \\ &P (\{h \in H_{n} \mid h(t + 1) = q_3\} \mid \{h \in H_{n} \mid h(t_2) = q_2 \land h(t_1) = q_1\}) \end{aligned}$$
+$$\begin{aligned} &P (\{h \in H_{n} \mid h(t + 1) = q(t + 1)\} \mid \{h \in H_{n} \mid h(t) = q(t)\}) = \\ &P (\{h \in H_{n} \mid h(t + 1) = q(t + 1)\} \mid \{h \in H_{n} \mid h(t_2) = q_2 \land h(t_1) = q_1\}) \end{aligned}$$
 ** By marginalizing, we conclude that, for times $0 < t_1 < t_2 < t_3 < n$ and values $q_1, q_2, q_3 \in S$, we have
 $$\begin{aligned} &P (\{h \in H_{n} \mid h(t_3) = q_3\} \mid \{h \in H_{n} \mid h(t_2) = q_2\}) = \\ &P (\{h \in H_{n} \mid h(t_3) = q_3\} \mid \{h \in H_{n} \mid h(t_2) = q_2 \land h(t_1) = q_1\}) \end{aligned}$$
 * Next, we derive an important identity for Markov processes.
