@@ -33,5 +33,5 @@ $$\begin{aligned} P(A \mid C) &= T(q_3, t_3 \mid q_1, t_1) \\ P(A \mid B_{q_2}) 
 ** Putting the pieces together, we obtain the identity
 $$T(q_3, t_3 \mid q_1, t_1) = \sum_{q_2 \in S} T(q_3, t_3 \mid q_2, t_2) T(q_2, t_2 \mid q_1, t_1) $$
 which is known as the _Chapman-Komolgorov Equation_.  Notationally, it is convenient to express this identity and the master equation in matrix form:
-$$\begin{aligned}  \end{aligned}$$
+$$\begin{aligned} \ \end{aligned}$$
 * By iterating this identity, we may
