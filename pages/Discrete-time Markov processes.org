@@ -11,4 +11,4 @@ $$T(q', t' \mid q,t) = P(\{h \in H_{n} \mid h(t') = q'\} \mid \{h \in H_{n} \mid
 $$\begin{aligned} &P (\{h \in H_{n} \mid h(t_3) = q_3\} \mid \{h \in H_{n} \mid h(t_2) = q_2\}) = \\ &P (\{h \in H_{n} \mid h(t_3) = q_3\} \mid \{h \in H_{n} \mid h(t_2) = q_2 \land h(t_1) = q_1\}) \end{aligned}$$
 * As a consequence of this definition, we derive three important identities:
 ** We begin with a general observation about conditional probabilities.  Suppose that a family of events $B_{i}$ indexed by some set $I$ partition the sample space.  Then given events $A$ and $C$, we have
-$$\begin{aligned}\sum_{i \in I} P(A \mid B_{i} \cap C) P (B_{i} | C) &= \sum_{i \in I} \frac{P(A \cap B_{i} \cap C)}{P(B \cap C)} \frac{P(B_{i} \cap C)}{P(C)} \\ &= \frac{1}{P(C)} \frac{P(A \cap B_{i} \cap C)} \\ &= \frac{P(A \cap C)}{P(C)} = P(A \mid C) \end{aligned} $$
+$$\begin{aligned}\sum_{i \in I} P(A \mid B_{i} \cap C) P (B_{i} | C) &= \sum_{i \in I} \frac{P(A \cap B_{i} \cap C)}{P(B \cap C)} \frac{P(B_{i} \cap C)}{P(C)} \\ &= \frac{1}{P(C)} \end{aligned} $$
