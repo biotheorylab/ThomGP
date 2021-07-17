@@ -36,6 +36,6 @@ which is known as the _Chapman-Komolgorov Equation_.
 * Notationally, it is convenient to suppress the summations by expressing this identity and the master equation in matrix form:  
 $$\begin{aligned} \mathbf{T}(t_3, t_1) &= \mathbf{T}(t_3, t_2) \mathbf{T}(t_2, t_1) \\ \mathbf{p}(t_2) &= \mathbf{T}(t_2, t_1) \mathbf{p}(t_1) \end{aligned}$$
 To define this, we may pick a basis $\{e_i \mid i \in S \}$ of the vector space $\mathbb{R}^S$.  Denote the corresponding dual basis as $\{\tilde{e}_i \mid i \in S \}$ and set
-$$\begin{aligned} \mathbf{p}(t) &= \sum_{q \in S}   \end{aligned}$$
+$$\begin{aligned} \mathbf{p}(t) &= \sum_{q \in S} p(q, t) e_{q} \\ \mathbf{T}(t_2, t_1) &= \sum_{q_1, q_2 \in S} e_{} \end{aligned}$$
 * By iterating this Chapman-Komogorov equation, we may break down a transition probability into more pieces and ultimately into one-step transition probabilities:
 $$\mathbf{T}(t_2, t_1) = \prod_{t = t_1}^{t_2 - 1} \mathbf{T}(t+1, t)$$
