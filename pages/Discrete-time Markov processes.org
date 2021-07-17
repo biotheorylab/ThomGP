@@ -41,4 +41,4 @@ To define this, we may pick a basis $\{e_i \mid i \in S \}$ of the vector space 
 $$\begin{aligned} \mathbf{p}(t) &= \sum_{q \in S} p(q, t) \, e_{q} \\ \mathbf{T}(t_2, t_1) &= \sum_{q_1, q_2 \in S} T(q_2, t_2 \mid q_1, t_1) \, e_{q_1} \otimes \tilde{e}_{q_2} \end{aligned}$$
 * By iterating the Chapman-Komogorov equation, we may break down a transition probability into more pieces and ultimately into one-step transition probabilities:
 $$\mathbf{T}(t_2, t_1) = \prod_{t = t_1}^{t_2 - 1} \mathbf{T}(t+1, t).$$
-* We can also recover the probability distribution from the one-step transition probabilities and the probability of the initial state.  Given a history $k \in H_{n}$, we would like to compute $P({k})
+* We can also recover the probability distribution from the one-step transition probabilities and the probability of the initial state.  Given a history $k \in H_{n}$, we would like to compute $P(\{k\})$.
