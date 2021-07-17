@@ -1,3 +1,4 @@
 * [[Notation for Probability]]
 * [[Discrete-time Markov processes]]
-* [[file:./continuous-time_markov_processes.org][Continuous-time Markov processes]]
+*
+* [[Continuous-time Markov processes]]
