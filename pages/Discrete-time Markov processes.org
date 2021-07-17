@@ -18,4 +18,4 @@ $$\begin{aligned} I &= S \\ A &=  \{h \in H_{n} \mid h(t_3) = q_{3}\} \\ B_{q_{2
 $$\begin{aligned} P(A \mid C) &= T(q_3, t_3 \mid q_1, t_1) \\ P(A \mid B_{q_2}) &= T(q_3, t_3 \mid q_2, t_2)  \\ P(B_{q_2} | C) &= T(q_2, t_2 \mid q_1, t_1). \end{aligned}$$
 ** By the Markov property, we have $P(A | B_{i} \cap C) = P(A \mid B_{i})$.
 ** Putting the pieces together, we have the identity
-$$T(q_3, t_3 \mid q_1, t_1) = \sum_{q_2 \in S} $$
+$$T(q_3, t_3 \mid q_1, t_1) = \sum_{q_2 \in S} T(q_3, t_3 \mid q_1, t_1) T(q_3, t_3 \mid q_1, t_1) $$
