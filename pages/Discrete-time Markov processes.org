@@ -48,6 +48,7 @@ $$\mathbf{T}(t_2, t_1) = \prod_{t = t_1}^{t_2 - 1} \mathbf{T}(t+1, t).$$
 :later: 1626567798887
 :END:
 
+
 $$\{k\} = \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, n\} \,.\, h(j) = k(j)\}.$$
 By the definition of Markov process,
 $$\begin{aligned} &T(k(t+1), t+1 \mid k(t), t) \\ &=P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid h(t) = k(t)\}) \\ &=P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\}) \\ &=\frac{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t+1\} \,.\, h(j) = k(j)\})}{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\})} \end{aligned}$$
@@ -55,3 +56,4 @@ Since successive numerators and denominators cancel, the product collapses:
 $$\begin{aligned}\prod_{t=0}^{n-1} T(k(t+1), t+1 \mid k(t), t) &= \frac{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, n\} \,.\, h(j) = k(j)\})}{P(\{h \in H_{n} \mid h(0) = k(0)\})} \\ &= \frac{P(\{k\})}{p(k(0), 0)} \end{aligned}$$
 Rearranging, we obtain the desired formula:
 $$P(\{k\}) = p(k(0), 0) \prod_{t=0}^{n-1} T(k(t+1), t+1 \mid k(t), t)$$
+*
