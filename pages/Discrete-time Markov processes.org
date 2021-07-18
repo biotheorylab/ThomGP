@@ -44,4 +44,4 @@ $$\mathbf{T}(t_2, t_1) = \prod_{t = t_1}^{t_2 - 1} \mathbf{T}(t+1, t).$$
 * We can also recover the probability distribution from the one-step transition probabilities and the probability of the initial state.  Given a history $k \in H_{n}$, we would like to compute $P(\{k\})$.  Tautologously, we have 
 $$\{k\} = \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, n\} \,.\, h(j) = k(j)\}.$$
 By the definition of Markov process,
-$$\begin{aligned} &T(k(t+1), t+1 \mid k(t), t) \\ =&P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid h(t) = k(t)\}) = \\ &P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\}) \end{aligned}$$
+$$\begin{aligned} &T(k(t+1), t+1 \mid k(t), t) \\ =&P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid h(t) = k(t)\}) \\ =&P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\}) \\ =\end{aligned}$$
