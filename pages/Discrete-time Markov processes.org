@@ -46,4 +46,4 @@ $$\{k\} = \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, n\} \,.\, h(j) = k(j)
 By the definition of Markov process,
 $$\begin{aligned} &T(k(t+1), t+1 \mid k(t), t) \\ &=P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid h(t) = k(t)\}) \\ &=P(\{h \in H_{n} \mid h(t+1) = k(t+1)\} \mid \{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\}) \\ &=\frac{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t+1\} \,.\, h(j) = k(j)\})}{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\})} \end{aligned}$$
 Since successive numerators and denominators cancel, the product collapses
-$$\prod_{t=0}^{n-1} T(k(t+1), t+1 \mid k(t), t) = \frac{}$$
+$$\prod_{t=0}^{n-1} T(k(t+1), t+1 \mid k(t), t) = \frac{P(\{h \in H_{n} \mid \forall j \in \{0, 1, \ldots, t\} \,.\, h(j) = k(j)\})}$$
